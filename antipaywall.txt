@@ -1,0 +1,20 @@
+! Title: Anti-paywall filters
+! Expires: 3 days
+! Description: Filters to defuse or block paywalls and subscriptions nags on news websites
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+! 
+
+! General
+||news.google.com/swg/$script
+
+! Los Angeles Times (latimes.com)
+||californiatimes.com^*/Bootstrap.js$script
+||californiatimes.com/meter/$script
+
+! The New York Times (nytimes.com)
+||meter-svc.nytimes.com/meter.js?
+||nytimes.com^*/metered_assets/
+||nyt.com^*/metered_assets$script
+nytimes.com##.magnoliaDock
+nytimes.com##div[data-testid="inline-message"]
