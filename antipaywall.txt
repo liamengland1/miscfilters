@@ -36,3 +36,15 @@ auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktr
 
 ! The Globe and Mail (theglobeandmail.com)
 theglobeandmail.com###subscription-pencil-area
+
+! Washington Post (washingtonpost.com)
+||washingtonpost.com^*/pwapi-$script
+||washingtonpost.com/subscribe/paywall/
+||washingtonpost.com/subscribe/pw/
+||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
+||washingtonpost.com/subscribe/logging/
+washingtonpost.com##[class^="pb-f-ad-"]
+washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
+washingtonpost.com##.pb-lgmod
+washingtonpost.com##.promo
+washingtonpost.com##[data-chain-name="brandconnect-chain"]
