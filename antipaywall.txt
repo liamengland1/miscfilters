@@ -1,13 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: Anti-paywall filters
 ! Expires: 3 days
-! Description: Filters to defuse paywalls, subscriptions nags, and anti-adblock on news websites
+! Description: Filters to defuse paywalls, subscriptions nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
-! 
+!#include uBo-ext/antipaywall-uBo.txt
 
 ! General
 ||news.google.com/swg/$script
+
+! Town News
+@@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
+||townnews.com^*/promo_popup.$script
+||townnews.com^*/tncms/*/metering/
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
@@ -19,3 +24,15 @@
 ||nyt.com^*/metered_assets$script
 nytimes.com##.magnoliaDock
 nytimes.com##div[data-testid="inline-message"]
+
+! Lee Enterprises sites
+||townnews.com^*/lee_subscription/
+auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,helenair.com,herald-review.com,jg-tc.com,journalstar.com,journaltimes.com,kenoshanews.com,lacrossetribune.com,lompocrecord.com,madison.com,magicvalley.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,nwitimes.com,pantagraph.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,siouxcityjournal.com,stltoday.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,winonadailynews.com,wiscnews.com##.ad-col
+||townnews.com/stltoday.com/*/stl.init.js$script,domain=stltoday.com
+
+! Bloomberg (bloomberg.com)
+||assets.bwbx.io/s3/fence/$script
+||assets.bwbx.io^*/pianola/$script
+
+! The Globe and Mail (theglobeandmail.com)
+theglobeandmail.com###subscription-pencil-area
