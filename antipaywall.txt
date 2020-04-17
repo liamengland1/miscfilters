@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Anti-paywall filters
 ! Expires: 3 days
-! Description: Filters to defuse or block paywalls and subscriptions nags on news websites
+! Description: Filters to defuse paywalls, subscriptions nags, and anti-adblock on news websites
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 ! 
