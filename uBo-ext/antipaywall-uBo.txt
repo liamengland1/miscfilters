@@ -4,3 +4,6 @@ richmond.com##+js(acis, $, reg-wall)
 ! The Globe and Mail (theglobeandmail.com)
 theglobeandmail.com##+js(set, keytar.accessAllowed, true)
 theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
+
+! Washington Post (washingtonpost.com)
+washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
