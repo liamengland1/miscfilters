@@ -1,2 +1,6 @@
 ! Town News
 richmond.com##+js(acis, $, reg-wall)
+
+! The Globe and Mail (theglobeandmail.com)
+theglobeandmail.com##+js(set, keytar.accessAllowed, true)
+theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
