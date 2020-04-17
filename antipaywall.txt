@@ -51,3 +51,7 @@ washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
 washingtonpost.com##.pb-lgmod
 washingtonpost.com##.promo
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
+
+! The Economist (economist.com)
+economist.com##.advert
+economist.com##.subscription-proposition
