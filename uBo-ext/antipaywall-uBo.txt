@@ -7,3 +7,6 @@ theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
 
 ! Washington Post (washingtonpost.com)
 washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
+
+! The Economist (economist.com)
+economist.com##+js(json-prune, props)
