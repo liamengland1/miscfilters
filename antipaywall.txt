@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Anti-paywall filters
 ! Expires: 3 days
-! Description: Filters to defuse paywalls, subscription nags, annoying modals, anti-adblock, and empty ad spaces on news websites
+! Description: Filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with Adblock Plus, however, it is recommended to use uBlock Origin.
@@ -61,6 +61,12 @@ bostonglobe.com###arcad_recirc
 ! Quartz (qz.com)
 qz.com##._6f0a2
 qz.com##[aria-labelledby="bottom-bar-primary-text"]
+
+! The Christian Science Monitor (csmonitor.com)
+csmonitor.com##[id^="csm-promotions-banner"]
+csmonitor.com##[id^="home-subscribe-ad"]
+csmonitor.com##.preloaded_lightbox
+csmonitor.com##.injection
 
 ! Include uBo-specific filterlist extension
 !#include uBo-ext/antipaywall-uBo.txt
