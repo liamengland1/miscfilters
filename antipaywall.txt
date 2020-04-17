@@ -59,3 +59,7 @@ economist.com##.subscription-proposition
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
 bostonglobe.com###arcad_recirc
+
+! Quartz (qz.com)
+qz.com##._6f0a2
+qz.com##[aria-labelledby="bottom-bar-primary-text"]
