@@ -8,6 +8,7 @@
 
 ! General
 ||news.google.com/swg/$script
+||tinypass.com^$3p
 
 ! Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
