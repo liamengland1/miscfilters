@@ -4,9 +4,7 @@
 ! Description: Filters to defuse paywalls, subscription nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
-
-! Include uBo-specific filterlist extension
-!#include uBo-ext/antipaywall-uBo.txt
+! This filterlist is compatible with Adblock Plus, however, it is recommended to use uBlock Origin.
 
 ! General
 ||news.google.com/swg/$script
@@ -63,3 +61,6 @@ bostonglobe.com###arcad_recirc
 ! Quartz (qz.com)
 qz.com##._6f0a2
 qz.com##[aria-labelledby="bottom-bar-primary-text"]
+
+! Include uBo-specific filterlist extension
+!#include uBo-ext/antipaywall-uBo.txt
