@@ -22,3 +22,6 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 ! The Boston Globe (bostonglobe.com)
 @@||meter.bostonglobe.com^$script,1p
 bostonglobe.com##+js(nostif, p&&p[g])
+
+! Quartz (qz.com)
+qz.com##+js(json-prune, read)
