@@ -7,9 +7,10 @@
 ! This filterlist is compatible with Adblock Plus, however, it is recommended to use uBlock Origin.
 
 ! General
-||news.google.com/swg/$script
-||tinypass.com^$3p
-||mediapass.com^$3p
+||news.google.com/swg/$script,third-party
+||tinypass.com^$third-party
+||mediapass.com^$third-party
+||scroll.com^$third-party
 
 ! Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
