@@ -14,6 +14,7 @@
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
 ||townnews.com^*/promo_popup.$script
 ||townnews.com^*/tncms/*/metering/
+##.tnt-section-sponsored
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
