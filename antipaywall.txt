@@ -53,6 +53,10 @@ washingtonpost.com##.pb-lgmod
 washingtonpost.com##.promo
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
 
+! Arc Publishing
+##.arc-ad-wrapper
+##.pb-f-ads-arcads
+
 ! The Economist (economist.com)
 economist.com##.advert
 economist.com##.subscription-proposition
