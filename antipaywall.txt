@@ -11,6 +11,7 @@
 ||tinypass.com^$third-party
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
+||wallkit.net^$third-party
 
 ! Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
@@ -96,6 +97,9 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||mg2connext.com^$3p
 ||marketingg2.com^$3p
 ||flittz.com^$3p
+
+! The Wrap (thewrap.com)
+thewrap.com##[id*="-box-ad-"]
 
 ! Include uBo-specific filterlist extension
 !#include uBo-ext/antipaywall-uBo.txt
