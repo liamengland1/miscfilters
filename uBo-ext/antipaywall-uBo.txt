@@ -33,3 +33,6 @@ csmonitor.com##+js(json-prune, ids, limit)
 australvaldivia.cl##body:style(overflow:auto!important)
 australvaldivia.cl##.modal-wrapper
 australvaldivia.cl##+js(ra, oncontextmenu)
+
+! The Business Journals (bizjournals.com)
+bizjournals.com##+js(set, __page__.isPremium, false)
