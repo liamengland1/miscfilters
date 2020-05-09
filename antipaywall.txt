@@ -101,5 +101,8 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ! The Wrap (thewrap.com)
 thewrap.com##[id*="-box-ad-"]
 
+! El Mercurio - Print Edition (elmercurio.com)
+||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
+
 ! Include uBo-specific filterlist extension
 !#include uBo-ext/antipaywall-uBo.txt
