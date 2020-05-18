@@ -8,6 +8,7 @@
 
 ! General
 ||news.google.com/swg/$script,third-party
+||smartlock.google.com^$third-party
 ||tinypass.com^$third-party
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
