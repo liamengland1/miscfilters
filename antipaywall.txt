@@ -86,18 +86,18 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ://media.*/misites/$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 
 ! Connext / Flittz
-||czx5eyk0exbhwp43ya.biz^$3p
-||ayc0zsm69431gfebd.info^$3p
-||ayc0zsm69431gfebd.xyz^$3p
-||g2insights-cdn.azureedge.net^$3p
-||loader-cdn.azureedge.net^$3p
-||fp-cdn.azureedge.net^$3p
-||flittz-cdn.azureedge.net^$3p
-||prod-mng-proxy-connext.azurewebsites.net^$3p
-||connext-cdn.ec.azureedge.net^$3p
-||mg2connext.com^$3p
-||marketingg2.com^$3p
-||flittz.com^$3p
+||czx5eyk0exbhwp43ya.biz^$third-party
+||ayc0zsm69431gfebd.info^$third-party
+||ayc0zsm69431gfebd.xyz^$third-party
+||g2insights-cdn.azureedge.net^$third-party
+||loader-cdn.azureedge.net^$third-party
+||fp-cdn.azureedge.net^$third-party
+||flittz-cdn.azureedge.net^$third-party
+||prod-mng-proxy-connext.azurewebsites.net^$third-party
+||connext-cdn.ec.azureedge.net^$third-party
+||mg2connext.com^$third-party
+||marketingg2.com^$third-party
+||flittz.com^$third-party
 
 ! The Wrap (thewrap.com)
 thewrap.com##[id*="-box-ad-"]
