@@ -30,6 +30,9 @@
 ||nyt.com^*/metered_assets$script
 nytimes.com##.magnoliaDock
 nytimes.com##div[data-testid="inline-message"]
+nytimes.com##.gdpr
+nytimes.com##div[data-testid="expanded-dock"]
+nytimes.com###credential_picker_container
 
 ! Lee Enterprises sites
 ||townnews.com^*/lee_subscription/
