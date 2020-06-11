@@ -42,6 +42,7 @@ auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktr
 ! Bloomberg (bloomberg.com)
 ||assets.bwbx.io/s3/fence/$script
 ||assets.bwbx.io^*/pianola/$script
+bloomberg.com###pathfinder-tout
 
 ! The Globe and Mail (theglobeandmail.com)
 theglobeandmail.com###subscription-pencil-area
