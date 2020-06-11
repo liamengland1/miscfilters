@@ -40,4 +40,4 @@ bizjournals.com##+js(set, __page__.isPremium, false)
 ! Harper's Magazine (harpers.org)
 ||harpers.org^*/pum/
 ||harpers.org^*/leaky-paywall/
-harpers.org##.single article .entry-content:style(display:block!important)
+harpers.org##article.single:style(display:block!important)
