@@ -71,6 +71,7 @@ amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
 amazon.*##.acs-shwcs-widget
 amazon.*###nav-swmslot
 amazon.*##.tst-superhero
+amazon.*###UnlimitedUpsellContainer
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
