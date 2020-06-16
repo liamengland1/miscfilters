@@ -21,7 +21,6 @@ findagrave.com##.containad
 ||pinterest.com^*TrackAction
 ||pinterest.com^*ActivateExperimentResource
 ||pinterest.com^*ActiveUserResource
-
 !||pinimg.com^*/pjs-UnauthBannerSignupModal-$script,redirect=noop.js
 !||pinimg.com^*/pjs-UnauthBoardPagePreloadSignupContainer-$script,redirect=noop.js
 !pinterest.com##+js(set, Error, noopFunc)
@@ -34,7 +33,6 @@ findagrave.com##.containad
 pinterest.com##main[data-test-id="unauthPinPage"] ~ div[data-test-id="fullPageSignupModal"]
 pinterest.com##body:style(overflow:scroll!important)
 !pinterest.com##+js(json-prune)
-
 !pinterest.com##+js(aell)
 !pinterest.com##+js(aeld, /unload|mousedown/, unauth)
 ! pinterest.com##+js(aeld, click, /[a-z]{0}/) # breaks stuff
@@ -1835,6 +1833,7 @@ amazon.*##.tst-superhero
 !||segment.com^$domain=repl.it|lite.cnn.io|powtoon.com|foxnews.com|reuters.com|reuters.tv|fox.com,important
 @@||segment.com/analytics.js/*/analytics.min.js$script,badfilter
 @@||segment.io/analytics.js/*/analytics.min.js$script,badfilter
+@@||eval.repl.it/wsv2/$websocket,1p
 
 ! 6/9/2019 walmart.com
 /api/log|$xhr,ping
@@ -5137,7 +5136,7 @@ spanishdict.com###adTopLarge
 /api/dwh
 ||geoip.ifunny.co^
 *$ping,beacon
-*$websocket,domain=~repl.it|~chatango.com|~speedtest.net|~wolframalpha.com|~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+*$websocket,domain=~chatango.com|~speedtest.net|~wolframalpha.com|~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
 @@||74.82.153.108^
 
 ! 9/23/2019 monday.com
