@@ -1,0 +1,37 @@
+! Title: Anti-websocket filters
+! Expires: 3 days
+! Description: Block websockets when possible
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+
+*$websocket,domain=~pearson.com|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+
+@@||guc-dealer.spotify.com^$websocket
+@@||edge-chat.instagram.com/chat$websocket,1p
+@@||chat.twitch.tv^$websocket,1p
+@@||pubsub-edge.twitch.tv^$websocket,1p
+@@||frankerfacez.com^$websocket,domain=twitch.tv
+@@||betterttv.net/ws$websocket,domain=twitch.tv
+@@$websocket,domain=discordapp.com|discord.com
+@@||eval.repl.it/wsv2/$websocket,1p
+@@||web.whatsapp.com/ws$websocket,domain=web.whatsapp.com
+@@||chatango.com^$websocket,domain=st.chatango.com
+@@||wolframalpha.com^$websocket,1p
+@@||ws.saavn.com^$websocket,domain=jiosaavn.com
+@@||stream.watsonplatform.net^$websocket,domain=speech-to-text-demo.ng.bluemix.net
+@@||figma.com^$websocket,1p
+@@$websocket,domain=app.slack.com
+@@$websocket,domain=educationincites.com
+@@||ws-prod.plug.dj/socket$websocket,1p
+@@||lichess.org/analysis/socket/$websocket,1p
+!@@||ums.ustream.tv^$websocket,1p
+@@||pscp.tv/chatapi/$websocket,1p
+@@||zoho.com/w_socket$websocket,domain=assist.zoho.com
+@@||mafiah5gate.yottagames.com:25024/ws$websocket,domain=mafiah5cdn.akamaized.net
+@@||web.voice.telephony.goog/websocket$websocket,domain=voice.google.com
+@@||api.fifteen.ai^$websocket,1p
+@@||certstream.calidog.io^$websocket,domain=ct.datadrifter.xyz
+@@||clickclickclick.click/socket.io/*$websocket,1p
+@@||loc-d.variflight.com^$websocket,domain=flightadsb.variflight.com
+@@||docker.events.cube365.net^$websocket,1p
+@@||airmash.online^$websocket,domain=airmash.online|starma.sh|steamroller.tk|airmash.cc|spatiebot.github.io
