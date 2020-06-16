@@ -1,3 +1,9 @@
+! Title: My custom filters
+! Expires: 1 day
+! Description: My custom filters
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+
 !$xmlhttprequest
 !the above filter will break the internet
 
@@ -5136,8 +5142,6 @@ spanishdict.com###adTopLarge
 /api/dwh
 ||geoip.ifunny.co^
 *$ping,beacon
-*$websocket,domain=~pearson.com|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
-@@||chatango.com^$websocket,domain=st.chatango.com
 @@||74.82.153.108^
 
 ! 9/23/2019 monday.com
@@ -9440,4 +9444,3 @@ discord.me##.content-unit
 
 ! 6/15/2020 airmash.cc
 @@||github.io^$domain=airmash.cc
-@@||airmash.online^$websocket,domain=airmash.online|starma.sh|steamroller.tk|airmash.cc|spatiebot.github.io
