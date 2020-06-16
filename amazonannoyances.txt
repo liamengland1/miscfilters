@@ -72,6 +72,7 @@ amazon.*##.acs-shwcs-widget
 amazon.*###nav-swmslot
 amazon.*##.tst-superhero
 amazon.*###UnlimitedUpsellContainer
+amazon.*###zg-other-container
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
