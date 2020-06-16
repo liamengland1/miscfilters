@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
+! Network rules 
 ||amazonpay.com^$3p
 ||static-na.payments-amazon.com^$3p
 ! @@||amazon.*/*uedata$image,1p,badfilter
@@ -17,7 +18,6 @@
 /ClientSideMetrics
 !||amazon.com/vap/*
 ||amazon.*/vap/*/feedback$xhr
-# amazon.com##+js(nano-stb, next, 15000) - amazon giveaway no longer exists
 /stream-logging
 /log-data
 /uploadMetrics
@@ -28,19 +28,12 @@
 /refMarkerTarget.html
 ||media-amazon.com^*/metrics.
 ||ssl-images-amazon.com^*vowels$important
-amazon.*##div[class*="pd_rd_"][cel_widget_id]:has(a[href^="/b/ref"])
-amazon.*##.bx-root
-!amazon.com##.acswidget
 ! @@||fls-*.amazon.com^*/aiv-web-player/$xmlhttprequest,badfilter
 /ReportEvent?
 /Clickstream?
-amazon.*###universal-detail-ilm
 ||ssl-images-amazon.com/images/I/$script
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
-amazon.com##+js(nostif, /\.executed/)
 ||amazon.com^*/monitoring.html
-
-
 /cdp/usage/*
 ||aiv-delivery.net/Events/*
 ||aiv-delivery.net^$3p
@@ -51,11 +44,13 @@ amazon.com##+js(nostif, /\.executed/)
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s
 ||videorolls.row.aiv-cdn.net^
 ||amazon.com/*/metrics/
-! amazon.cn
-amazon.cn###desktop-sidekick-5
-amazon.cn###ctads
-amazon.cn###dpx-promotion-upsell_feature_div
-! end amazon.cn
+
+! Amazon element hiding
+
+!amazon.com##.acswidget
+amazon.*##div[class*="pd_rd_"][cel_widget_id]:has(a[href^="/b/ref"])
+amazon.*##.bx-root
+amazon.*###universal-detail-ilm
 amazon.*##.s-shopping-adviser
 amazon.*###hqpWrapper
 amazon.*###desktop-banner
@@ -73,7 +68,16 @@ amazon.*###promotions_feature_div
 amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
 amazon.*##.acs-shwcs-widget
 amazon.*###nav-swmslot
+amazon.*##.tst-superhero
 blog.aboutamazon.com##.PromoImage
+
+! Amazon CN element hiding
+
+amazon.cn###desktop-sidekick-5
+amazon.cn###ctads
+amazon.cn###dpx-promotion-upsell_feature_div
+
+! IMDB element hiding 
+
 imdb.com##.promoted-watch-ad
 imdb.com##.buybox__modal
-amazon.*##.tst-superhero
