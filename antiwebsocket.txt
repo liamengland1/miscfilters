@@ -4,7 +4,10 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
-*$websocket,domain=~pearson.com|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+*$websocket
+
+! TODO: Get rid of generic exceptions
+@@$websocket,domain=discordapp.com|discord.com|app.slack.com|educationincites.com|pearson.com|browserling.com|midomi.com|zoom.us|us.bbcollab.com|reddit.com|spark.adobe.com|kahoot.it|mem.rip|omegaboot.com
 
 @@||guc-dealer.spotify.com^$websocket
 @@||edge-chat.instagram.com/chat$websocket,1p
@@ -12,7 +15,6 @@
 @@||pubsub-edge.twitch.tv^$websocket,1p
 @@||frankerfacez.com^$websocket,domain=twitch.tv
 @@||betterttv.net/ws$websocket,domain=twitch.tv
-@@$websocket,domain=discordapp.com|discord.com
 @@||eval.repl.it/wsv2/$websocket,1p
 @@||web.whatsapp.com/ws$websocket,domain=web.whatsapp.com
 @@||chatango.com^$websocket,domain=st.chatango.com
@@ -20,8 +22,6 @@
 @@||ws.saavn.com^$websocket,domain=jiosaavn.com
 @@||stream.watsonplatform.net^$websocket,domain=speech-to-text-demo.ng.bluemix.net
 @@||figma.com^$websocket,1p
-@@$websocket,domain=app.slack.com
-@@$websocket,domain=educationincites.com
 @@||ws-prod.plug.dj/socket$websocket,1p
 @@||lichess.org/analysis/socket/$websocket,1p
 @@||pscp.tv/chatapi/$websocket,1p
