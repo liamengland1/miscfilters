@@ -7,7 +7,10 @@
 ! Network rules 
 ||amazonpay.com^$3p
 ||static-na.payments-amazon.com^$3p
-! @@||amazon.*/*uedata$image,1p,badfilter
+||fls-*.amazon.*&$important
+||fls-*.amazon.*%$important
+||amazon.*/uedata?$important
+||amazon.*/1/*/OE$important
 !||amazon.*/*ClientSideMetrics*@*.js
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
@@ -28,7 +31,6 @@
 /refMarkerTarget.html
 ||media-amazon.com^*/metrics.
 ||ssl-images-amazon.com^*vowels$important
-! @@||fls-*.amazon.com^*/aiv-web-player/$xmlhttprequest,badfilter
 /ReportEvent?
 /Clickstream?
 ||ssl-images-amazon.com/images/I/$script
