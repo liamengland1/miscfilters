@@ -1,0 +1,79 @@
+! Title: Amazon annoyances
+! Expires: 1 day
+! Description: Block annoyances, ads, and tracking on Amazon and IMDB
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+
+||amazonpay.com^$3p
+||static-na.payments-amazon.com^$3p
+! @@||amazon.*/*uedata$image,1p,badfilter
+!||amazon.*/*ClientSideMetrics*@*.js
+||amazon.*/*msa/vowels/
+!/metrics$xmlhttprequest,other,image
+||amazon.*/1/*/OE
+!stats/logImpressions
+/logImp
+/log-metrics
+/ClientSideMetrics
+!||amazon.com/vap/*
+||amazon.*/vap/*/feedback$xhr
+# amazon.com##+js(nano-stb, next, 15000) - amazon giveaway no longer exists
+/stream-logging
+/log-data
+/uploadMetrics
+||music.amazon.*/*/api/cirrus/v3/
+/recordWeblabTrigger.html
+/recImpression
+/ajax-refmarker
+/refMarkerTarget.html
+||media-amazon.com^*/metrics.
+||ssl-images-amazon.com^*vowels$important
+amazon.*##div[class*="pd_rd_"][cel_widget_id]:has(a[href^="/b/ref"])
+amazon.*##.bx-root
+!amazon.com##.acswidget
+! @@||fls-*.amazon.com^*/aiv-web-player/$xmlhttprequest,badfilter
+/ReportEvent?
+/Clickstream?
+amazon.*###universal-detail-ilm
+||ssl-images-amazon.com/images/I/$script
+@@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
+amazon.com##+js(nostif, /\.executed/)
+||amazon.com^*/monitoring.html
+
+
+/cdp/usage/*
+||aiv-delivery.net/Events/*
+||aiv-delivery.net^$3p
+||aiv-cdn.net/interstitial/*$media,redirect=noopmp3-0.1s
+||a72avoddashs3ww-a.akamaihd.net/interstitial/*$xhr,redirect=noop.txt
+||a302avoddashs3ww-a.akamaihd.net/interstitial/*$xhr,redirect=noop.txt
+@@||atv-ps.amazon.com/cdp/usage/GetAppStartupConfig?$xhr,1p
+||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s
+||videorolls.row.aiv-cdn.net^
+||amazon.com/*/metrics/
+! amazon.cn
+amazon.cn###desktop-sidekick-5
+amazon.cn###ctads
+amazon.cn###dpx-promotion-upsell_feature_div
+! end amazon.cn
+amazon.*##.s-shopping-adviser
+amazon.*###hqpWrapper
+amazon.*###desktop-banner
+amazon.*###hero-quick-promo
+amazon.*###quickPromoBucketContent
+amazon.*###rhf
+amazon.*###dmusicPrimeButton_feature_div
+amazon.*##[id^="p13n-"]
+amazon.*##.acsUxWidget
+amazon.*##[role="banner"]>*:not(br)
+amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
+amazon.*##.maple-banner
+amazon.*##[id^="sims-"]
+amazon.*###promotions_feature_div
+amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
+amazon.*##.acs-shwcs-widget
+amazon.*###nav-swmslot
+blog.aboutamazon.com##.PromoImage
+imdb.com##.promoted-watch-ad
+imdb.com##.buybox__modal
+amazon.*##.tst-superhero
