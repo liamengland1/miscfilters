@@ -5136,7 +5136,8 @@ spanishdict.com###adTopLarge
 /api/dwh
 ||geoip.ifunny.co^
 *$ping,beacon
-*$websocket,domain=~chatango.com|~speedtest.net|~wolframalpha.com|~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+*$websocket,domain=~speedtest.net|~wolframalpha.com|~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+@@||chatango.com^$websocket,domain=st.chatango.com
 @@||74.82.153.108^
 
 ! 9/23/2019 monday.com
