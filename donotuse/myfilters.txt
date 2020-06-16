@@ -5136,7 +5136,7 @@ spanishdict.com###adTopLarge
 /api/dwh
 ||geoip.ifunny.co^
 *$ping,beacon
-*$websocket,domain=~wolframalpha.com|~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
+*$websocket,domain=~pearson.com|~airmash.online|~starma.sh|~steamroller.tk|~spatiebot.github.io|~browserling.com|~midomi.com|~zoom.us|~us.bbcollab.com|~reddit.com|~spark.adobe.com|~kahoot.it|~mem.rip|~omegaboot.com
 @@||chatango.com^$websocket,domain=st.chatango.com
 @@||74.82.153.108^
 
@@ -5821,6 +5821,9 @@ befrog.yolasite.com###I3446
 wolframalpha.com##._2VNNPyfw
 wolframalpha.com##._3szk7HZ7._1akZLolr._2HkkNXzH
 wolframalpha.com##.X_9fF._2FSdf
+wolframalpha.com##[class]:has(>a[href*="adref="][target="_blank"])
+wolframalpha.com##main>a[href]:has([alt])
+@@||wolframalpha.com^$websocket,1p
 
 ! 10/12/2019 hongkongfp.com
 ||plaid.com^$3p
@@ -8560,10 +8563,6 @@ photopea.com##+js(set, confirm, noopFunc)
 ! 4/20/2020 https://www.ariva.de
 ariva.de##.remove-me-kube
 ariva.de##[onmouseup*="prgAnalyticsEvent"]
-
-! 4/20/2020 https://www.wolframalpha.com
-wolframalpha.com##[class]:has(>a[href*="adref="][target="_blank"])
-wolframalpha.com##main>a[href]:has([alt])
 
 ! 4/20/2020 https://www.mediaite.com
 mediaite.com##.o-jw-sub-promo
