@@ -24,7 +24,6 @@
 @@$websocket,domain=educationincites.com
 @@||ws-prod.plug.dj/socket$websocket,1p
 @@||lichess.org/analysis/socket/$websocket,1p
-!@@||ums.ustream.tv^$websocket,1p
 @@||pscp.tv/chatapi/$websocket,1p
 @@||zoho.com/w_socket$websocket,domain=assist.zoho.com
 @@||mafiah5gate.yottagames.com:25024/ws$websocket,domain=mafiah5cdn.akamaized.net
