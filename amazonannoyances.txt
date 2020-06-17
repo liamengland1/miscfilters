@@ -44,6 +44,7 @@
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||amazon.com/*/metrics/
+://device-metrics-*.amazon.$important
 ! Amazon Music
 ||music.amazon.*/*/api/cirrus/v3/
 ||a2z.com/api/*=%7B%
