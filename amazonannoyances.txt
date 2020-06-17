@@ -37,14 +37,11 @@
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
 ||amazon.com^*/monitoring.html
 /cdp/usage/*
-||aiv-delivery.net/Events/*
-||aiv-delivery.net^$3p
-||aiv-cdn.net/interstitial/*$media,redirect=noopmp3-0.1s
-||a72avoddashs3ww-a.akamaihd.net/interstitial/*$xhr,redirect=noop.txt
-||a302avoddashs3ww-a.akamaihd.net/interstitial/*$xhr,redirect=noop.txt
 @@||atv-ps.amazon.com/cdp/usage/GetAppStartupConfig?$xhr,1p
-||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s
-||videorolls.row.aiv-cdn.net^
+||aiv-delivery.net^$3p
+||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
+||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
+||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||amazon.com/*/metrics/
 
 ! Amazon element hiding
