@@ -45,7 +45,7 @@
 ||amazon.com/*/metrics/
 ! Amazon Music
 ||music.amazon.*/*/api/cirrus/v3/
-||a2z.com/api/*?info=
+||a2z.com/api/*=%7B%
 
 ! Amazon element hiding
 
