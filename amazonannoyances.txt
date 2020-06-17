@@ -51,7 +51,7 @@
 amazon.*##div[class*="pd_rd_"][cel_widget_id]:has(a[href^="/b/ref"])
 amazon.*##.bx-root
 amazon.*###universal-detail-ilm
-amazon.*##.s-shopping-adviser
+amazon.*##.celwidget[data-cel-widget*="ADVISER"]
 amazon.*##[data-feature-name="heroQuickPromo"]
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
