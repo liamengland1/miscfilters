@@ -74,6 +74,8 @@ amazon.*###watchNow_feature_div
 amazon.*##div[data-feature-name="acBadge"]
 amazon.*##span[aria-label="Amazon's Choice"]
 amazon.*##[data-ad-details]
+amazon.*##.MP3Swatch:has-text(/Unlimited/)
+amazon.*###dmusic_library_section
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
