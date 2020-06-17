@@ -81,6 +81,7 @@ amazon.*##.MP3Swatch:has-text(/Unlimited/)
 amazon.*###dmusic_library_section
 amazon.*##.nav-flyout[id*="-streaming-"]
 amazon.*###priceMessagingText1:has-text(/Unlimited/)
+amazon.*##.mom-nudge-card-item
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
