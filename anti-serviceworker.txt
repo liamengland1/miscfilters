@@ -9,5 +9,7 @@
 /service_worker$important
 /sw.$important
 /push_service_worker$important
-.worker.$important
+.worker.
 ||storage.googleapis.com/workbox-cdn/$important
+
+@@||beta.protonmail.com/openpgp.worker.min.$1p
