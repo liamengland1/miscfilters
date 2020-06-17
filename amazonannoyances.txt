@@ -24,7 +24,6 @@
 /stream-logging
 /log-data
 /uploadMetrics
-||music.amazon.*/*/api/cirrus/v3/
 /recordWeblabTrigger.html
 /recImpression
 /ajax-refmarker
@@ -44,6 +43,8 @@
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||amazon.com/*/metrics/
+||music.amazon.*/*/api/cirrus/v3/
+||d5fx445wy2wpk.cloudfront.net^*/vendors~metrics.$script,domain=music.amazon.com
 
 ! Amazon element hiding
 
