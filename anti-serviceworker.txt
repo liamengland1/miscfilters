@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
-/serviceWorker$important
+/serviceworker$important
 /service-worker$important
 /service_worker$important
 /sw.$important
