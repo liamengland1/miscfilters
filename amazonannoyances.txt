@@ -7,10 +7,9 @@
 ! Network rules 
 ||amazonpay.com^$3p
 ||static-na.payments-amazon.com^$3p
-||fls-*.amazon.*&$important
-||fls-*.amazon.*%$important
-://fls-na.amazon.$important
+://fls-*.amazon.$important
 ://unagi.amazon.$important
+://unagi-*.amazon.$important
 ||amazon.*/uedata?$important
 ||amazon.*/1/*/OE$important
 !||amazon.*/*ClientSideMetrics*@*.js
