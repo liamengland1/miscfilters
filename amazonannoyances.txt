@@ -90,6 +90,8 @@ amazon.*###priceMessagingText1:has-text(/Unlimited/)
 amazon.*##.mom-nudge-card-item
 amazon.*###WLHUC_recs
 amazon.*###WLHUC_footer
+amazon.*##.hushpuppyWidget
+amazon.*###hpUpsellLanding
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
