@@ -96,7 +96,7 @@ amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
 amazon.*##.kindle-typ-recs-wrapper
 amazon.*##.a-carousel-container:upward(.a-row)
 amazon.*##.a-link-normal[target="_blank"]:upward(.a-section)
-
+amazon.*##.subscribe-bottom-bar
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
