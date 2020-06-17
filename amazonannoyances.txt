@@ -35,6 +35,7 @@
 /Clickstream?
 ||ssl-images-amazon.com/images/I/$script
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
+||amazon.com^*/analytics.html
 ||amazon.com^*/monitoring.html
 /cdp/usage/*
 @@||atv-ps.amazon.com/cdp/usage/GetAppStartupConfig?$xhr,1p
