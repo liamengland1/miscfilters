@@ -36,7 +36,7 @@
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
 /cdp/usage/*
-@@||atv-ps.amazon.com/cdp/usage/GetAppStartupConfig?$xhr,1p
+@@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
 ||aiv-delivery.net^$3p
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
