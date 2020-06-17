@@ -73,6 +73,7 @@ amazon.*###zg-other-container
 amazon.*###watchNow_feature_div
 amazon.*##div[data-feature-name="acBadge"]
 amazon.*##span[aria-label="Amazon's Choice"]
+amazon.*##[data-ad-details]
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
