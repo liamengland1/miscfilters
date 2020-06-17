@@ -44,7 +44,7 @@
 ||amazon.com/*/metrics/
 ://device-metrics-*.amazon.$important
 ! Amazon Music
-||music.amazon.*/*/api/cirrus/v3/
+||music.amazon.*/api/cirrus/v3/
 ||a2z.com/api/*refMarker
 ! amazon kindle cloud reader
 ||amazon.*/uploadMetrics
