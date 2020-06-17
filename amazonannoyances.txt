@@ -92,6 +92,11 @@ amazon.*###WLHUC_recs
 amazon.*###WLHUC_footer
 amazon.*##.hushpuppyWidget
 amazon.*###hpUpsellLanding
+amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
+amazon.*##.kindle-typ-recs-wrapper
+amazon.*##.a-carousel-container:upward(.a-row)
+amazon.*##.a-link-normal[target="_blank"]:upward(.a-section)
+
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
