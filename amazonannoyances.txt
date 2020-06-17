@@ -48,7 +48,8 @@
 ||a2z.com/api/*refMarker
 ||a2z.com/api/*metricsToken
 ||a2z.com/api/*metricsInfo
-@@||music.a2z.com/api/next?metricsInfo=$xhr
+@@||a2z.com/api/next?metricsInfo=$xhr
+@@||a2z.com/api/thumbsDown?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
 ! amazon kindle cloud reader
 ||amazon.*/uploadMetrics
