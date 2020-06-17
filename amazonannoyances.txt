@@ -24,7 +24,6 @@
 ||amazon.*/vap/*/feedback$xhr
 /stream-logging
 /log-data
-/uploadMetrics
 /recordWeblabTrigger.html
 /recImpression
 /ajax-refmarker
@@ -48,6 +47,8 @@
 ! Amazon Music
 ||music.amazon.*/*/api/cirrus/v3/
 ||a2z.com/api/*=%7B%
+! amazon kindle cloud reader
+||amazon.*/uploadMetrics
 
 ! Amazon element hiding
 
