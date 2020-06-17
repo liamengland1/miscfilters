@@ -46,6 +46,7 @@
 ! Amazon Music
 ||music.amazon.*/api/cirrus/v3/
 ||a2z.com/api/*refMarker
+||a2z.com/api/*metricsToken
 ||a2z.com/api/*?metricsInfo=
 ! amazon kindle cloud reader
 ||amazon.*/uploadMetrics
