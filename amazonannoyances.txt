@@ -12,14 +12,12 @@
 ://unagi-*.amazon.$important
 ||amazon.*/uedata?$important
 ||amazon.*/1/*/OE$important
-!||amazon.*/*ClientSideMetrics*@*.js
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
 ||amazon.*/1/*/OE
 !stats/logImpressions
 /logImp
 /log-metrics
-/ClientSideMetrics
 !||amazon.com/vap/*
 ||amazon.*/vap/*/feedback$xhr
 /stream-logging
@@ -49,6 +47,7 @@
 ||a2z.com/api/*=%7B%
 ! amazon kindle cloud reader
 ||amazon.*/uploadMetrics
+||ssl-images-amazon.com^*/ClientSideMetrics
 
 ! Amazon element hiding
 
