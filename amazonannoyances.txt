@@ -76,6 +76,7 @@ amazon.*##span[aria-label="Amazon's Choice"]
 amazon.*##[data-ad-details]
 amazon.*##.MP3Swatch:has-text(/Unlimited/)
 amazon.*###dmusic_library_section
+amazon.*##.nav-flyout[id*="-streaming-"]
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
