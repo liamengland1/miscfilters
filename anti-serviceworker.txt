@@ -1,0 +1,13 @@
+! Title: Anti-service worker filters
+! Expires: 1 day
+! Description: Block service workers
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+
+/serviceWorker$important
+/service-worker$important
+/service_worker$important
+/sw.$important
+/push_service_worker$important
+.worker.$important
+||storage.googleapis.com/workbox-cdn/$important
