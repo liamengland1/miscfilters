@@ -101,7 +101,7 @@ amazon.*###hpUpsellLanding
 amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
 amazon.*##.kindle-typ-recs-wrapper
 amazon.*##.a-carousel-container:upward(.a-row)
-amazon.*##a[href*="/promoLanding?"]:upward(.a-section)
+amazon.*##a[href*="_bark_"]:upward(.a-section)
 amazon.*##.subscribe-bottom-bar
 blog.aboutamazon.com##.PromoImage
 
