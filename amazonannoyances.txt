@@ -7,6 +7,8 @@
 ! Network rules 
 ||amazonpay.com^$3p
 ||payments-amazon.com^$3p
+||amazon-adsystem.com^$3p
+://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
 ://unagi-*.amazon.$important
