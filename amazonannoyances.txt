@@ -37,6 +37,7 @@
 ||amazon.*/analytics.html
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
+||amazon.*/record-promo-
 /cdp/usage/*
 @@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
 ||aiv-delivery.net^$3p
