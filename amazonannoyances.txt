@@ -58,7 +58,6 @@
 @@||a2z.com/api/audioAdFinished?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
 ||cloudfront.net^*.mp3$media,redirect=noopmp3-0.1s,domain=music.amazon.com,important
-||cloudfront.net^$image,domain=music.amazon.com
 ! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
