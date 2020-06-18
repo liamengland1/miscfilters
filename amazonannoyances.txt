@@ -38,12 +38,12 @@
 /cdp/usage/*
 @@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
 ||aiv-delivery.net^$3p
+||amazon.com/*/metrics/
+://device-metrics-*.amazon.$important
+! Ads on Amazon Prime Video / IMDB TV
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
-||cloudfront.net^*.mp3$media,redirect=noopmp3-0.1s,domain=music.amazon.com,important
-||amazon.com/*/metrics/
-://device-metrics-*.amazon.$important
 ! Amazon Music
 ||music.amazon.*/api/cirrus/v3/
 ||a2z.com/api/*refMarker
@@ -53,6 +53,8 @@
 @@||a2z.com/api/thumbsDown?metricsInfo=$xhr
 @@||a2z.com/api/playbackFinished?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
+||cloudfront.net^*.mp3$media,redirect=noopmp3-0.1s,domain=music.amazon.com,important
+||cloudfront.net^$image,domain=music.amazon.com
 ! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
