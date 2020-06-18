@@ -68,6 +68,7 @@ amazon.*##div[class*="pd_rd_"][cel_widget_id]:has(a[href^="/b/ref"])
 amazon.*##.bx-root
 amazon.*###percolate-ui-ilm_div
 amazon.*###universal-detail-ilm
+amazon.*###dp > table:has(a[href*="&pf_rd_r="])
 amazon.*##.celwidget[data-cel-widget^="desktop-dp-atf_"]
 amazon.*##.celwidget[data-cel-widget="MAIN-SHOPPING_ADVISER"]
 amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
