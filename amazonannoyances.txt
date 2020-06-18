@@ -52,7 +52,7 @@
 @@||a2z.com/api/thumbsDown?metricsInfo=$xhr
 @@||a2z.com/api/playbackFinished?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
-! amazon kindle cloud reader
+! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
 
