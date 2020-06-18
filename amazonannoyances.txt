@@ -108,6 +108,7 @@ amazon.*##.ku-promo-message:upward(.a-section)
 amazon.*###upsell-button
 amazon.*##.botmORDivider
 amazon.*###cbcc_banner
+amazon.*###cart-recs-carousel
 
 blog.aboutamazon.com##.PromoImage
 
