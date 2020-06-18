@@ -67,6 +67,7 @@ amazon.*###universal-detail-ilm
 amazon.*##.celwidget[data-cel-widget^="desktop-dp-atf_"]
 amazon.*##.celwidget[data-cel-widget="MAIN-SHOPPING_ADVISER"]
 amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
+amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
 amazon.*##[data-feature-name="heroQuickPromo"]
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
@@ -106,6 +107,8 @@ amazon.*##.subscribe-bottom-bar
 amazon.*##.ku-promo-message:upward(.a-section)
 amazon.*###upsell-button
 amazon.*##.botmORDivider
+amazon.*###cbcc_banner
+
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
