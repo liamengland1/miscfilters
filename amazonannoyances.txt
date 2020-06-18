@@ -77,6 +77,8 @@ amazon.*###rhf
 amazon.*###dmusicPrimeButton_feature_div
 amazon.*##[id^="p13n-"]
 amazon.*##div[data-p13n-asin-metadata]
+amazon.*##div[data-p13n-feature-metadata]
+amazon.*##div[data-p13n-global]
 amazon.*##[role="banner"]>*:not(br)
 amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
 amazon.*##.maple-banner
@@ -112,6 +114,7 @@ amazon.*##.botmORDivider
 amazon.*###cbcc_banner
 amazon.*###cart-recs-carousel
 amazon.*###sc-rec-right
+amazon.*###sc-rec-bottom
 
 blog.aboutamazon.com##.PromoImage
 
