@@ -103,6 +103,9 @@ amazon.*##.kindle-typ-recs-wrapper
 amazon.*##.a-carousel-container:upward(.a-row)
 amazon.*##a[href*="_bark_"]:upward(.a-section)
 amazon.*##.subscribe-bottom-bar
+amazon.*##.ku-promo-message:upward(.a-section)
+amazon.*###upsell-button
+amazon.*##.botmORDivider
 blog.aboutamazon.com##.PromoImage
 
 ! Amazon CN element hiding
