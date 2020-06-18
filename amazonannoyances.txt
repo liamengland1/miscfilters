@@ -123,6 +123,7 @@ amazon.*###cart-recs-carousel
 amazon.*###sc-rec-right
 amazon.*###sc-rec-bottom
 amazon.*###bia_content
+amazon.*###bx-root
 
 blog.aboutamazon.com##.PromoImage
 
