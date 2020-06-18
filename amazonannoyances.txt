@@ -57,7 +57,7 @@
 @@||a2z.com/api/playbackFinished?metricsInfo=$xhr
 @@||a2z.com/api/audioAdFinished?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
-||cloudfront.net^*.mp3$media,redirect=noopmp3-0.1s,domain=music.amazon.com,important
+||cloudfront.net^*.mp3|$media,redirect=noopmp3-0.1s,domain=music.amazon.com|music.amazon.ca|music.amazon.co.uk|music.amazon.fr|music.amazon.de|music.amazon.it|music.amazon.es|music.amazon.co.jp|music.amazon.com.au|music.amazon.com.mx,important
 ! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
