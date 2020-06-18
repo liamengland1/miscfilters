@@ -120,6 +120,7 @@ amazon.*###cbcc_banner
 amazon.*###cart-recs-carousel
 amazon.*###sc-rec-right
 amazon.*###sc-rec-bottom
+amazon.*###bia_content
 
 blog.aboutamazon.com##.PromoImage
 
