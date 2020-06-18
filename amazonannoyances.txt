@@ -122,6 +122,8 @@ amazon.*###sc-rec-bottom
 
 blog.aboutamazon.com##.PromoImage
 
+music.amazon.*###nightwing-station-upsell
+
 ! Amazon CN element hiding
 
 amazon.cn###desktop-sidekick-5
