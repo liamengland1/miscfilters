@@ -41,6 +41,7 @@
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
+||cloudfront.net^*.mp3$media,redirect=noopmp3-0.1s,domain=music.amazon.com,important
 ||amazon.com/*/metrics/
 ://device-metrics-*.amazon.$important
 ! Amazon Music
