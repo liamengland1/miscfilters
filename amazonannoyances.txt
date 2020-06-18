@@ -34,7 +34,7 @@
 /Clickstream?
 ||ssl-images-amazon.com/images/I/$script
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
-||amazon.*/analytics.html
+||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
 ||amazon.*/record-promo-
