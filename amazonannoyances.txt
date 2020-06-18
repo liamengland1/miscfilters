@@ -83,7 +83,6 @@ amazon.*###quickPromoBucketContent
 amazon.*###rhf
 amazon.*###dmusicPrimeButton_feature_div
 amazon.*##[id^="p13n-"]
-amazon.*##div[data-p13n-asin-metadata]
 amazon.*##div[data-p13n-feature-metadata]
 amazon.*##div[data-p13n-global]
 amazon.*##[role="banner"]>*:not(br)
