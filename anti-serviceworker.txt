@@ -1,5 +1,5 @@
 ! Title: Anti-service worker filters
-! Expires: 1 day
+! Expires: 3 days
 ! Description: Block service workers
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
