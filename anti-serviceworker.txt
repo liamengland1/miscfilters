@@ -9,8 +9,8 @@
 /service_worker$important,script,xhr
 /sw.$important,script,xhr
 /push_service_worker$important,script,xhr
-/worker$script,xhr
-.worker.$script,xhr
+/worker$important,script,xhr,domain=~jshint.com
+.worker.$important,script,xhr,domain=~protonmail.com
 ||storage.googleapis.com/workbox-cdn/$important
 
 @@||beta.protonmail.com/openpgp.worker.min.$1p
