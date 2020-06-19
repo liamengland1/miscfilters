@@ -78,6 +78,7 @@ amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
 amazon.*##.celwidget[data-cel-widget="MAIN-VIDEO_SINGLE_PRODUCT"]
 amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
 amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
+amazon.*##.celwidget[data-cel-widget*="-sims_"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##[data-feature-name="heroQuickPromo"]
 amazon.*###desktop-banner
