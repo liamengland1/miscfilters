@@ -123,6 +123,7 @@ amazon.*###sc-rec-right
 amazon.*###sc-rec-bottom
 amazon.*###bia_content
 amazon.*###bx-root
+amazon.*##.mako-v2
 
 blog.aboutamazon.com##.PromoImage
 
