@@ -129,6 +129,7 @@ amazon.*###bx-root
 ! amazon.*##.mako-v2
 amazon.*##.wlp-prime-partnerWidget-container
 amazon.*##.rush-component[data-component-type="s-bottom-slot"]
+amazon.*##.rush-component[data-component-type="s-brand-footer-slot"]
 
 blog.aboutamazon.com##.PromoImage
 
