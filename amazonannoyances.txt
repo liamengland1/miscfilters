@@ -136,6 +136,7 @@ amazon.*##.wlp-prime-partnerWidget-container
 amazon.*##.rush-component[data-component-type="s-bottom-slot"]
 amazon.*##.rush-component[data-component-type="s-brand-footer-slot"]
 amazon.*###myx_banner
+amazon.*##.vse-vwdp-video-block-wrapper
 
 blog.aboutamazon.com##.PromoImage
 
