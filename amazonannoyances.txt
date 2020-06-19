@@ -1,5 +1,5 @@
 ! Title: Amazon annoyances
-! Expires: 1 day
+! Expires: 3 days
 ! Description: Block annoyances, ads, and tracking on Amazon and IMDB
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
