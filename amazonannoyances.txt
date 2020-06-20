@@ -80,8 +80,9 @@ amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
 amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
 amazon.*##.celwidget[data-cel-widget*="-sims_"]
 amazon.*##.celwidget[class*="loom-desktop-"]
+amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
+amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
 amazon.*##.s-result-item:has(.celwidget[class*="loom-desktop"])
-amazon.*##[data-feature-name="heroQuickPromo"]
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
 amazon.*###quickPromoBucketContent
