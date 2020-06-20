@@ -137,6 +137,7 @@ amazon.*##.rush-component[data-component-type="s-bottom-slot"]
 amazon.*##.rush-component[data-component-type="s-brand-footer-slot"]
 amazon.*###myx_banner
 amazon.*##.vse-vwdp-video-block-wrapper
+amazon.*###huc-v2-box-warranty
 
 blog.aboutamazon.com##.PromoImage
 
