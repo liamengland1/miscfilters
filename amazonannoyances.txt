@@ -37,6 +37,7 @@
 ||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
+||amazon.*/reftag.html
 ||amazon.*/record-promo-
 /cdp/usage/*
 @@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
