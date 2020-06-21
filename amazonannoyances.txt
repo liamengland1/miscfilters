@@ -141,6 +141,8 @@ amazon.*##.rush-component[data-component-type="s-brand-footer-slot"]
 amazon.*###myx_banner
 amazon.*##.vse-vwdp-video-block-wrapper
 amazon.*###huc-v2-box-warranty
+amazon.*##.bxw-content-grid
+amazon.*##table:has(map>area[href*="/redirect.html/ref="]):has(img[onload*="uet"])
 
 blog.aboutamazon.com##.PromoImage
 
@@ -156,3 +158,8 @@ amazon.cn###dpx-promotion-upsell_feature_div
 
 imdb.com##.promoted-watch-ad
 imdb.com##.buybox__modal
+
+! Scriptlets (experimental)
+amazon.com##+js(aopr, ue)
+amazon.com##+js(aopr, uet)
+
