@@ -160,6 +160,4 @@ imdb.com##.promoted-watch-ad
 imdb.com##.buybox__modal
 
 ! Scriptlets (experimental)
-amazon.com##+js(aopr, ue)
-amazon.com##+js(aopr, uet)
 
