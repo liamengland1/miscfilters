@@ -110,4 +110,6 @@ thewrap.com##[id*="-box-ad-"]
 ||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
 
 ! Include uBo-specific filterlist extension
+!#if ext_ublock
 !#include uBo-ext/antipaywall-uBo.txt
+!#endif
