@@ -14,11 +14,16 @@
 ||scroll.com^$third-party
 ||wallkit.net^$third-party
 
-! Town News
+! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
 ||townnews.com^*/promo_popup.$script
 ||townnews.com^*/tncms/*/metering/
 ##.tnt-section-sponsored
+##.tnt-ads-container
+##.tnt-ads
+##.ad-col
+##.subscriber-ad
+##.tnt-dmp-reactive.modal
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
@@ -36,8 +41,7 @@ nytimes.com###credential_picker_container
 
 ! Lee Enterprises sites
 ||townnews.com^*/lee_subscription/
-##.ad-col
-##.subscriber-ad
+
 ||townnews.com/stltoday.com/*/stl.init.js$script,domain=stltoday.com
 
 ! Bloomberg (bloomberg.com)
