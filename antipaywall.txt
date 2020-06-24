@@ -109,6 +109,11 @@ thewrap.com##[id*="-box-ad-"]
 ! El Mercurio - Print Edition (elmercurio.com)
 ||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
 
+! Toronto Star (thestar.com)
+thestar.com##[data-lpos="gamp"]
+thestar.com##.overlay.ReactModalPortal
+thestar.com##.c-partner-articles
+
 ! Include uBo-specific filterlist extension
 !#if ext_ublock
 !#include uBo-ext/antipaywall-uBo.txt
