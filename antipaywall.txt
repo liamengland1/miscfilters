@@ -36,7 +36,8 @@ nytimes.com###credential_picker_container
 
 ! Lee Enterprises sites
 ||townnews.com^*/lee_subscription/
-auburnpub.com,azdailysun.com,beatricedailysun.com,billingsgazette.com,bismarcktribune.com,chippewa.com,columbustelegram.com,cumberlink.com,dailyjournalonline.com,democratherald.com,elkodaily.com,fremonttribune.com,gazettetimes.com,globegazette.com,hanfordsentinel.com,helenair.com,herald-review.com,jg-tc.com,journalstar.com,journaltimes.com,kenoshanews.com,lacrossetribune.com,lompocrecord.com,madison.com,magicvalley.com,missoulian.com,mtstandard.com,muscatinejournal.com,napavalleyregister.com,nwitimes.com,pantagraph.com,poststar.com,qconline.com,qctimes.com,rapidcityjournal.com,ravallirepublic.com,santamariatimes.com,siouxcityjournal.com,stltoday.com,tdn.com,thesouthern.com,thetandd.com,theworldlink.com,trib.com,tucson.com,wcfcourier.com,winonadailynews.com,wiscnews.com##.ad-col
+##.ad-col
+##.subscriber-ad
 ||townnews.com/stltoday.com/*/stl.init.js$script,domain=stltoday.com
 
 ! Bloomberg (bloomberg.com)
@@ -53,15 +54,17 @@ theglobeandmail.com###subscription-pencil-area
 ||washingtonpost.com/subscribe/pw/
 ||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/subscribe/logging/
-washingtonpost.com##[class^="pb-f-ad-"]
 washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
 washingtonpost.com##.pb-lgmod
 washingtonpost.com##.promo
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
+###leaderboard-wrapper
 
 ! Arc Publishing
 ##.arc-ad-wrapper
 ##.pb-f-ads-arcads
+##[class^="pb-f-ad-"]
+###arcad_recirc
 
 ! The Economist (economist.com)
 economist.com##.advert
@@ -69,7 +72,6 @@ economist.com##.subscription-proposition
 
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
-bostonglobe.com###arcad_recirc
 
 ! Quartz (qz.com)
 qz.com##._6f0a2
