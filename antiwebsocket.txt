@@ -35,3 +35,4 @@
 @@||docker.events.cube365.net^$websocket,1p
 @@||airmash.online^$websocket,domain=airmash.online|starma.sh|steamroller.tk|airmash.cc|spatiebot.github.io
 @@||websocket.pushbullet.com^$websocket,1p
+@@||bin-api.pipedream.com^$websocket,domain=requestbin.com
