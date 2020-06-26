@@ -78,3 +78,6 @@ yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com###uh-scroll-promo
 yahoo.com###YDC-Lead
+yahoo.com##.tabads
+yahoo.com##.travelads
+yahoo.com##.Story-Item:has(>[data-beacon])
