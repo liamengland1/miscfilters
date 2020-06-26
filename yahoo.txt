@@ -81,3 +81,4 @@ yahoo.com###YDC-Lead
 yahoo.com##.tabads
 yahoo.com##.travelads
 yahoo.com##.Story-Item:has(>[data-beacon])
+yahoo.com###UHSearch>table>tbody>tr>td>.keywords
