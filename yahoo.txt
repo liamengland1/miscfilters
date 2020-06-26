@@ -43,6 +43,11 @@ answers.yahoo.com##[class^="JoinAnswersBanner"]
 aol.*##.m-article-taboola
 aol.*##.module-more-to-explore
 aol.*##div.m-cpc[data-ylk*="fromourpartners"]
+compuserve.com,isp.netscape.com###paidPlacements
+compuserve.com,isp.netscape.com##.bannerAdWrapper
+engadget.com###right-ads-rail
+engadget.com##.mb-20.mt-20
+engadget.com##.ta-c:has([data-aol-adcall])
 huffpost.com##.advertisement
 huffpost.com##.inline-subscription-module
 huffpost.com##.subscription-toaster
