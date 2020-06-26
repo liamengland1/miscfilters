@@ -21,7 +21,6 @@
 ||vidible.tv^*/rapid.js$important
 ||yimg.com/aaq/fp/~stylesheet
 ||yimg.com/aaq/hc/
-||yimg.com/aaq/hp-viewer/
 ||yimg.com/aaq/vzm/
 ||yimg.com/aaq/wf/wf-rapid-$script
 ||yimg.com/cv/~image
