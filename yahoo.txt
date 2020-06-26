@@ -28,7 +28,7 @@
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
 ||yimg.com/rq/$script,important
-||yimg.com/ss/rapid$script,important,domain=~yahoo.com|techcrunch.com|cdn.launch3d.com
+||yimg.com/ss/rapid$script,important,domain=~yahoo.com|~techcrunch.com|~cdn.launch3d.com
 @@||s.yimg.com/ss/rapid$script,domain=cdn.launch3d.com|techcrunch.com|yahoo.com
 ||yimg.com^*/yaft-plugin
 ||yimg.jp/*/brandpanel-
