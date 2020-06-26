@@ -75,3 +75,4 @@ yahoo.com##[class*="adTranslate"]>div:has(>#sda-LDRB)
 yahoo.com##[class^="caas-"]:style(cursor:auto!important)
 yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
+yahoo.com###uh-scroll-promo
