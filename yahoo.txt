@@ -68,7 +68,8 @@ yahoo.com###viewer-LDRB
 yahoo.com###viewer-LDRB:upward(div[class])
 yahoo.com###wafer-sponsoredStrip
 yahoo.com##.storyswarmtdv2wafer
-yahoo.com##.trending-container:has(a[href*=":rev,"]):upward([data-applet-type])
+yahoo.com##[data-applet-type="trendingtdv2wafer"]
+yahoo.com##[data-applet-type="trending"]
 yahoo.com##.wafer-beacon.gemini-item
 yahoo.com##[class*="adTranslate"]>div:has(>#sda-LDRB)
 yahoo.com##[class^="caas-"]:style(cursor:auto!important)
