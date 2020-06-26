@@ -1,4 +1,9 @@
 ! Filters for verizon media sites - yahoo, aol, techcrunch, etc.
+! Title: Filters for verizon media sites
+! Expires: 3 days
+! Description: 
+! Homepage: https://github.com/llacb47/miscfilters
+! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
 /cmpStub.$script
 /omniture.$script
