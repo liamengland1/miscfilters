@@ -41,6 +41,7 @@
 ||yimg.jp^*/rapid/
 ||yimg.jp^*/rapidjp-$domain=~map.yahoo.co.jp
 ||udc.yahoo.com^
+/dl_track/*
 
 answers.yahoo.com##[class*="NTKContainer"]
 answers.yahoo.com##[class^="AnswersListLoginBanner"]
