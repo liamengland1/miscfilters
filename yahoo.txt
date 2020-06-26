@@ -19,19 +19,19 @@
 ||oath.cloud^
 ||paymentech.com^$3p
 ||vidible.tv^*/rapid.js$important
-||yimg.com/aaq/fp/
+||yimg.com/aaq/fp/~stylesheet
 ||yimg.com/aaq/hc/
 ||yimg.com/aaq/hp-viewer/
 ||yimg.com/aaq/vzm/
 ||yimg.com/aaq/wf/wf-rapid-$script
-||yimg.com/cv/
+||yimg.com/cv/~image
 ||yimg.com/cx/
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
 ||yimg.com/rq/$script,important
 ||yimg.com/ss/rapid$script,important,domain=~yahoo.com|techcrunch.com|cdn.launch3d.com
 @@||s.yimg.com/ss/rapid$script,domain=cdn.launch3d.com|techcrunch.com|yahoo.com
-||yimg.com^*/yaft
+||yimg.com^*/yaft-plugin
 ||yimg.jp/*/brandpanel-
 ||yimg.jp/*/std-min.js
 ||yimg.jp/*/ual-
@@ -41,6 +41,7 @@
 ||yimg.jp^*/rapid-
 ||yimg.jp^*/rapid/
 ||yimg.jp^*/rapidjp-$domain=~map.yahoo.co.jp
+||udc.yahoo.com^
 
 answers.yahoo.com##[class*="NTKContainer"]
 answers.yahoo.com##[class^="AnswersListLoginBanner"]
