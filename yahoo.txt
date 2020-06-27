@@ -84,3 +84,4 @@ yahoo.com##.Story-Item:has(>[data-beacon])
 yahoo.com###UHSearch>table>tbody>tr>td>.keywords
 yahoo.com##.nativeleaderboard
 yahoo.com##.fbtdv2
+yahoo.com##.loginbannerpromotdv2wafer
