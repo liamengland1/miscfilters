@@ -14,6 +14,7 @@
 @@||news.yahoo.com/comments/*$subdocument,1p
 ||aol.*/dl_track/
 ||blogsmithmedia.com^/hub-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
+||blogsmithmedia.com^/permalink-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
 ||consent.cmp.oath.com^
 ||ganon.yahoo.com^
 ||guce.*/*?consentTypes=
