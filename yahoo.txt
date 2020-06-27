@@ -15,7 +15,9 @@
 ||aol.*/dl_track/
 ||blogsmithmedia.com^*/hub-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
 ||blogsmithmedia.com^*/permalink-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
+||cloudflare-dns.com^$3p
 ||consent.cmp.oath.com^
+||edge-mcdn-beacon.secure.yahoo.com^
 ||ganon.yahoo.com^
 ||guce.*/*?consentTypes=
 ||logql.yahoo.co.jp^
@@ -23,7 +25,11 @@
 ||paymentech.com^$3p
 ||udc.yahoo.com^
 ||vidible.tv^*/rapid.js$important
+||wc.yahoodns.net^
+||yahoo.com/dms/exp.json
 ||yahoo.com/pageview/
+||yahoodns.net/cs/
+||yahoodns.net/i.gif
 ||yimg.com/aaq/fp/~stylesheet
 ||yimg.com/aaq/hc/
 ||yimg.com/aaq/vzm/
@@ -33,7 +39,7 @@
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
 ||yimg.com/rq/$script,important
-||yimg.com/ss/rapid$script,important,domain=~yahoo.com|~techcrunch.com|~cdn.launch3d.com
+||yimg.com/ss/rapid$script
 @@||s.yimg.com/ss/rapid$script,domain=cdn.launch3d.com|techcrunch.com|yahoo.com
 ||yimg.com^*/yaft-plugin
 ||yimg.jp/*/brandpanel-
