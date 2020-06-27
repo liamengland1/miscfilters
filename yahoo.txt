@@ -55,6 +55,7 @@ aol.*##.module-more-to-explore
 aol.*##[data-caasmod="Promo"]
 aol.*##div.m-cpc[data-ylk*="fromourpartners"]
 aol.*##.m-promo
+aol.*###make-this-my-homepage
 compuserve.com,isp.netscape.com###paidPlacements
 compuserve.com,isp.netscape.com##.bannerAdWrapper
 engadget.com###right-ads-rail
