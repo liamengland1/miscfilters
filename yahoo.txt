@@ -90,4 +90,4 @@ yahoo.com##[data-applet-type="trending"]
 yahoo.com##[data-applet-type="trendingtdv2wafer"]
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com##li:has(>[data-wf-beacons])
-
+yahoo.com##.adv:upward(.js-stream-content)
