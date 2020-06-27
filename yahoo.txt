@@ -66,6 +66,7 @@ huffpost.com##.advertisement
 huffpost.com##.inline-subscription-module
 huffpost.com##.subscription-toaster
 huffpost.com##body:style(overflow-x:hidden!important)
+techcrunch.com###right_rail_sponsors
 mail.yahoo.com##div[data-test-id="pencil-ad"]
 mail.yahoo.com##td:has(>div>div[data-test-id="darla-container"])
 news.yahoo.com##.Z\(1\).StretchedBox:empty
