@@ -78,7 +78,6 @@ mail.yahoo.com##td:has(>div>div[data-test-id="darla-container"])
 news.yahoo.com##.Z\(1\).StretchedBox:empty
 search.yahoo.com##.searchSuperBottom.reg
 techcrunch.com###right_rail_sponsors
-yahoo.com###Aside>[data-reactid]:has(>[data-locator="subtree-root"]:not([id$="-Footer"]))
 yahoo.com###mega-banner-wrapper
 yahoo.com###sda-LDRB
 yahoo.com###sda-MAST
@@ -104,5 +103,8 @@ yahoo.com##[data-applet-type="trending"]
 yahoo.com##[data-applet-type="trendingtdv2wafer"]
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com##div[data-reactid]>div[id$="-AbPromo"]
+yahoo.com##div[data-reactid]>div[id$="-AdBlockPromo"]
 yahoo.com##div[data-reactid]>div[id$="-PremiumPromoFooter"]
+yahoo.com##div[data-reactid]>div[id$="-PromoImage"]
 yahoo.com##li:has(>[data-wf-beacons])
+yahoo.com##.YDC-Sidekick-Wrapper>div:has(img[src*="yimg.com/cv/apiv2"])
