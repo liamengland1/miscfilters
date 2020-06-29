@@ -15,6 +15,7 @@
 ||wallkit.net^$third-party
 ||evolok.com^$third-party
 ||evolok.net^$third-party
+||piano.io^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
