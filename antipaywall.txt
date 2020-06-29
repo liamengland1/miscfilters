@@ -10,6 +10,7 @@
 ||news.google.com/swg/$script,third-party
 ||accounts.google.com/gsi/$script,third-party
 ||smartlock.google.com^
+/amp-access-$script
 ||tinypass.com^$third-party
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
