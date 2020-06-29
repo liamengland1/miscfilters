@@ -121,6 +121,9 @@ thestar.com##[data-lpos="gamp"]
 thestar.com##.overlay.ReactModalPortal
 thestar.com##.c-partner-articles
 
+! Tribune Publishing sites
+||tribdss.com^$third-party
+
 ! Include uBo-specific filterlist extension
 !#if ext_ublock
 !#include uBo-ext/antipaywall-uBo.txt
