@@ -103,8 +103,8 @@ yahoo.com##[data-applet-type="trending"]
 yahoo.com##[data-applet-type="trendingtdv2wafer"]
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com##div[data-reactid]>div[id$="-AbPromo"]
-yahoo.com##div[data-reactid]>div[id$="-AdBlockPromo"]
 yahoo.com##div[data-reactid]>div[id$="-PremiumPromoFooter"]
 yahoo.com##div[data-reactid]>div[id$="-PromoImage"]
 yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com##.YDC-Sidekick-Wrapper>div:has(img[src*="yimg.com/cv/apiv2"])
+yahoo.com##div[id*="-AdBlockPromo"]
