@@ -52,6 +52,7 @@
 ||yimg.jp^*/rapid-
 ||yimg.jp^*/rapid/
 ||yimg.jp^*/rapidjp-$domain=~map.yahoo.co.jp
+@@||yimg.com/zz/combo$script
 
 answers.yahoo.com##[class*="NTKContainer"]
 answers.yahoo.com##[class^="AnswersListLoginBanner"]
