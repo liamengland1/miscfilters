@@ -38,3 +38,4 @@
 @@||bin-api.pipedream.com^$websocket,domain=requestbin.com
 @@||ecast.jackboxgames.com^$domain=jackbox.tv
 @@||puffer.stanford.edu^$websocket,1p
+@@||api.glitch.com^$websocket,1p
