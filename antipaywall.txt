@@ -75,6 +75,7 @@ washingtonpost.com##[data-chain-name="brandconnect-chain"]
 ##.pb-f-ads-arcads
 ##[class^="pb-f-ad-"]
 ###arcad_recirc
+##.arc-ad
 
 ! The Economist (economist.com)
 economist.com##.advert
