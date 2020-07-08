@@ -9,9 +9,10 @@
 /service_worker$important,script,xhr
 /sw.$important,script,xhr
 /push_service_worker$important,script,xhr
-/worker$important,script,xhr,domain=~jshint.com
+/worker$important,script,xhr,domain=~jshint.com|~lelinhtinh.github.io
 .worker.$important,script,xhr,domain=~protonmail.com
 ||storage.googleapis.com/workbox-cdn/$important
 
 @@||beta.protonmail.com/openpgp.worker.min.$1p
 @@||jshint.com/res/worker.js$script,1p
+@@||lelinhtinh.github.io/de4js/$script,1p
