@@ -17,3 +17,4 @@
 @@||beta.protonmail.com/openpgp.worker.min.$1p
 @@||jshint.com/res/worker.js$script,1p
 @@||lelinhtinh.github.io/de4js/$script,1p
+@@||robwu.nl/crxviewer/*$script,1p
