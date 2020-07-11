@@ -20,6 +20,7 @@
 ||piano.io^$third-party
 ||qiota.com^$third-party,important
 ||poool.fr^$third-party
+||onecount.net^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
@@ -129,6 +130,9 @@ thestar.com##.c-partner-articles
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
+
+! CricketArchive (cricketarchive.com)
+||my.cricketarchive.com/action/public/vo/pigeon-server?callback=PGPW&json=*content_access
 
 ! Include uBo-specific filterlist extension
 !#if ext_ublock
