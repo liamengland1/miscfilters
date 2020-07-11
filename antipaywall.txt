@@ -135,6 +135,10 @@ thestar.com##.c-partner-articles
 ! CricketArchive (cricketarchive.com)
 ||my.cricketarchive.com/action/public/vo/pigeon-server?callback=PGPW&json=*content_access
 
+! AccuRadio (accuradio.com)
+||accuradio.com/sweeper/
+||accuradio.com/static/js/ltjs.js
+
 ! Include uBo-specific filterlist extension
 !#if ext_ublock
 !#include uBo-ext/antipaywall-uBo.txt
