@@ -45,3 +45,8 @@ harpers.org##article.single:style(display:block!important)
 ! Toronto Star (thestar.com)
 thestar.com##+js(set, __PRELOADED_STATE__.paywall, false)
 thestar.com##+js(set, __PRELOADED_CONFIG_DATA__.enableHardPaywall, false)
+
+! AccuRadio (accuradio.com)
+accuradio.com###playerSkipLoading
+accuradio.com###playerSkipButton:style(display:inline!important)
+
