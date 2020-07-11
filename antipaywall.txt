@@ -2,6 +2,7 @@
 ! Title: Anti-paywall filters
 ! Expires: 3 days
 ! Description: Filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
+! Note: cookie notices will not be hidden by this list
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with Adblock Plus, however, it is recommended to use uBlock Origin.
