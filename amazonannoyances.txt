@@ -143,7 +143,7 @@ amazon.*##.rush-component[data-component-type="s-brand-footer-slot"]
 amazon.*###myx_banner
 amazon.*##.vse-vwdp-video-block-wrapper
 amazon.*###huc-v2-box-warranty
-amazon.*##.bxw-content-grid
+! amazon.*##.bxw-content-grid
 amazon.*##table:has(map>area[href*="/redirect.html/ref="]):has(img[onload*="uet"])
 amazon.*###customer-survey_feature_div
 amazon.*###sitbReaderSB-recs
