@@ -4,14 +4,15 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
-/serviceworker$important,script,xhr
-/service-worker$important,script,xhr
-/service_worker$important,script,xhr
-/sw.$important,script,xhr
--sw.js|$important,script,xhr
-/push_service_worker$important,script,xhr
-/worker$important,script,xhr,domain=~jshint.com|~lelinhtinh.github.io
-.worker.$important,script,xhr,domain=~protonmail.com
+/serviceworker$script,xhr
+/service-worker$script,xhr
+/service_worker$script,xhr
+/sw.$script,xhr
+-sw.js|$script,xhr
+/pwa.$script,xhr
+/push_service_worker$script,xhr
+/worker$script,xhr
+.worker.$script,xhr
 ||storage.googleapis.com/workbox-cdn/$important
 
 @@||beta.protonmail.com/openpgp.worker.min.$1p
