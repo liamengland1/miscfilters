@@ -19,7 +19,7 @@
 ||storage.googleapis.com/workbox-cdn/$important
 
 ! Experimental
-*##+js(aeld, load, navigator.serviceWorker.register)
+! *##+js(aeld, load, navigator.serviceWorker.register)
 ! End experimental
 
 @@||beta.protonmail.com/openpgp.worker.min.$1p
