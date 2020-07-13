@@ -18,6 +18,10 @@
 /worker$script,xhr
 ||storage.googleapis.com/workbox-cdn/$important
 
+! Experimental
+*##+js(aeld, load, navigator.serviceWorker.register)
+! End experimental
+
 @@||beta.protonmail.com/openpgp.worker.min.$1p
 @@||jshint.com/res/worker.js$script,1p
 @@||lelinhtinh.github.io/de4js/$script,1p
