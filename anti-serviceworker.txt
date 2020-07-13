@@ -6,14 +6,14 @@
 
 -sw.js|$script,xhr
 .worker.$script,xhr
-/manifest.json$script,xhr,1p
+/manifest.json$script,xhr
 /push_service_worker$script,xhr
-/pwa-manifest.json$script,xhr,1p
+/pwa-manifest.json$script,xhr
 /pwa.$script,xhr
 /service-worker$script,xhr
 /service_worker$script,xhr
 /serviceworker$script,xhr
-/site.webmanifest$script,xhr,1p
+/site.webmanifest$script,xhr
 /sw.$script,xhr
 /worker$script,xhr
 ||storage.googleapis.com/workbox-cdn/$important
