@@ -33,7 +33,9 @@
 /ReportEvent?
 /Clickstream?
 ||ssl-images-amazon.com/images/I/$script,domain=~imdb.com
+||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/$script,domain=~imdb.com
+||media-amazon.com/images/I/31BVuidgT8L.js
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
 @@||media-amazon.com/images/I/*.js?AUIClients/$script
 ||amazon.*/analytics
