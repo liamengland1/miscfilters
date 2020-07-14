@@ -75,6 +75,8 @@
 ||ssl-images-amazon.com^*/ClientSideMetrics
 ! Livestreams
 ||spade.twitch.tv^
+! IMDB
+||cloudfront.net/jwplayer-*/vast.js
 
 ! Amazon element hiding
 
