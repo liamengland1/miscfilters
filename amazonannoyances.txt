@@ -33,13 +33,17 @@
 /ReportEvent?
 /Clickstream?
 ||ssl-images-amazon.com/images/I/$script
+||media-amazon.com/images/I/$script
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
+@@||media-amazon.com/images/I/*.js?AUIClients/$script
 ||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
 ||amazon.*/record-promo-
 ||amazon.*/gp/*/log?s=
+||amazon.*/gp/cerberus/
+||amazon.*/gp/*/promotions/
 /cdp/usage/*
 @@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
 ||aiv-delivery.net^$3p
@@ -61,9 +65,14 @@
 @@||a2z.com/api/audioAdFinished?metricsInfo=$xhr
 ||a2z.com/api/actionDenied?info=
 ||cloudfront.net^*.mp3|$media,redirect=noopmp3-0.1s,domain=music.amazon.com|music.amazon.ca|music.amazon.co.uk|music.amazon.fr|music.amazon.de|music.amazon.it|music.amazon.es|music.amazon.co.jp|music.amazon.com.au|music.amazon.com.mx,important
+! Amazon Music product pages
+||amazon.*/growth/jsi/rwdp-track/dataBundle.js
+||cloudfront.net/jsi/assets/rwdp-track/init.js
 ! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
+! Livestreams
+||spade.twitch.tv^
 
 ! Amazon element hiding
 
@@ -153,6 +162,7 @@ amazon.*##.vse-empty-view-container
 amazon.*##.a-popover-modal:upward(.a-modal-scroller)
 amazon.*###a-popover-lgtbox
 amazon.*##body:style(overflow:auto!important;margin-right:0!important)
+amazon.*###universal-hero-quick-promo
 
 blog.aboutamazon.com##.PromoImage
 
