@@ -32,8 +32,8 @@
 ||ssl-images-amazon.com^*vowels$important
 /ReportEvent?
 /Clickstream?
-||ssl-images-amazon.com/images/I/$script
-||media-amazon.com/images/I/$script
+||ssl-images-amazon.com/images/I/$script,domain=~imdb.com
+||media-amazon.com/images/I/$script,domain=~imdb.com
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
 @@||media-amazon.com/images/I/*.js?AUIClients/$script
 ||amazon.*/analytics
