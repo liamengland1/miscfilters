@@ -68,6 +68,8 @@
 ! Amazon Music product pages
 ||amazon.*/growth/jsi/rwdp-track/dataBundle.js
 ||cloudfront.net/jsi/assets/rwdp-track/init.js
+||execute-api.*.amazonaws.com/Prod/JSILogger
+||execute-api.*.amazonaws.com/Prod/recordWeblabTriggers
 ! Kindle Cloud Reader
 ||amazon.*/uploadMetrics
 ||ssl-images-amazon.com^*/ClientSideMetrics
