@@ -109,3 +109,5 @@ yahoo.com##div[data-reactid]>div[id$="-PromoImage"]
 yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com##.YDC-Sidekick-Wrapper>div:has(img[src*="yimg.com/cv/apiv2"])
 yahoo.com##div[id*="-AdBlockPromo"]
+yahoo.com###browserExtensionPromotionBanner
+yahoo.com##.ds_promo_newtab
