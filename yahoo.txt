@@ -94,7 +94,7 @@ yahoo.com###viewer-LREC
 yahoo.com###viewer-MON
 yahoo.com###wafer-sponsoredStrip
 yahoo.com##.adv:upward(.js-stream-content)
-yahoo.com##.aside-sticky>:not([id^="modal-sidekick-"])
+yahoo.com##.aside-sticky>:not([id^="modal-sidekick-"]):not(.aside-sticky-col)
 yahoo.com##.ds_promo_newtab
 yahoo.com##.fbtdv2
 yahoo.com##.loginbannerpromotdv2wafer
