@@ -114,3 +114,5 @@ yahoo.com##div[data-reactid]>div[id$="-PremiumPromoFooter"]
 yahoo.com##div[data-reactid]>div[id$="-PromoImage"]
 yahoo.com##div[id*="-AdBlockPromo"]
 yahoo.com##li:has(>[data-wf-beacons])
+yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved 
+yahoo.com,cdn.ampproject.org##.pencilad
