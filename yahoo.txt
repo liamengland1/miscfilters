@@ -62,6 +62,7 @@ aol.*###make-this-my-homepage
 aol.*##.caas_module[data-name="GenericPartner"]
 aol.*##.m-article-taboola
 aol.*##.m-notifications-banner
+aol.*##.m-popular-stories
 aol.*##.m-promo
 aol.*##.module-more-to-explore
 aol.*##[data-caasmod="Promo"]
