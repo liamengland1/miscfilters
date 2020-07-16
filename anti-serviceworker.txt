@@ -27,3 +27,4 @@
 @@||lelinhtinh.github.io/de4js/$script,1p
 @@||robwu.nl/crxviewer/$script,1p
 @@||virustotal.com^*.worker.$script,1p
+@@||www.t-mobile.com/static/worker.service.js$script,1p
