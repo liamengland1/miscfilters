@@ -79,6 +79,7 @@ mail.yahoo.com##td:has(>div>div[data-test-id="darla-container"])
 news.yahoo.com##.Z\(1\).StretchedBox:empty
 search.yahoo.com##.searchSuperBottom.reg
 techcrunch.com###right_rail_sponsors
+yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
 yahoo.com###sda-LDRB
 yahoo.com###sda-MAST
@@ -87,8 +88,12 @@ yahoo.com###uh-tb-firefoxpromo
 yahoo.com###UHSearch>table>tbody>tr>td>.keywords
 yahoo.com###viewer-LDRB
 yahoo.com###viewer-LDRB:upward(div[class])
+yahoo.com###viewer-LREC
+yahoo.com###viewer-MON
 yahoo.com###wafer-sponsoredStrip
 yahoo.com##.adv:upward(.js-stream-content)
+yahoo.com##.aside-sticky>:not([id^="modal-sidekick-"])
+yahoo.com##.ds_promo_newtab
 yahoo.com##.fbtdv2
 yahoo.com##.loginbannerpromotdv2wafer
 yahoo.com##.nativeleaderboard
@@ -97,6 +102,7 @@ yahoo.com##.storyswarmtdv2wafer
 yahoo.com##.tabads
 yahoo.com##.travelads
 yahoo.com##.wafer-beacon.gemini-item
+yahoo.com##.YDC-Sidekick-Wrapper>div:has(img[src*="yimg.com/cv/apiv2"])
 yahoo.com##[class*="adTranslate"]>div:has(>#sda-LDRB)
 yahoo.com##[class*="commentFlyoutShadow"]:upward([style])
 yahoo.com##[class^="caas-"]:style(cursor:auto!important)
@@ -106,8 +112,5 @@ yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com##div[data-reactid]>div[id$="-AbPromo"]
 yahoo.com##div[data-reactid]>div[id$="-PremiumPromoFooter"]
 yahoo.com##div[data-reactid]>div[id$="-PromoImage"]
-yahoo.com##li:has(>[data-wf-beacons])
-yahoo.com##.YDC-Sidekick-Wrapper>div:has(img[src*="yimg.com/cv/apiv2"])
 yahoo.com##div[id*="-AdBlockPromo"]
-yahoo.com###browserExtensionPromotionBanner
-yahoo.com##.ds_promo_newtab
+yahoo.com##li:has(>[data-wf-beacons])
