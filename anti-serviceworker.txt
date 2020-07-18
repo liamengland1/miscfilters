@@ -31,3 +31,4 @@
 @@||robwu.nl/crxviewer/$script,1p
 @@||virustotal.com^*.worker.$script,1p
 @@||www.t-mobile.com/static/worker.service.js$script,1p
+@@||static.observableusercontent.com/worker/worker.$script,1p
