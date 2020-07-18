@@ -139,7 +139,13 @@ thestar.com##.c-partner-articles
 ||accuradio.com/sweeper/
 ||accuradio.com/static/js/ltjs.js
 
+! The Hindu (thehindu.com)
+thehindu.com##.ad-ft
+thehindu.com###stickyfooterarticle
+thehindu.com##.support-jlm
+||dm.thehindu.com^
+
 ! Include uBo-specific filterlist extension
-!#if ext_ublock
+!#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
 !#endif
