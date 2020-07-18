@@ -66,13 +66,15 @@ theglobeandmail.com###subscription-pencil-area
 ||washingtonpost.com/subscribe/pw/
 ||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/subscribe/logging/
-###leaderboard-wrapper
+washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##.codedNewsletter.pb-f-page-newsletter-inLine
 washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
 washingtonpost.com##.interstitial.hide-for-print
+washingtonpost.com##.pb-f-ads-arcads
 washingtonpost.com##.pb-f-page-subscription-remind-later
 washingtonpost.com##.pb-lgmod
 washingtonpost.com##.promo
+washingtonpost.com##[class^="pb-f-ad-"]
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
 washingtonpost.com##[data-chain-name^="ad-group"]
 washingtonpost.com##[data-feature-id^="ad/"]
@@ -81,8 +83,6 @@ washingtonpost.com##[data-qa="newsletter"]
 
 ! Arc Publishing
 ##.arc-ad-wrapper
-##.pb-f-ads-arcads
-##[class^="pb-f-ad-"]
 ###arcad_recirc
 ##.arc-ad
 
