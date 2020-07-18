@@ -50,3 +50,6 @@ thestar.com##+js(set, __PRELOADED_CONFIG_DATA__.enableHardPaywall, false)
 accuradio.com###playerSkipLoading
 accuradio.com###playerSkipButton:style(display:inline!important)
 
+! The Hindu (thehindu.com)
+thehindu.com##+js(aopr, geoIdentify)
+thehindu.com##.entrySubs
