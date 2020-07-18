@@ -118,3 +118,4 @@ yahoo.com##div[id*="-AdBlockPromo"]
 yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved 
 yahoo.com,cdn.ampproject.org##.pencilad
+yahoo.com##.gemini-item-lite
