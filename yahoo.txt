@@ -36,7 +36,7 @@
 ||yimg.com/aaq/wf/wf-rapid-$script
 ||yimg.com/cv/~image
 ||yimg.com/cx/
-||yimg.com/dh/ap/$important
+||yimg.com/dh/ap/ad/$important
 ||yimg.com/dy/ads/
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
