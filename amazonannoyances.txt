@@ -39,7 +39,9 @@
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
+@@||ssl-images-amazon.com/images/I/*.js?$script
 @@||media-amazon.com/images/I/*.js?AUIClients/$script
+@@||media-amazon.com/images/I/*.js?$script
 ||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
