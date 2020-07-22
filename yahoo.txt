@@ -120,3 +120,5 @@ yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved
 yahoo.com,cdn.ampproject.org##.pencilad
 yahoo.com##.gemini-item-lite
 yahoo.com##.pub-upsell-item
+yahoo.com##a[href^="https://mgty.app.link/"]
+yahoo.com##a[href="https://news.yahoo.com/coronavirus"]:has(img[src$="/b3377b70-752c-11ea-b6ff-9a8bf5ac1326"])
