@@ -125,3 +125,4 @@ yahoo.com##a[href="https://news.yahoo.com/coronavirus"]:has(img[src$="/b3377b70-
 yahoo.com###mrt-node-main-0-CanvassMessage
 yahoo.com##.wafer-tooltip
 yahoo.com###YDC-Lead
+yahoo.com##.tdv2-wafer-Featurebar
