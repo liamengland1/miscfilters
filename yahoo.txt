@@ -55,7 +55,7 @@
 ||yimg.jp^*/rapidjp-$domain=~map.yahoo.co.jp
 @@||yimg.com/zz/combo$script
 
-answers.yahoo.com##[class*="NTKContainer"]
+answers.yahoo.com##[class*="CrownADContainer"]
 answers.yahoo.com##[class^="AnswersListLoginBanner"]
 answers.yahoo.com##[class^="JoinAnswersBanner"]
 aol.*###make-this-my-homepage
