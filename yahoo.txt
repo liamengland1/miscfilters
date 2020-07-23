@@ -126,3 +126,4 @@ yahoo.com###mrt-node-main-0-CanvassMessage
 yahoo.com##.wafer-tooltip
 yahoo.com,~sports.yahoo.com###YDC-Lead
 yahoo.com##.tdv2-wafer-Featurebar
+yahoo.com##.tdv2-applet-stream>ul>li:has(img[src^="https://s.yimg.com/cv/apiv2/"])
