@@ -38,10 +38,15 @@
 ||media-amazon.com/images/I/$script,domain=~imdb.com
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
+||amazon.*/images/I/$script,domain=~imdb.com
+||amazon.*/images/I/31BVuidgT8L.js
+||amazon.*/images/I/*.js?AUIClients/Maestrojs|$important
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
 @@||ssl-images-amazon.com/images/I/*.js?$script
 @@||media-amazon.com/images/I/*.js?AUIClients/$script
 @@||media-amazon.com/images/I/*.js?$script
+@@||amazon.*/images/I/*.js?AUIClients/$script
+@@||amazon.*/images/I/*.js?$script
 ||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
