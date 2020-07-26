@@ -83,7 +83,7 @@ search.yahoo.com##.searchSuperBottom.reg
 techcrunch.com###right_rail_sponsors
 yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
-yahoo.com###mrt-node-main-0-CanvassMessage
+yahoo.com##[id*="-CanvassMessage"]
 yahoo.com###sda-LDRB
 yahoo.com###sda-MAST
 yahoo.com###uh-scroll-promo
