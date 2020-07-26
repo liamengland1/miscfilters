@@ -85,6 +85,7 @@ yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
 yahoo.com##[id*="-CanvassMessage"]
 yahoo.com###sda-LDRB
+yahoo.com###sda-LDRB2
 yahoo.com###sda-MAST
 yahoo.com###uh-scroll-promo
 yahoo.com###uh-tb-firefoxpromo
@@ -128,3 +129,5 @@ yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com,cdn.ampproject.org##.pencilad
 yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved 
 yahoo.com,~sports.yahoo.com###YDC-Lead
+yahoo.com###YDC-Hero
+yahoo.com##[class*="articleAdMargin"]
