@@ -32,3 +32,4 @@
 @@||virustotal.com^*.worker.$script,1p
 @@||www.t-mobile.com/static/worker.service.js$script,1p
 @@||static.observableusercontent.com/worker/worker.$script,domain=observableusercontent.com
+@@||d301sr5gafysq2.cloudfront.net/*/dist/webpack/word-diff-worker.js
