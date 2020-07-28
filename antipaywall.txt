@@ -168,6 +168,18 @@ clarin.com##div.sp__SM
 ||st-wzb.clarin.com/weizenbock/
 ||static.clarin.com/commons/js/weizenbock.js
 
+! Albuquerque Journal (abqjournal.com)
+||tags.creativille.co.uk^$third-party
+||redcharger.co^$third-party
+||redcharger.net^$third-party
+||rcimages.xyz^$third-party
+||newsmemory.com/*/ads/?rotator_all=$subdocument
+||newsmemory.com/?prebid=
+abqjournal.com###PopupSignupForm_0
+abqjournal.com###custom_html-16
+abqjournal.com##[id^="story-ad-"]
+||vidazoo.com^$3p
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
