@@ -166,6 +166,7 @@ thehindu.com##.support-jlm
 clarin.com###nl-box
 clarin.com##div.sp__SM
 ||st-wzb.clarin.com/weizenbock/
+||static.clarin.com/commons/js/weizenbock.js
 
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
