@@ -161,6 +161,12 @@ thehindu.com##.support-jlm
 ! Hearst
 ||hearstnp.com^$third-party
 
+! Clarín (clarin.com)
+||clarin.com/commons/sw/
+clarin.com###nl-box
+clarin.com##div.sp__SM
+||st-wzb.clarin.com/weizenbock/
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
