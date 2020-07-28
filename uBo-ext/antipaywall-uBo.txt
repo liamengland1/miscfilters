@@ -53,3 +53,7 @@ accuradio.com###playerSkipButton:style(display:inline!important)
 ! The Hindu (thehindu.com)
 thehindu.com##+js(aopr, geoIdentify)
 thehindu.com##.entrySubs
+
+! Charlie Hebdo (charliehebdo.fr)
+charliehebdo.fr##+js(aopr, poool)
+charliehebdo.fr###poool-widget
