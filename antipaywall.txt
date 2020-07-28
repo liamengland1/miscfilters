@@ -154,9 +154,12 @@ thehindu.com##.support-jlm
 
 ! Trinity Audio (remove when Easylist adds it...)
 ||streamtheworld.com/ondemand/ars?
-||tsbluebox.com^$3p
-||vidoplay.com^$3p
-||whichtalk.com^$3p
+||tsbluebox.com^$third-party
+||vidoplay.com^$third-party
+||whichtalk.com^$third-party
+
+! Hearst
+||hearstnp.com^$third-party
 
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
