@@ -57,6 +57,7 @@
 ||amazon.*/gp/*/log?s=
 ||amazon.*/gp/cerberus/
 ||amazon.*/gp/*/promotions/
+||amazon.*/gp/redirection/
 /cdp/usage/*
 @@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
 ||aiv-delivery.net^$3p
