@@ -32,6 +32,8 @@
 ||ssl-images-amazon.com^*vowels$important
 /ReportEvent?
 /Clickstream?
+||ssl-images-amazon.com/images/G/01/marketing/
+||ssl-images-amazon.com/images/G/01/advertising/
 ||ssl-images-amazon.com/images/I/$script,domain=~imdb.com
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
@@ -60,7 +62,6 @@
 ||aiv-delivery.net^$3p
 ||amazon.com/*/metrics/
 ://device-metrics-*.amazon.$important
-||ssl-images-amazon.com/images/G/01/marketing/
 ! Ads on Amazon Prime Video / IMDB TV
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
