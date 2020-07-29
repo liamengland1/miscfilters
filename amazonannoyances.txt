@@ -196,6 +196,7 @@ amazon.*###a-popover-lgtbox
 amazon.*##body:style(overflow:auto!important;margin-right:0!important)
 amazon.*###universal-hero-quick-promo
 amazon.*##^.amzn-safe-frame
+amazon.*###merchandised-content
 
 blog.aboutamazon.com##.PromoImage
 
