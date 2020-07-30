@@ -136,3 +136,4 @@ yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved
 yahoo.com,~sports.yahoo.com###YDC-Lead
 yahoo.com###YDC-Hero
 yahoo.com##[class*="articleAdMargin"]
+yahoo.net##[data-component="SI-ads"]
