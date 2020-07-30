@@ -87,6 +87,8 @@ yahoo.com##[id*="-CanvassMessage"]
 yahoo.com###sda-LDRB
 yahoo.com###sda-LDRB2
 yahoo.com###sda-MAST
+yahoo.com###sda-WFPAD
+yahoo.com##.sda-DAPF
 yahoo.com###uh-scroll-promo
 yahoo.com###uh-tb-firefoxpromo
 yahoo.com###UHSearch>table>tbody>tr>td>.keywords
@@ -94,6 +96,9 @@ yahoo.com###viewer-LDRB
 yahoo.com###viewer-LDRB:upward(div[class])
 yahoo.com###viewer-LREC
 yahoo.com###viewer-MON
+yahoo.com##[id^="my-ads"]
+yahoo.com##[id^="viewer-"]
+yahoo.com##[id^="sda-"]
 yahoo.com###wafer-sponsoredStrip
 yahoo.com##.adv:upward(.js-stream-content)
 yahoo.com##.aside-sticky>:not([id^="modal-sidekick-"]):not(.aside-sticky-col)
