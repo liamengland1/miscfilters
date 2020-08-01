@@ -133,8 +133,8 @@ yahoo.com##div[id*="-AdBlockPromo"]
 yahoo.com##li:has(>[data-wf-beacons])
 yahoo.com,cdn.ampproject.org##.pencilad
 yahoo.com,cdn.ampproject.org##amp-embed.i-amphtml-unresolved 
-yahoo.com,~sports.yahoo.com,~finance.yahoo.com###YDC-Lead
-yahoo.com,~finance.yahoo.com###YDC-Hero
+yahoo.com,~sports.yahoo.com,###YDC-Lead:not(:has([id$="-HeadComponentTitle"]))
+yahoo.com,~finance.yahoo.com###YDC-Hero:not(:has([id*="HeadComponentVideo"]))
 yahoo.com##[class*="articleAdMargin"]
 yahoo.net##[data-component="SI-ads"]
 yahoo.com##li[data="AD"]
