@@ -125,6 +125,7 @@ yahoo.com##[data-applet-type="trendingtdv2wafer"]
 yahoo.com##[data-m_id="react-wafer-subscription"]:upward([id^="applet_"])
 yahoo.com##[data-ylk*="slk:teaser"]
 yahoo.com##a[href="https://news.yahoo.com/coronavirus"]:has(img[src$="/b3377b70-752c-11ea-b6ff-9a8bf5ac1326"])
+yahoo.com##a[href="https://news.yahoo.com/coronavirus"]:has(img[src$="/218cf040-6499-11ea-bf7c-c8d6ac35f695"])
 yahoo.com##a[href^="https://mgty.app.link/"]
 yahoo.com##div[data-reactid]>div[id$="-AbPromo"]
 yahoo.com##div[data-reactid]>div[id$="-PremiumPromoFooter"]
