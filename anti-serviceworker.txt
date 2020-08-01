@@ -34,3 +34,4 @@
 @@||static.observableusercontent.com/worker/worker.$script,domain=observableusercontent.com
 @@||d301sr5gafysq2.cloudfront.net/*/dist/webpack/word-diff-worker.js
 @@||riot.im^*/indexeddb-worker.js$script,1p
+@@/wix-bolt/*/node_modules/viewer-platform-worker/dist/bolt-worker.js$script,1p
