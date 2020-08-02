@@ -24,6 +24,9 @@
 ||onecount.net^$third-party
 ||profitwell.com^$third-party
 
+! Stripes (stripes.com)
+||pelcro.com/api/*/sdk/site?site_id=*
+
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
 ||townnews.com^*/promo_popup.$script
