@@ -4,5 +4,5 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
-~discord.com,*$csp=worker-src 'none';
+*$csp=worker-src 'none';
 @@||google.com/recaptcha/api2/anchor?ar=1$csp
