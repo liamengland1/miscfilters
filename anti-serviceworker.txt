@@ -4,34 +4,4 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
--sw.js|$script,xhr
--worker.js|$script,xhr
-.worker.$script,xhr
-/manifest.json$script,xhr,other
-/push_service_worker$script,xhr
-/pwa-manifest.json$script,xhr,other
-/pwa.$script,xhr,other
-/service-worker$script,xhr
-/service_worker$script,xhr
-/serviceworker$script,xhr
-/site.webmanifest$script,xhr,other
-/sw.$script,xhr
-/worker$script,xhr
-||storage.googleapis.com/workbox-cdn/$important
-/workbox-v4.3.1/*$important
-/workbox-*.prod.js|$important
-
-! Experimental
-! *##+js(aeld, load, navigator.serviceWorker.register)
-! End experimental
-
-@@||beta.protonmail.com/openpgp.worker.min.$1p
-@@||jshint.com/res/worker.js$script,1p
-@@||lelinhtinh.github.io/de4js/$script,1p
-@@||robwu.nl/crxviewer/$script,1p
-@@||virustotal.com^*.worker.$script,1p
-@@||www.t-mobile.com/static/worker.service.js$script,1p
-@@||static.observableusercontent.com/worker/worker.$script,domain=observableusercontent.com
-@@||d301sr5gafysq2.cloudfront.net/*/dist/webpack/word-diff-worker.js
-@@||riot.im^*/indexeddb-worker.js$script,1p
-@@/wix-bolt/*/node_modules/viewer-platform-worker/dist/bolt-worker.js$script,1p
+*$important,csp=worker-src 'none';
