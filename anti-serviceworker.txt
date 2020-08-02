@@ -6,3 +6,4 @@
 
 *$csp=worker-src 'none';
 @@||google.com/recaptcha/api2/anchor?ar=1$csp
+@@||discord.com^$csp,1p
