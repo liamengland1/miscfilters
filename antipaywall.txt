@@ -161,6 +161,7 @@ thehindu.com##.support-jlm
 
 ! Hearst
 ||hearstnp.com^$third-party
+@@||treg.hearstnp.com/treg.js$script
 
 ! Clarín (clarin.com)
 ||clarin.com/commons/sw/
