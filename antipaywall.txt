@@ -23,6 +23,7 @@
 ||poool.fr^$third-party
 ||onecount.net^$third-party
 ||profitwell.com^$third-party
+||pelcro.com^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
