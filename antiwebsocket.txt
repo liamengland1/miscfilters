@@ -42,3 +42,4 @@
 @@||glitch.me^$websocket,1p
 ! @@||wss-primary.slack.com^$websocket,1p
 @@||verizon.net:8443/SpeedTest/$websocket,domain=verizon.com
+@@||measurement-lab.org^$websocket,domain=performance.cira.ca
