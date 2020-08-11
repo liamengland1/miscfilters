@@ -25,6 +25,7 @@
 ||profitwell.com^$third-party
 ||pelcro.com^$third-party
 ||mppapi.io^$third-party
+||d1v9u0bgi1uimx.cloudfront.net^
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
