@@ -6,4 +6,4 @@
 
 *$csp=worker-src 'none';
 @@||google.com/recaptcha/api2/anchor?ar=1$csp
-@@$csp,domain=discord.com|news.sky.com|flightradar24.com|map.snapchat.com|lelinhtinh.github.io|unminify.com|jshint.com|twitch.tv|dashboard.covid19.data.gouv.fr|broadbandmap.fcc.gov|mega.nz
+@@$csp,domain=discord.com|news.sky.com|flightradar24.com|map.snapchat.com|lelinhtinh.github.io|unminify.com|jshint.com|twitch.tv|dashboard.covid19.data.gouv.fr|broadbandmap.fcc.gov|mega.nz|virustotal.com
