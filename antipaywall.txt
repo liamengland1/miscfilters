@@ -139,6 +139,7 @@ thewrap.com##[id*="-box-ad-"]
 thestar.com##[data-lpos="gamp"]
 thestar.com##.overlay.ReactModalPortal
 thestar.com##.c-partner-articles
+||resources.thestar.com^
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
