@@ -83,7 +83,7 @@ search.yahoo.com##.searchSuperBottom.reg
 techcrunch.com###right_rail_sponsors
 yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
-yahoo.com##[id*="-CanvassMessage"]
+! yahoo.com##[id*="-CanvassMessage"]
 yahoo.com###sda-LDRB
 yahoo.com###sda-LDRB2
 yahoo.com###sda-MAST
@@ -139,3 +139,5 @@ yahoo.com###YDC-Hero:not(:has([id*="HeadComponentVideo"]))
 yahoo.com##[class*="articleAdMargin"]
 yahoo.net##[data-component="SI-ads"]
 yahoo.com##li[data="AD"]
+yahoo.com##[id^="mrt-node"][id$="-Interstitial"]
+yahoo.com##[id^="mrt-node"][id$="-BackgroundImagePromote"]
