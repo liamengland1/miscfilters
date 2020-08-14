@@ -7,7 +7,7 @@
 *$websocket
 
 ! TODO: Get rid of generic exceptions
-@@$websocket,domain=discordapp.com|discord.com|educationincites.com|pearson.com|browserling.com|midomi.com|zoom.us|us.bbcollab.com|reddit.com|spark.adobe.com|kahoot.it|mem.rip|omegaboot.com
+@@$websocket,domain=discordapp.com|discord.com|pearson.com|browserling.com|midomi.com|zoom.us|us.bbcollab.com|reddit.com|spark.adobe.com|kahoot.it|mem.rip|omegaboot.com
 
 @@||guc-dealer.spotify.com^$websocket
 @@||edge-chat.instagram.com/chat$websocket,1p
