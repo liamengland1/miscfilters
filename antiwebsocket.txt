@@ -44,3 +44,4 @@
 @@||verizon.net:8443/SpeedTest/$websocket,domain=verizon.com
 @@||measurement-lab.org^$websocket,domain=performance.cira.ca
 @@||pdftron.educationincites.com^$websocket,1p
+@@||socket.quizizz.com^$websocket,1p
