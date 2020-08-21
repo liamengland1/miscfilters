@@ -46,3 +46,4 @@
 @@||educationincites.com^$websocket,1p
 @@||quizizz.com^$websocket,1p
 @@||nearpod.com^$websocket,1p
+@@||gimkitconnect.com^$websocket,domain=gimkit.com
