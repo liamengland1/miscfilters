@@ -47,3 +47,4 @@
 @@||quizizz.com^$websocket,1p
 @@||nearpod.com^$websocket,1p
 @@||gimkitconnect.com^$websocket,domain=gimkit.com
+@@||websdr.ewi.utwente.nl^$websocket,1p
