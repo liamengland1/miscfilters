@@ -48,3 +48,5 @@
 @@||nearpod.com^$websocket,1p
 @@||gimkitconnect.com^$websocket,domain=gimkit.com
 @@||websdr.ewi.utwente.nl^$websocket,1p
+@@||maestro.vhlcentral.com^$websocket,domain=m3a.vhlcentral.com
+@@||tokbox.com^$websocket,domain=m3a.vhlcentral.com
