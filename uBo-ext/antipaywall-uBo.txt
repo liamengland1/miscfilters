@@ -57,3 +57,11 @@ thehindu.com##.entrySubs
 ! Charlie Hebdo (charliehebdo.fr)
 charliehebdo.fr##+js(aopr, poool)
 charliehebdo.fr###poool-widget
+
+! NZ Herald (nzherald.co.nz)
+nzherald.co.nz##.QUnWjUZnT0nf:style(display:inline!important;opacity:1!important;color:#000!important!;margin:10px 0!important)
+nzherald.co.nz##[style="display:none;"]:style(display:inline!important;opacity:1!important;color:#000!important;margin:10px 0!important)
+nzherald.co.nz##.ellipsis::after:style(content:''!important)
+nzherald.co.nz##.premium-content::before:style(background-image:none!important)
+nzherald.co.nz##.svg-gallery-fullscreen-icon.svg-bg.fullscreen-btn
+nzherald.co.nz##.marketing---text-below:upward(1)
