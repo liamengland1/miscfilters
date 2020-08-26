@@ -187,6 +187,11 @@ abqjournal.com###custom_html-16
 abqjournal.com##[id^="story-ad-"]
 ||vidazoo.com^$3p
 
+! NZ Herald (nzherald.co.nz)
+nzherald.co.nz##.pb-f-article-related-articles
+nzherald.co.nz###premium-toaster
+||nzherald.co.nz/arc/subs/p.js
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
