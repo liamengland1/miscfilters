@@ -141,3 +141,4 @@ yahoo.net##[data-component="SI-ads"]
 yahoo.com##li[data="AD"]
 yahoo.com##[id^="mrt-node"][id$="-Interstitial"]
 yahoo.com##[id^="mrt-node"][id$="-BackgroundImagePromote"]
+yahoo.com##.subscriptiontdv2
