@@ -97,7 +97,7 @@ yahoo.com###viewer-LDRB:upward(div[class])
 yahoo.com###viewer-LREC
 yahoo.com###viewer-MON
 yahoo.com##[id^="my-ads"]
-yahoo.com##[id^="viewer-"]
+! yahoo.com##[id^="viewer-"]
 yahoo.com##[id^="sda-"]
 yahoo.com###wafer-sponsoredStrip
 yahoo.com##.adv:upward(.js-stream-content)
