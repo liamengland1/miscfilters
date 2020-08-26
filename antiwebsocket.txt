@@ -50,3 +50,4 @@
 @@||websdr.ewi.utwente.nl^$websocket,1p
 @@||maestro.vhlcentral.com^$websocket,domain=m3a.vhlcentral.com
 @@||tokbox.com^$websocket,domain=m3a.vhlcentral.com
+@@||twilio.com/signal$websocket,domain=screamclub.club
