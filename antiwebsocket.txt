@@ -51,3 +51,4 @@
 @@||maestro.vhlcentral.com^$websocket,domain=m3a.vhlcentral.com
 @@||tokbox.com^$websocket,domain=m3a.vhlcentral.com
 @@||twilio.com/signal$websocket,domain=screamclub.club
+@@||rt.padlet.com/_/cable$websocket,1p
