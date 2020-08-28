@@ -4,6 +4,6 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
-*$csp=worker-src 'none',domain=~discord.com|~news.sky.com|~flightradar24.com|~map.snapchat.com|~lelinhtinh.github.io|~unminify.com|~jshint.com|~twitch.tv|~dashboard.covid19.data.gouv.fr|~broadbandmap.fcc.gov|~mega.nz|~virustotal.com|~docs.google.com|~educationincites.com|~cnn.io|~gchq.github.io|~opensource.exposed|~mapbox.com|~500px.com|~purpleair.com|~maps.baidu.com
+*$csp=worker-src 'none',domain=~discord.com|~news.sky.com|~flightradar24.com|~map.snapchat.com|~lelinhtinh.github.io|~unminify.com|~jshint.com|~twitch.tv|~dashboard.covid19.data.gouv.fr|~broadbandmap.fcc.gov|~mega.nz|~virustotal.com|~docs.google.com|~educationincites.com|~cnn.io|~gchq.github.io|~opensource.exposed|~mapbox.com|~500px.com|~purpleair.com|~maps.baidu.com|~kahoot.it
 @@||google.com/recaptcha/api2/anchor?ar=1$csp
 ! @@$csp,domain=
