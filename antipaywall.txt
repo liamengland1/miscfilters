@@ -136,11 +136,13 @@ thewrap.com##[id*="-box-ad-"]
 ! El Mercurio - Print Edition (elmercurio.com)
 ||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
 
-! Toronto Star (thestar.com)
-thestar.com##[data-lpos="gamp"]
-thestar.com##.overlay.ReactModalPortal
-thestar.com##.c-partner-articles
+! Metroland Media Group / Torstar
+thestar.com,thespec.com##[data-lpos="gamp"]
+thestar.com,thespec.com##.overlay.ReactModalPortal
+thestar.com,thespec.com##.c-partner-articles
 ||resources.thestar.com^
+||thestar.com/api/overlaydata
+||thespec.com/api/overlaydata
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
