@@ -42,9 +42,9 @@ bizjournals.com##+js(set, __page__.isPremium, false)
 ||harpers.org^*/leaky-paywall/
 harpers.org##article.single:style(display:block!important)
 
-! Toronto Star (thestar.com)
-thestar.com##+js(set, __PRELOADED_STATE__.paywall, false)
-thestar.com##+js(set, __PRELOADED_CONFIG_DATA__.enableHardPaywall, false)
+! Metroland Media Group / Torstar
+thestar.com,thespec.com##+js(set, __PRELOADED_STATE__.paywall, false)
+thestar.com,thespec.com##+js(set, __PRELOADED_CONFIG_DATA__.enableHardPaywall, false)
 
 ! AccuRadio (accuradio.com)
 accuradio.com###playerSkipLoading
