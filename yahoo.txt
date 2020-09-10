@@ -27,7 +27,7 @@
 ||vidible.tv^*/rapid.js$important
 ||wc.yahoodns.net^
 ||yahoo.com/dms/exp.json
-||yahoo.com/pageview/
+||yahoo.com/pageview
 ||yahoodns.net/cs/
 ||yahoodns.net/i.gif
 ||yimg.com/aaq/fp/~stylesheet
