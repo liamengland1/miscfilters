@@ -195,6 +195,9 @@ nzherald.co.nz##.pb-f-article-related-articles
 nzherald.co.nz###premium-toaster
 ||nzherald.co.nz/arc/subs/p.js
 
+! Ladders (theladders.com)
+||theladders.com/api/auth/is-logged-in
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
