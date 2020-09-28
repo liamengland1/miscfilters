@@ -1,6 +1,6 @@
 ! Title: Amazon annoyances
 ! Expires: 3 days
-! Description: Block annoyances, ads, and tracking on Amazon and IMDB
+! Description: Block annoyances, ads, and tracking on Amazon sites
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
@@ -104,6 +104,9 @@
 ||spade.twitch.tv^
 ! IMDB
 ||cloudfront.net/jwplayer-*/vast.js
+! Abebooks
+||abebookscdn.com^*/coremetrics-$script
+||abebookscdn.com^*/digitaldata/
 
 ! Amazon element hiding
 
