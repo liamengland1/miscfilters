@@ -107,6 +107,7 @@
 ! Abebooks
 ||abebookscdn.com^*/coremetrics-$script
 ||abebookscdn.com^*/digitaldata/
+||abebookscdn.com^*/PixelRenderer.js
 
 ! Amazon element hiding
 
