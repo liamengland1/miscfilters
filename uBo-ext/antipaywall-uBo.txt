@@ -65,3 +65,6 @@ nzherald.co.nz##.ellipsis::after:style(content:''!important)
 nzherald.co.nz##.premium-content::before:style(background-image:none!important)
 nzherald.co.nz##.svg-gallery-fullscreen-icon.svg-bg.fullscreen-btn
 nzherald.co.nz##.marketing---text-below:upward(1)
+
+! Namibia Media Holdings
+namibiansun.com,az.com.na,republikein.com.na##+js(set, $.prototype.modal, noopFunc)
