@@ -26,6 +26,7 @@
 ||pelcro.com^$third-party
 ||mppapi.io^$third-party
 ||batch.com^$third-party
+/coil-web-monetization/$script
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
