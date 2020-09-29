@@ -41,6 +41,7 @@
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
+||ssl-images-amazon.com/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 ||media-amazon.com/images/G/01/advertising/
 ||media-amazon.com/images/G/01/csm/
 ||media-amazon.com/images/G/01/dacx/
@@ -49,6 +50,7 @@
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||media-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
+||media-amazon.com/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 ||amazon.*/images/G/01/advertising/
 ||amazon.*/images/G/01/csm/
 ||amazon.*/images/G/01/dacx/
@@ -57,6 +59,7 @@
 ||amazon.*/images/I/31BVuidgT8L.js
 ||amazon.*/images/I/*.js?AUIClients/Maestrojs|$important
 ||amazon.*/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
+||amazon.*/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 @@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
 @@||ssl-images-amazon.com/images/I/*.js?$script
 @@||media-amazon.com/images/I/*.js?AUIClients/$script
