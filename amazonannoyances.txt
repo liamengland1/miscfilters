@@ -20,6 +20,7 @@
 !stats/logImpressions
 /logImp
 /log-metrics
+/track_framework_metrics
 !||amazon.com/vap/*
 ||amazon.*/vap/*/feedback$xhr
 /stream-logging
