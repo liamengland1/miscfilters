@@ -205,6 +205,7 @@ amazon.*###merchandised-content
 blog.aboutamazon.com##.PromoImage
 
 music.amazon.*###nightwing-station-upsell
+music.amazon.*##music-barker
 
 ! Amazon CN element hiding
 
