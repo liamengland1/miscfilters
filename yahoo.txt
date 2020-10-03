@@ -72,10 +72,12 @@ compuserve.com,isp.netscape.com##.bannerAdWrapper
 engadget.com###right-ads-rail
 engadget.com##.mb-20.mt-20
 engadget.com##.ta-c:has([data-aol-adcall])
-huffpost.com##.advertisement
-huffpost.com##.inline-subscription-module
-huffpost.com##.subscription-toaster
-huffpost.com##body:style(overflow-x:hidden!important)
+huffpost.*,huffingtonpost.*##.advertisement
+huffpost.*,huffingtonpost.*##.inline-subscription-module
+huffpost.*,huffingtonpost.*##.subscription-toaster
+huffpost.*,huffingtonpost.*##body:style(overflow-x:hidden!important)
+huffpost.*,huffingtonpost.*##.yr-newsletter-toaster
+huffpost.*,huffingtonpost.*##.text>[dir="ltr"]>div>p:has(a[href$="/subscribe"])
 mail.yahoo.com##div[data-test-id="pencil-ad"]
 mail.yahoo.com##td:has(>div>div[data-test-id="darla-container"])
 news.yahoo.com##.Z\(1\).StretchedBox:empty
@@ -85,17 +87,17 @@ yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
 ! yahoo.com##[id*="-CanvassMessage"]
 yahoo.com###sda-LDRB
+yahoo.com###viewer-LDRB
 yahoo.com###sda-LDRB2
+yahoo.com###viewer-LREC
 yahoo.com###sda-MAST
+yahoo.com###viewer-MAST
+yahoo.com###viewer-MON
 yahoo.com###sda-WFPAD
 yahoo.com##.sda-DAPF
 yahoo.com###uh-scroll-promo
 yahoo.com###uh-tb-firefoxpromo
 yahoo.com###UHSearch>table>tbody>tr>td>.keywords
-yahoo.com###viewer-LDRB
-yahoo.com###viewer-LDRB:upward(div[class])
-yahoo.com###viewer-LREC
-yahoo.com###viewer-MON
 yahoo.com##[id^="my-ads"]
 ! yahoo.com##[id^="viewer-"]
 yahoo.com##[id^="sda-"]
@@ -142,3 +144,5 @@ yahoo.com##li[data="AD"]
 yahoo.com##[id^="mrt-node"][id$="-Interstitial"]
 yahoo.com##[id^="mrt-node"][id$="-BackgroundImagePromote"]
 yahoo.com##.subscriptiontdv2
+yahoo.com##.stream-related-drawer
+yahoo.com##.userintent-tooltip
