@@ -146,4 +146,5 @@ yahoo.com##[id^="mrt-node"][id$="-Interstitial"]
 yahoo.com##[id^="mrt-node"][id$="-BackgroundImagePromote"]
 yahoo.com##.subscriptiontdv2
 yahoo.com##.stream-related-drawer
+yahoo.com##.stream-related-content
 yahoo.com##.userintent-tooltip
