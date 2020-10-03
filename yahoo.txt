@@ -86,6 +86,7 @@ techcrunch.com###right_rail_sponsors
 yahoo.com###browserExtensionPromotionBanner
 yahoo.com###mega-banner-wrapper
 ! yahoo.com##[id*="-CanvassMessage"]
+yahoo.com###homepage-viewer > div[class*="flexFullWidth"]
 yahoo.com###sda-LDRB
 yahoo.com###viewer-LDRB
 yahoo.com###sda-LDRB2
