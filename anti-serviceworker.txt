@@ -9,5 +9,6 @@
 ! @@$csp,domain=
 /service-worker.js
 /serviceWorker.js
+/serviceworker-
 -serviceworker/$script
 ||storage.googleapis.com/workbox-cdn/$important
