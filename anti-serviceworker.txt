@@ -11,4 +11,5 @@
 /serviceWorker.js
 /serviceworker-
 -serviceworker/$script
+-service_worker.js
 ||storage.googleapis.com/workbox-cdn/$important
