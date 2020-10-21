@@ -19,6 +19,9 @@
 ||consent.cmp.oath.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||ganon.yahoo.com^
+||fc.yahoo.com^
+||yahoo.com/sdarla/
+||yahoo.com/account/js-reporting
 ||guce.*/*?consentTypes=
 ||logql.yahoo.co.jp^
 ||oath.cloud^
