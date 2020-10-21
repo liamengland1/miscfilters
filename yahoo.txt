@@ -33,7 +33,7 @@
 ||yahoo.com/pageview
 ||yahoodns.net/cs/
 ||yahoodns.net/i.gif
-||yimg.com/aaq/fp/~stylesheet
+||yimg.com/aaq/fp/$~stylesheet
 ||yimg.com/aaq/hc/
 ||yimg.com/aaq/vzm/
 ||yimg.com/aaq/wf/wf-rapid-$script
