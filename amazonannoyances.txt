@@ -70,7 +70,7 @@
 ||amazon.*/gp/redirection/
 ||amazon.*/gp/aq-feedback/
 /cdp/usage/*
-@@||atv-ps.amazon.*/cdp/usage/GetAppStartupConfig?$xhr,1p
+@@/cdp/usage/GetAppStartupConfig?$xhr,domain=amazon.*|primevideo.com|imdb.com|twitch.tv
 ||aiv-delivery.net^$3p
 ||amazon.com/*/metrics/
 ://device-metrics-*.amazon.$important
