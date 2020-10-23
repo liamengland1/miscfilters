@@ -37,7 +37,6 @@
 ||ssl-images-amazon.com/images/G/01/csm/
 ||ssl-images-amazon.com/images/G/01/dacx/
 ||ssl-images-amazon.com/images/G/01/marketing/
-||ssl-images-amazon.com/images/I/$script,domain=~imdb.com
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
@@ -46,7 +45,6 @@
 ||media-amazon.com/images/G/01/csm/
 ||media-amazon.com/images/G/01/dacx/
 ||media-amazon.com/images/G/01/marketing/
-||media-amazon.com/images/I/$script,domain=~imdb.com
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||media-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
@@ -55,17 +53,10 @@
 ||amazon.*/images/G/01/csm/
 ||amazon.*/images/G/01/dacx/
 ||amazon.*/images/G/01/marketing/
-||amazon.*/images/I/$script,domain=~imdb.com
 ||amazon.*/images/I/31BVuidgT8L.js
 ||amazon.*/images/I/*.js?AUIClients/Maestrojs|$important
 ||amazon.*/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
 ||amazon.*/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
-@@||ssl-images-amazon.com/images/I/*.js?AUIClients/$script
-@@||ssl-images-amazon.com/images/I/*.js?$script
-@@||media-amazon.com/images/I/*.js?AUIClients/$script
-@@||media-amazon.com/images/I/*.js?$script
-@@||amazon.*/images/I/*.js?AUIClients/$script
-@@||amazon.*/images/I/*.js?$script
 ||amazon.*/analytics
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
