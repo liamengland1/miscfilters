@@ -58,6 +58,7 @@
 ||amazon.*/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
 ||amazon.*/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 ||amazon.*/analytics
+/ajax/analytics.html/$domain=amazon.*|primevideo.com|imdb.com
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
