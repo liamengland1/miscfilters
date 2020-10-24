@@ -80,7 +80,7 @@
 ||aiv-cdn.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ||akamaihd.net/interstitial/$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
 ! Amazon Music
-||music.amazon.*/api/cirrus/v3/
+||music.amazon.*/api/cirrus/
 ||a2z.com/api/*refMarker
 ||a2z.com/api/*metricsToken
 ||a2z.com/api/*metricsInfo
