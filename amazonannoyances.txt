@@ -28,7 +28,7 @@
 /recordWeblabTrigger.html
 /recImpression
 /ajax-refmarker
-/refMarkerTarget.html
+!/refMarkerTarget.html
 ||media-amazon.com^*/metrics.
 ||ssl-images-amazon.com^*vowels$important
 /ReportEvent?
