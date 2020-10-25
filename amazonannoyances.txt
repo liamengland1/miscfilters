@@ -199,7 +199,7 @@ amazon.*##.vse-empty-view-container
 amazon.*##body:style(overflow:auto!important;margin-right:0!important)
 amazon.*###universal-hero-quick-promo
 amazon.*##^.amzn-safe-frame
-amazon.*###merchandised-content
+!amazon.*###merchandised-content
 amazon.*##.digital-deals-banner
 
 blog.aboutamazon.com##.PromoImage
