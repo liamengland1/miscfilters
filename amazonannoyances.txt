@@ -110,6 +110,7 @@
 ||abebookscdn.com^*/PixelRenderer.js
 ! Audible
 /metrics/log-values
+/audible-seo-analytics/*
 
 ! Amazon element hiding
 
