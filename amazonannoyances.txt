@@ -37,7 +37,7 @@
 ||ssl-images-amazon.com/images/G/01/advertising/
 ||ssl-images-amazon.com/images/G/01/csm/
 ||ssl-images-amazon.com/images/G/01/dacx/
-||ssl-images-amazon.com/images/G/01/marketing/
+!||ssl-images-amazon.com/images/G/01/marketing/
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
@@ -45,7 +45,7 @@
 ||media-amazon.com/images/G/01/advertising/
 ||media-amazon.com/images/G/01/csm/
 ||media-amazon.com/images/G/01/dacx/
-||media-amazon.com/images/G/01/marketing/
+!||media-amazon.com/images/G/01/marketing/
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||media-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
@@ -53,7 +53,7 @@
 ||amazon.*/images/G/01/advertising/
 ||amazon.*/images/G/01/csm/
 ||amazon.*/images/G/01/dacx/
-||amazon.*/images/G/01/marketing/
+!||amazon.*/images/G/01/marketing/
 ||amazon.*/images/I/31BVuidgT8L.js
 ||amazon.*/images/I/*.js?AUIClients/Maestrojs|$important
 ||amazon.*/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
