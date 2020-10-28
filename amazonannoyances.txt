@@ -70,6 +70,7 @@
 ||amazon.*/gp/*/promotions/
 ||amazon.*/gp/redirection/
 ||amazon.*/gp/aq-feedback/
+||amazon.*/api/stats/
 /cdp/usage/*
 /cdp/insights/*
 @@/cdp/usage/GetAppStartupConfig?$xhr,domain=amazon.*|primevideo.com|imdb.com|twitch.tv
@@ -107,6 +108,8 @@
 ||abebookscdn.com^*/coremetrics-$script
 ||abebookscdn.com^*/digitaldata/
 ||abebookscdn.com^*/PixelRenderer.js
+! Audible
+/metrics/log-values
 
 ! Amazon element hiding
 
