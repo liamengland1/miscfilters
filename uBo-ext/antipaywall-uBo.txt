@@ -68,3 +68,7 @@ nzherald.co.nz##.marketing---text-below:upward(1)
 
 ! Namibia Media Holdings
 namibiansun.com,az.com.na,republikein.com.na##+js(set, $.prototype.modal, noopFunc)
+
+! Cooksmarts
+mealplans.cooksmarts.com##.paywall-upsell
+mealplans.cooksmarts.com##.paywall:style(color: unset !important; text-shadow: none !important)
