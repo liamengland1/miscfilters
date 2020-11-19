@@ -206,6 +206,7 @@ amazon.*###universal-hero-quick-promo
 amazon.*##^.amzn-safe-frame
 !amazon.*###merchandised-content
 amazon.*##.digital-deals-banner
+amazon.*##.recommendation-widget.a-section
 
 blog.aboutamazon.com##.PromoImage
 
