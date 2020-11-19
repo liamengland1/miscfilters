@@ -71,6 +71,7 @@
 ||amazon.*/gp/redirection/
 ||amazon.*/gp/aq-feedback/
 ||amazon.*/api/stats/
+||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
 /cdp/insights/*
 @@/cdp/usage/GetAppStartupConfig?$xhr,domain=amazon.*|primevideo.com|imdb.com|twitch.tv
