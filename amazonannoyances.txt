@@ -9,6 +9,7 @@
 ||payments-amazon.com^$3p
 ||amazon-adsystem.com^$3p
 ||amazon.dev^$3p
+||stats.live-video.net^
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
