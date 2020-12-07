@@ -1,7 +1,7 @@
-||youtube.com/embed/$3p,frame,redirect=clicktoload
-||scribd.com/embeds/$3p,frame,redirect=clicktoload
-||player.vimeo.com/video/$3p,frame,redirect=clicktoload
-||docs.google.com/document/d/e/$3p,frame,redirect=clicktoload
-||docs.google.com/presentation/d/e/$3p,frame,redirect=clicktoload
-||drive.google.com/file/$3p,frame,redirect=clicktoload
-||s3.amazonaws.com/embed.animoto.com/$3p,frame,redirect=clicktoload
+||youtube.com/embed/$3p,frame,redirect=click2load.html
+||scribd.com/embeds/$3p,frame,redirect=click2load.html
+||player.vimeo.com/video/$3p,frame,redirect=click2load.html
+||docs.google.com/document/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/presentation/d/e/$3p,frame,redirect=click2load.html
+||drive.google.com/file/$3p,frame,redirect=click2load.html
+||s3.amazonaws.com/embed.animoto.com/$3p,frame,redirect=click2load.html
