@@ -230,7 +230,7 @@ imdb.com##.buybox__modal
 imdb.com##.promoted-provider
 imdb.com##.mini-article:has(.ab_zergnet)
 imdb.com##.mini-article:has(.ab_widget)
-imdb.com##.article:has(.ab_widget)
+! imdb.com##.article:has(.ab_widget)
 imdb.com##.pro_logo_main_title
 imdb.com##.slot_wrapper
 
