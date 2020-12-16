@@ -17,3 +17,4 @@
 @@||google.com/recaptcha/api2/anchor?ar=1$subdocument,csp
 @@||d3nkfb7815bs43.cloudfront.net/?arid=$subdocument,csp
 @@||familiars.io^$csp
+@@||familiars.io/sw.js
