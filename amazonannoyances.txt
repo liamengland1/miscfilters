@@ -225,6 +225,7 @@ amazon.*##^.amzn-safe-frame
 amazon.*##.digital-deals-banner
 amazon.*##.recommendation-widget.a-section
 amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
+amazon.*###promoGrid
 
 blog.aboutamazon.com##.PromoImage
 
