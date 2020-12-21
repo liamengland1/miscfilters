@@ -72,6 +72,7 @@
 ||amazon.*/gp/redirection/
 ||amazon.*/gp/aq-feedback/
 ||amazon.*/api/stats/
+||amazon.*/gp/audible/sample-player/log/
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
 /cdp/insights/*
