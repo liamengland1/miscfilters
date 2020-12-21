@@ -113,7 +113,8 @@
 ! Audible
 /metrics/log-values
 /audible-seo-analytics/*
-||audible.com/webplayer/*/logcounter
+||audible.*/webplayer/*/logcounter
+||audible.*/api/set-stat
 
 ! Amazon element hiding
 
