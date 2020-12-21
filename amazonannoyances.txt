@@ -82,6 +82,7 @@
 ||amazon.*/gp/p13n-
 ||amazon.*/gp/ubp/misc/crossDomainLocalStorageWriter.html
 ||amazon.*/gp/ubp/misc/ping_pages/
+||amazon.*/gp/recent-history-
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
 /cdp/insights/*
