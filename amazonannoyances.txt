@@ -151,6 +151,7 @@ amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
 amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
 amazon.*##.celwidget[data-feature-name="cerberus"]
+amazon.*##.celwidget[data-feature-name="heimdallShoppingCxFeedback"]
 amazon.*##.s-result-item:has(.celwidget[class*="loom-desktop"])
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
