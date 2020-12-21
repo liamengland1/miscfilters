@@ -191,7 +191,7 @@ amazon.*##.kindle-typ-recs-wrapper
 ! amazon.*##.a-carousel-container:upward(.a-row)
 amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
 ! amazon.*##.a-carousel-container
-amazon.*##[data-a-carousel-options="{}"]
+! amazon.*##[data-a-carousel-options="{}"]
 amazon.*##a[href*="_bark_"]:upward(.a-section)
 amazon.*##.subscribe-bottom-bar
 amazon.*##.ku-promo-message:upward(.a-section)
