@@ -147,6 +147,7 @@ amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
 amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
 amazon.*##.celwidget[data-cel-widget*="-sims_"]
 amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
+amazon.*##.celwidget[data-cel-widget^="p13n-"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
 amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
