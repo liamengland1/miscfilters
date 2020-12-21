@@ -77,6 +77,7 @@
 ||amazon.*/gp/product/du/bbop-ms3-ajax-endpoint.html
 ||amazon.*/gp/*/ajax/track.html
 ||amazon.*/gp/p13n-
+||amazon.*/gp/ubp/misc/crossDomainLocalStorageWriter.html
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
 /cdp/insights/*
