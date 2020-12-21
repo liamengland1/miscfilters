@@ -69,6 +69,7 @@
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
 ||amazon.*/record-promo-
+||amazon.*/dppui/event
 ||amazon.*/gp/*/log?s=
 ||amazon.*/gp/cerberus/
 ||amazon.*/gp/*/promotions/
