@@ -73,8 +73,9 @@
 ||amazon.*/gp/aq-feedback/
 ||amazon.*/api/stats/
 ||amazon.*/gp/audible/sample-player/log/
-||amazon.*/gp/aod/ajax/weblab-trigger.html
+||amazon.*/gp/*/ajax/weblab-trigger.html
 ||amazon.*/gp/product/du/bbop-ms3-ajax-endpoint.html
+||amazon.com/gp/*/ajax/track.html
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
 /cdp/insights/*
