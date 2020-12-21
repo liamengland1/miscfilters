@@ -68,6 +68,7 @@
 ||amazon.*/monitoring.html
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
+||amazon.*/recordRefTag?
 ||amazon.*/record-promo-
 ||amazon.*/dppui/event
 ||amazon.*/gp/*/log?s=
