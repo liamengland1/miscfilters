@@ -37,6 +37,7 @@
 /Clickstream?
 ||ssl-images-amazon.com/images/G/01/advertising/
 ||ssl-images-amazon.com/images/G/01/csm/
+@@||ssl-images-amazon.com/images/G/01/csm/showads.v2.js
 ||ssl-images-amazon.com/images/G/01/dacx/
 !||ssl-images-amazon.com/images/G/01/marketing/
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
@@ -45,6 +46,7 @@
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 ||media-amazon.com/images/G/01/advertising/
 ||media-amazon.com/images/G/01/csm/
+@@||media-amazon.com/images/G/01/csm/showads.v2.js
 ||media-amazon.com/images/G/01/dacx/
 !||media-amazon.com/images/G/01/marketing/
 ||media-amazon.com/images/I/31BVuidgT8L.js
@@ -53,6 +55,7 @@
 ||media-amazon.com/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
 ||amazon.*/images/G/01/advertising/
 ||amazon.*/images/G/01/csm/
+@@||amazon.*/images/G/01/csm/showads.v2.js
 ||amazon.*/images/G/01/dacx/
 !||amazon.*/images/G/01/marketing/
 ||amazon.*/images/I/31BVuidgT8L.js
