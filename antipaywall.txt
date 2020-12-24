@@ -156,7 +156,7 @@ thewrap.com##[id*="-box-ad-"]
 ##[data-lpos="gamp"]
 ##[data-lpos="in-article-messaging"]
 ##[data-lpos^="registration|"]
-##[data-lpos^="promo-]
+##[data-lpos^="promo-"]
 ! thestar.com,thespec.com,therecord.com##.overlay.ReactModalPortal
 thestar.com,thespec.com,therecord.com##.c-partner-articles
 thestar.com,thespec.com,therecord.com##.c-button--subscribe
