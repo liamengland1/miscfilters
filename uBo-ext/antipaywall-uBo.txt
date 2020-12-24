@@ -27,11 +27,6 @@ bostonglobe.com##+js(set, bg.page.exemptFromMeter, true)
 ! The Christian Science Monitor (csmonitor.com)
 csmonitor.com##+js(json-prune, ids meteredIds, modified)
 
-! Diario Austral (australvaldivia.cl)
-australvaldivia.cl##body:style(overflow:auto!important)
-australvaldivia.cl##.modal-wrapper
-australvaldivia.cl##+js(ra, oncontextmenu)
-
 ! The Business Journals (bizjournals.com)
 bizjournals.com##+js(set, __page__.isPremium, false)
 
