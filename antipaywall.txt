@@ -26,6 +26,7 @@
 ||profitwell.com^$third-party
 ||pelcro.com^$third-party
 ||mppapi.io^$third-party
+||mppglobal.com^$third-party
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 /coil-web-monetization/*
@@ -151,9 +152,13 @@ thewrap.com##[id*="-box-ad-"]
 ||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
 
 ! Metroland Media Group / Torstar
-thestar.com,thespec.com,therecord.com##[data-lpos="gamp"]
-thestar.com,thespec.com,therecord.com##.overlay.ReactModalPortal
-thestar.com,thespec.com,therecord.com##.c-partner-articles
+###ad-masthead
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos="gamp"]
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos="in-article-messaging"]
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos^="registration|"]
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.overlay.ReactModalPortal
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.c-partner-articles
+thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.c-button--subscribe
 ||resources.thestar.com^
 /api/overlaydata$domain=thestar.com|thespec.com|therecord.com
 
