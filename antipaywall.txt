@@ -44,6 +44,7 @@
 ||californiatimes.com^*/Bootstrap.js$script
 ||californiatimes.com/meter/$script
 ||californiatimes.com/meteringjs/$script
+||californiatimes.com/newsletter-campaign-manager/$script
 
 ! The New York Times (nytimes.com)
 ||meter-svc.nytimes.com/meter.js?
