@@ -19,9 +19,10 @@ nytimes.com##+js(set, navigator.storage.estimate, undefined)
 nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 !#endif
 
-! The Boston Globe (bostonglobe.com) // TODO FIX
-! @@||meter.bostonglobe.com^$script,1p
-! bostonglobe.com##+js(nostif, p&&p[g])
+! The Boston Globe (bostonglobe.com)
+@@||meter.bostonglobe.com^$script,1p
+bostonglobe.com##+js(set, bg.page.exemptFromMeter, true)
+@@||bostonglobe.com/api/v1/setCookie$xhr,1p
 
 ! The Christian Science Monitor (csmonitor.com)
 csmonitor.com##+js(json-prune, ids meteredIds, modified)
