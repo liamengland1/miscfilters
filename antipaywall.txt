@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with Adblock Plus, however, it is recommended to use uBlock Origin.
+! It is recommended to use this list in combination with both Easylist and Easyprivacy.
 
 ! General
 ||news.google.com/swg/$script,third-party
