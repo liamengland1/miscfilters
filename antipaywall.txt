@@ -155,7 +155,7 @@ thestar.com,thespec.com,therecord.com##[data-lpos="gamp"]
 thestar.com,thespec.com,therecord.com##.overlay.ReactModalPortal
 thestar.com,thespec.com,therecord.com##.c-partner-articles
 ||resources.thestar.com^
-/api/overlaydata$domain=thestar.com|thespec.com|therecord.coom
+/api/overlaydata$domain=thestar.com|thespec.com|therecord.com
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
