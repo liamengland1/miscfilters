@@ -26,6 +26,7 @@
 ||pelcro.com^$third-party
 ||mppapi.io^$third-party
 ||batch.com^$third-party
+||lightboxcdn.com^$third-party
 /coil-web-monetization/*
 
 ! Blox CMS - Town News
