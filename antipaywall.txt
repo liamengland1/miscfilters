@@ -209,6 +209,9 @@ nzherald.co.nz###premium-toaster
 ! Ladders (theladders.com)
 ||theladders.com/api/auth/is-logged-in
 
+! Diario Austral (australvaldivia.cl)
+||pram.pasedigital.cl/API/User/Status
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
