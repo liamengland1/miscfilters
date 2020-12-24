@@ -59,12 +59,14 @@ nytimes.com###credential_picker_container
 ||townnews.com/stltoday.com/*/stl.init.js$script,domain=stltoday.com
 
 ! Bloomberg (bloomberg.com)
-||assets.bwbx.io/s3/fence/$script
+||assets.bwbx.io^*/fence/$script
 ||assets.bwbx.io^*/pianola/$script
 bloomberg.com###pathfinder-tout
 
 ! The Globe and Mail (theglobeandmail.com)
 theglobeandmail.com###subscription-pencil-area
+theglobeandmail.com##.pb-f-marketing-container-placeholder
+theglobeandmail.com##.container-with-ad
 
 ! Washington Post (washingtonpost.com)
 ||washingtonpost.com^*/pwapi-$script
@@ -72,6 +74,7 @@ theglobeandmail.com###subscription-pencil-area
 ||washingtonpost.com/subscribe/pw/
 ||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/subscribe/logging/
+||subscribe.washingtonpost.com^
 washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##.codedNewsletter.pb-f-page-newsletter-inLine
 washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
@@ -86,6 +89,7 @@ washingtonpost.com##[data-chain-name^="ad-group"]
 washingtonpost.com##[data-feature-id^="ad/"]
 washingtonpost.com##[data-qa="interstitial-link-wrapper"]
 washingtonpost.com##[data-qa="newsletter"]
+washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
 
 ! Arc Publishing
 ##.arc-ad-wrapper
