@@ -34,9 +34,6 @@
 ||townnews.com^*/tncms/*/metering/
 ||townnews.com^*/tncms/*/components/subscription/*/tnt.access.$script
 ##.tnt-section-sponsored
-##.tnt-ads-container
-##.tnt-ads
-##.ad-col
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
 
@@ -47,13 +44,14 @@
 ||californiatimes.com/newsletter-campaign-manager/$script
 
 ! The New York Times (nytimes.com)
-||meter-svc.nytimes.com/meter.js?
+||meter-svc.nytimes.com^
 ||nytimes.com^*/metered_assets/
 ||nyt.com^*/metered_assets$script
 nytimes.com##.magnoliaDock
 nytimes.com##div[data-testid="inline-message"]
-nytimes.com##.gdpr
 nytimes.com##div[data-testid="expanded-dock"]
+nytimes.com##div[data-test-id="RecommendedNewsletter"]
+nytimes.com##.gdpr
 nytimes.com###credential_picker_container
 
 ! Lee Enterprises sites
