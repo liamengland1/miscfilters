@@ -37,7 +37,8 @@ bizjournals.com##+js(set, __page__.isPremium, false)
 ! Harper's Magazine (harpers.org)
 ||harpers.org^*/pum/
 ||harpers.org^*/leaky-paywall/
-harpers.org##article.single:style(display:block!important)
+||netdna-ssl.com^*/leaky-paywall/$domain=harpers.org
+harpers.org##.entry-content:style(display:block!important)
 
 ! Metroland Media Group / Torstar
 thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_STATE__.paywall, false)
