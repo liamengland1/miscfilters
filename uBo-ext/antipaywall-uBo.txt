@@ -23,9 +23,6 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 ! @@||meter.bostonglobe.com^$script,1p
 ! bostonglobe.com##+js(nostif, p&&p[g])
 
-! Quartz (qz.com)
-qz.com##+js(json-prune, read)
-
 ! The Christian Science Monitor (csmonitor.com)
 csmonitor.com##+js(json-prune, ids, limit)
 
