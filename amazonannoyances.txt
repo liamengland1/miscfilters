@@ -165,7 +165,7 @@ amazon.*###dmusicPrimeButton_feature_div
 amazon.*##[id^="p13n-"]
 amazon.*##div[data-p13n-feature-metadata]
 amazon.*##div[data-p13n-global]
-amazon.*,~music.amazon.*,~aws.amazon.com##[role="banner"]>*:not(br)
+! amazon.*,~music.amazon.*,~aws.amazon.com##[role="banner"]>*:not(br)
 amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
 amazon.*##.maple-banner
 amazon.*##[id^="sims-"]
