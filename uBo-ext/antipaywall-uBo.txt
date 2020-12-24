@@ -29,6 +29,7 @@ csmonitor.com##+js(json-prune, ids meteredIds, modified)
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
+australvaldivia.cl##+js(remove-attr, oncontextmenu)
 
 ! The Business Journals (bizjournals.com)
 bizjournals.com##+js(set, __page__.isPremium, false)
