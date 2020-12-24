@@ -153,12 +153,13 @@ thewrap.com##[id*="-box-ad-"]
 
 ! Metroland Media Group / Torstar
 ###ad-masthead
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos="gamp"]
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos="in-article-messaging"]
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##[data-lpos^="registration|"]
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.overlay.ReactModalPortal
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.c-partner-articles
-thestar.com,thespec.com,therecord.com,northbaynipissing.com,muskokaregion.com##.c-button--subscribe
+##[data-lpos="gamp"]
+##[data-lpos="in-article-messaging"]
+##[data-lpos^="registration|"]
+##[data-lpos^="promo-]
+! thestar.com,thespec.com,therecord.com##.overlay.ReactModalPortal
+thestar.com,thespec.com,therecord.com##.c-partner-articles
+thestar.com,thespec.com,therecord.com##.c-button--subscribe
 ||resources.thestar.com^
 /api/overlaydata$domain=thestar.com|thespec.com|therecord.com
 
