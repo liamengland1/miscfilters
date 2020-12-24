@@ -152,6 +152,7 @@ thewrap.com##[id*="-box-ad-"]
 ||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
 
 ! Metroland Media Group / Torstar
+! https://metroland.com/digital/community-news/
 ###ad-masthead
 ##[data-lpos="gamp"]
 ##[data-lpos="in-article-messaging"]
