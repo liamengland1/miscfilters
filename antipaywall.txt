@@ -113,6 +113,7 @@ csmonitor.com##[id^="csm-promotions-banner"]
 csmonitor.com##[id^="home-subscribe-ad"]
 csmonitor.com##.preloaded_lightbox
 csmonitor.com##.injection
+csmonitor.com##.paywall
 
 ! McClatchy sites
 ###ConnatixVideoAd
