@@ -96,6 +96,7 @@ washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
 ##.arc-ad-wrapper
 ###arcad_recirc
 ##.arc-ad
+||cloudfront.net/prod/cloudfrontVideoTracker.png
 
 ! The Economist (economist.com)
 economist.com##.advert
@@ -104,6 +105,7 @@ economist.com##.subscription-proposition
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
 bostonglobe.com##.sticky_container
+||bostonglobe.com/pf/resources/dist/third-party.js
 
 ! Quartz (qz.com)
 qz.com##._6f0a2
