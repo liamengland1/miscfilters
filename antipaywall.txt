@@ -106,6 +106,7 @@ bostonglobe.com##.meter-social-connect
 ! Quartz (qz.com)
 qz.com##._6f0a2
 qz.com##[aria-labelledby="bottom-bar-primary-text"]
+||qz.com/api/site/behavior
 
 ! The Christian Science Monitor (csmonitor.com)
 csmonitor.com##[id^="csm-promotions-banner"]
