@@ -210,6 +210,9 @@ nzherald.co.nz###premium-toaster
 ! Ladders (theladders.com)
 ||theladders.com/api/auth/is-logged-in
 
+! The Business Journals (bizjournals.com)
+bizjournals.com##.item--sponsored
+
 ! Include uBo-specific filterlist extension
 !#if (ext_ublock || adguard)
 !#include uBo-ext/antipaywall-uBo.txt
