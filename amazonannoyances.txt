@@ -147,7 +147,7 @@ amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
 amazon.*##.celwidget[data-cel-widget="MAIN-VIDEO_SINGLE_PRODUCT"]
 amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
 amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
-amazon.*##.celwidget[data-cel-widget*="-sims_"]
+! amazon.*##.celwidget[data-cel-widget*="-sims_"]
 amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
 amazon.*##.celwidget[data-cel-widget^="p13n-"]
 amazon.*##.celwidget[class*="loom-desktop-"]
@@ -168,7 +168,7 @@ amazon.*##div[data-p13n-global]
 ! amazon.*,~music.amazon.*,~aws.amazon.com##[role="banner"]>*:not(br)
 amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
 amazon.*##.maple-banner
-amazon.*##[id^="sims-"]
+! amazon.*##[id^="sims-"]
 amazon.*###promotions_feature_div
 amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
 amazon.*##.acs-shwcs-widget
