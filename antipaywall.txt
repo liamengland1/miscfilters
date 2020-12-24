@@ -59,6 +59,7 @@ nytimes.com###credential_picker_container
 ! Lee Enterprises sites
 ||townnews.com^*/lee_subscription/
 ||townnews.com/stltoday.com/*/stl.init.js$script,domain=stltoday.com
+##.has-promotiom.lee-subscription-article-link
 
 ! Bloomberg (bloomberg.com)
 ||assets.bwbx.io^*/fence/$script
