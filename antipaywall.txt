@@ -103,6 +103,7 @@ economist.com##.subscription-proposition
 
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
+bostonglobe.com##.sticky_container
 
 ! Quartz (qz.com)
 qz.com##._6f0a2
