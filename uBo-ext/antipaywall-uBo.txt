@@ -24,7 +24,7 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 ! bostonglobe.com##+js(nostif, p&&p[g])
 
 ! The Christian Science Monitor (csmonitor.com)
-csmonitor.com##+js(json-prune, ids, limit)
+csmonitor.com##+js(json-prune, ids meteredIds, modified)
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##body:style(overflow:auto!important)
