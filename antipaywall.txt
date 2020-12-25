@@ -89,6 +89,7 @@ theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
 ||washingtonpost.com/pb/gr/c/default/*/identity-management-$script
 ||washingtonpost.com/pb/*/subscription-acquisition
 ||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
+washingtonpost.com##+js(set, $.prototype.wpPreroll, noopFunc)
 ||subscribe.washingtonpost.com^
 washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##.codedNewsletter.pb-f-page-newsletter-inLine
