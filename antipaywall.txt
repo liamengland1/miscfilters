@@ -102,6 +102,7 @@ washingtonpost.com##[class^="pb-f-ad-"]
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
 washingtonpost.com##[data-chain-name^="ad-group"]
 washingtonpost.com##[data-feature-id^="ad/"]
+washingtonpost.com##[data-feature-id$="-pre-roll"]
 washingtonpost.com##[data-qa="interstitial-link-wrapper"]
 washingtonpost.com##[data-qa="newsletter"]
 washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
