@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: Anti-paywall filters
 ! Expires: 3 days
 ! Description: Filters for news websites, including filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
@@ -39,6 +38,7 @@
 ##.tnt-section-sponsored
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
+richmond.com##+js(acis, $, reg-wall)
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
@@ -56,6 +56,12 @@ nytimes.com##div[data-testid="expanded-dock"]
 nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##.gdpr
 nytimes.com###credential_picker_container
+!#if env_chromium
+nytimes.com##+js(set, navigator.storage.estimate, undefined)
+!#endif
+!#if env_firefox
+nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
+!#endif
 
 ! Lee Enterprises sites
 ||townnews.com^*/lee_subscription/
@@ -71,6 +77,8 @@ bloomberg.com###pathfinder-tout
 theglobeandmail.com###subscription-pencil-area
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 theglobeandmail.com##.container-with-ad
+theglobeandmail.com##+js(set, keytar.accessAllowed, true)
+theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
 
 ! Washington Post (washingtonpost.com)
 ||washingtonpost.com^*/pwapi-$script
@@ -94,6 +102,7 @@ washingtonpost.com##[data-feature-id^="ad/"]
 washingtonpost.com##[data-qa="interstitial-link-wrapper"]
 washingtonpost.com##[data-qa="newsletter"]
 washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
+washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
 
 ! Arc Publishing
 ##.arc-ad-wrapper
@@ -104,11 +113,15 @@ washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
 ! The Economist (economist.com)
 economist.com##.advert
 economist.com##.subscription-proposition
+economist.com##+js(json-prune, props)
 
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
 bostonglobe.com##.sticky_container
 ||bostonglobe.com/pf/resources/dist/third-party.js
+@@||meter.bostonglobe.com^$script,1p
+bostonglobe.com##+js(set, bg.page.exemptFromMeter, true)
+@@||bostonglobe.com/api/v1/setCookie$xhr,1p
 
 ! Quartz (qz.com)
 qz.com##._6f0a2
@@ -121,6 +134,7 @@ csmonitor.com##[id^="home-subscribe-ad"]
 csmonitor.com##.preloaded_lightbox
 csmonitor.com##.injection
 csmonitor.com##.paywall
+csmonitor.com##+js(json-prune, ids meteredIds, modified)
 
 ! McClatchy sites
 ###ConnatixVideoAd
@@ -163,6 +177,8 @@ thestar.com,thespec.com,therecord.com##.c-partner-articles
 thestar.com,thespec.com,therecord.com##.c-button--subscribe
 ||resources.thestar.com^
 /api/overlaydata$domain=thestar.com|thespec.com|therecord.com
+thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_STATE__.paywall, false)
+thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_CONFIG_DATA__.enableHardPaywall, false)
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
@@ -173,12 +189,16 @@ thestar.com,thespec.com,therecord.com##.c-button--subscribe
 ! AccuRadio (accuradio.com)
 ||accuradio.com/sweeper/
 ||accuradio.com/static/js/ltjs.js
+accuradio.com###playerSkipLoading
+accuradio.com###playerSkipButton:style(display:inline!important)
 
 ! The Hindu (thehindu.com)
 thehindu.com##.ad-ft
 thehindu.com###stickyfooterarticle
 thehindu.com##.support-jlm
 ||dm.thehindu.com^
+thehindu.com##+js(aopr, geoIdentify)
+thehindu.com##.entrySubs
 
 ! Trinity Audio (remove when Easylist adds it...)
 ||streamtheworld.com/ondemand/ars?
@@ -220,8 +240,25 @@ nzherald.co.nz###premium-toaster
 
 ! The Business Journals (bizjournals.com)
 bizjournals.com##.item--sponsored
+bizjournals.com##+js(set, __page__.isPremium, false)
 
-! Include uBo-specific filterlist extension
-!#if (ext_ublock || adguard)
-!#include uBo-ext/antipaywall-uBo.txt
-!#endif
+! Diario Austral (australvaldivia.cl)
+australvaldivia.cl##+js(set, app.isPortada, true)
+australvaldivia.cl##+js(remove-attr, oncontextmenu)
+
+! Harper's Magazine (harpers.org)
+||harpers.org^*/pum/
+||harpers.org^*/leaky-paywall/
+||netdna-ssl.com^*/leaky-paywall/$domain=harpers.org
+harpers.org##.entry-content:style(display:block!important)
+
+! Charlie Hebdo (charliehebdo.fr)
+charliehebdo.fr##+js(aopr, poool)
+charliehebdo.fr###poool-widget
+
+! Namibia Media Holdings
+namibiansun.com,az.com.na,republikein.com.na##+js(set, $.prototype.modal, noopFunc)
+
+! Cooksmarts
+mealplans.cooksmarts.com##.paywall-upsell
+mealplans.cooksmarts.com##.paywall:style(color: unset !important; text-shadow: none !important
