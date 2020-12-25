@@ -261,4 +261,4 @@ namibiansun.com,az.com.na,republikein.com.na##+js(set, $.prototype.modal, noopFu
 
 ! Cooksmarts
 mealplans.cooksmarts.com##.paywall-upsell
-mealplans.cooksmarts.com##.paywall:style(color: unset !important; text-shadow: none !important
+mealplans.cooksmarts.com##.paywall:style(color: unset !important; text-shadow: none !important)
