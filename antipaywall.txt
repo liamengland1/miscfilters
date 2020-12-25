@@ -234,6 +234,8 @@ abqjournal.com###header-banner
 nzherald.co.nz##.pb-f-article-related-articles
 nzherald.co.nz###premium-toaster
 ||nzherald.co.nz/arc/subs/p.js
+nzherald.co.nz##+js(set, Fusion.globalContent.isPremium, false)
+nzherald.co.nz##+js(aopr, ArcPOptions)
 
 ! Ladders (theladders.com)
 ||theladders.com/api/auth/is-logged-in
