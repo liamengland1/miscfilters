@@ -29,6 +29,7 @@
 ||batch.com^$third-party
 ||lightboxcdn.com^$third-party
 /coil-web-monetization/*
+||taboola.com^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
