@@ -276,4 +276,8 @@ usatoday.com,rgj.com,azcentral.com,jsonline.com,indystar.com,recordnet.com,argus
 usatoday.com,rgj.com,azcentral.com,jsonline.com,indystar.com,recordnet.com,argusleader.com,cincinnati.com,independentmail.com,knoxnews.com,freep.com,detroitnews.com,courier-journal.com,naplesnews.com,dispatch.com,news-leader.com,app.com,tennessean.com,chipleypaper.com,bucyrustelegraphforum.com,jconline.com,desmoinesregister.com##.gnt_tb, .gnt_xbr, .gnt_cw_sl, #gnt_atomsnc, .gnt_pm
 usatoday.com,rgj.com,azcentral.com,jsonline.com,indystar.com,recordnet.com,argusleader.com,cincinnati.com,independentmail.com,knoxnews.com,freep.com,detroitnews.com,courier-journal.com,naplesnews.com,dispatch.com,news-leader.com,app.com,tennessean.com,chipleypaper.com,bucyrustelegraphforum.com,jconline.com,desmoinesregister.com##+js(set, gnt.u.adfree, true)
 /gannett-web/apps/teal/dist/vendor/ias/*
+/tangstatic/*$domain=usatoday.com|rgj.com|azcentral.com|jsonline.com|indystar.com|recordnet.com|argusleader.com|cincinnati.com|independentmail.com|knoxnews.com|freep.com|detroitnews.com|courier-journal.com|naplesnews.com|dispatch.com|news-leader.com|app.com|tennessean.com|chipleypaper.com|bucyrustelegraphforum.com|jconline.com|desmoinesregister.com
+@@/tangstatic/js/main-$script,domain=usatoday.com|rgj.com|azcentral.com|jsonline.com|indystar.com|recordnet.com|argusleader.com|cincinnati.com|independentmail.com|knoxnews.com|freep.com|detroitnews.com|courier-journal.com|naplesnews.com|dispatch.com|news-leader.com|app.com|tennessean.com|chipleypaper.com|bucyrustelegraphforum.com|jconline.com|desmoinesregister.com
+||gannett-cdn.com/dcjs/
+||gannett-cdn.com/dcc/
 
