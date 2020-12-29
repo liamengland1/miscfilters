@@ -15,6 +15,7 @@
 ://unagi.amazon.$important
 ://unagi-*.amazon.$important
 ||amazon.*/uedata$important
+||amazon.*uedata?*&v=$important,domain=amazon.*
 ||amazon.*/1/*/OE$important
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
