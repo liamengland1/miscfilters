@@ -158,6 +158,7 @@ amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
 amazon.*##.celwidget[data-feature-name="cerberus"]
 amazon.*##.celwidget[data-feature-name="heimdallShoppingCxFeedback"]
 amazon.*##.celwidget[data-feature-name="ebooksEmailSubscription"]
+amazon.*##.celwidget[data-feature-name="pBookUpsell"]
 amazon.*##.s-result-item:has(.celwidget[class*="loom-desktop"])
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
