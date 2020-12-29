@@ -70,6 +70,7 @@
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
 ||amazon.*/recordRefTag?
+||amazon.*/record-ref.html
 ||amazon.*/record-promo-
 ||amazon.*/dppui/event
 ||amazon.*/gp/*/log?s=
