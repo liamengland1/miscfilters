@@ -233,6 +233,7 @@ amazon.*##.recommendation-widget.a-section
 amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
 amazon.*###promoGrid
 amazon.*##.nfcx-gok-flag-container:upward(.celwidget)
+amazon.*##[name="goKindleStaticPopDiv"]
 
 blog.aboutamazon.com##.PromoImage
 
