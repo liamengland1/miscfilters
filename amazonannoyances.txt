@@ -5,8 +5,8 @@
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 
 ! Network rules 
-||amazonpay.com^$3p
-||payments-amazon.com^$3p
+! ||amazonpay.com^$3p
+! ||payments-amazon.com^$3p
 ||amazon-adsystem.com^$3p
 ||amazon.dev^$3p
 ||stats.live-video.net^
