@@ -10,6 +10,7 @@
 /rapid-$script
 /rapidworker_
 /__rapidworker-
+/__rapid-worker
 /yRapid.$script
 ?metrics=timing
 @@||news.yahoo.com/comments/*$subdocument,1p
