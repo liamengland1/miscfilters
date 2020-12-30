@@ -17,6 +17,7 @@
 ||blogsmithmedia.com^*/permalink-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
 ||cloudflare-dns.com^$3p
 ||consent.cmp.oath.com^
+||csp.yahoo.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||ganon.yahoo.com^
 ||fc.yahoo.com^
