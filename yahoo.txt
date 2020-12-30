@@ -22,6 +22,7 @@
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||ganon.yahoo.com^
 ||fc.yahoo.com^
+||fp.yahoo.com^
 ||ssp.yahoo.com^
 ||yahoo.com/sdarla/
 ||yahoo.com/account/js-reporting
