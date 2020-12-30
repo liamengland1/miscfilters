@@ -159,3 +159,5 @@ yahoo.com##.subscriptiontdv2
 yahoo.com##.stream-related-drawer
 yahoo.com##.stream-related-content
 yahoo.com##.userintent-tooltip
+yahoo.com##a[href*="://beap.gemini."]:upward(li.nedImage+div)
+
