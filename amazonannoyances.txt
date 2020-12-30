@@ -148,6 +148,7 @@ amazon.*##div:has(>script:has-text(/^var IS_3P=true;$/))
 amazon.*###percolate-ui-ilm_div
 amazon.*###universal-detail-ilm
 amazon.*###dp > table:has(a[href*="&pf_rd_r="])
+amazon.*##.celwidget[cel_widget_id^="adplacements:"]
 amazon.*##.celwidget[data-cel-widget^="desktop-dp-atf_"]
 amazon.*##.celwidget[data-cel-widget$="-SHOPPING_ADVISER"]
 amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
@@ -158,7 +159,6 @@ amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
 amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
 ! amazon.*##.celwidget[data-cel-widget^="p13n-"]
 amazon.*##.celwidget[data-cel-widget="MultiBrandCreativeDesktopCombined"]
-amazon.*##.celwidget[data-cel-widget^="adplacements:"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
 amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
