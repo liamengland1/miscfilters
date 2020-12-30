@@ -44,6 +44,7 @@
 ||yimg.com/cx/
 ||yimg.com/dh/ap/ad/$important
 ||yimg.com/dy/ads/
+||yimg.com/jk/gtm/
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
 ||yimg.com/rq/$script,important
