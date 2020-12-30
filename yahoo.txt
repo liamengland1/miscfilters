@@ -27,6 +27,7 @@
 ||ssp.yahoo.com^
 ||yahoo.com/sdarla/
 ||yahoo.com/account/js-reporting
+||aol.com/account/js-reporting
 ||guce.*/*?consentTypes=
 ||logql.yahoo.co.jp^
 ||oath.cloud^
