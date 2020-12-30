@@ -56,6 +56,7 @@
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
 ||media-amazon.com/images/I/*.js?AUIClients/RetailWebsiteOverlayAUIAssets|$important
 ||media-amazon.com/images/I/*.js?AUIClients/CSHelpOmnitureJS|$important
+/apesafeframe/*$important,domain=amazon.*
 ||amazon.*/images/G/01/advertising/
 ||amazon.*/images/G/01/csm/
 @@||amazon.*/images/G/01/csm/showads.v2.js
@@ -157,6 +158,7 @@ amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
 amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
 ! amazon.*##.celwidget[data-cel-widget^="p13n-"]
 amazon.*##.celwidget[data-cel-widget="MultiBrandCreativeDesktopCombined"]
+amazon.*##.celwidget[data-cel-widget^="adplacements:"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
 amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
