@@ -14,6 +14,7 @@
 ?metrics=timing
 @@||news.yahoo.com/comments/*$subdocument,1p
 ||aol.*/dl_track/
+||aolcdn.com/membership/WAS/tandt/at.js
 ||blogsmithmedia.com^*/hub-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
 ||blogsmithmedia.com^*/permalink-controller.js$domain=aol.com|aol.ca|aol.co.uk|aol.jp
 ||cloudflare-dns.com^$3p
