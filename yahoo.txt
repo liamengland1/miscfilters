@@ -9,6 +9,7 @@
 /omniture.$script
 /rapid-$script
 /rapidworker_
+/__rapidworker-
 /yRapid.$script
 ?metrics=timing
 @@||news.yahoo.com/comments/*$subdocument,1p
