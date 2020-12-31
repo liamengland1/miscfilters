@@ -75,6 +75,7 @@
 ||amazon.*/reftag.html
 ||amazon.*/recordRefTag?
 ||amazon.*/record-ref.html
+||amazon.*/ref-tag
 ||amazon.*/record-promo-
 ||amazon.*/dppui/event
 ||amazon.*/gp/*/log?s=
