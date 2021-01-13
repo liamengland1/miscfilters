@@ -163,6 +163,7 @@ amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
 ! amazon.*##.celwidget[data-cel-widget^="p13n-"]
 amazon.*##.celwidget[data-cel-widget="MultiBrandCreativeDesktopCombined"]
 amazon.*##.celwidget[data-cel-widget="desktop-yo-postdelivery_customerbehavior_Wishlist"]
+amazon.*##.celwidget[data-cel-widget^="retail-kindle-typ-shovelers_"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
 amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
