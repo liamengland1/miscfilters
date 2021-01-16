@@ -18,7 +18,6 @@
 ||facebook.com/ajax/fantail/
 ||facebook.com/search/async/
 ||facebook.com/nw/
-||edge-chat.facebook.com^$websocket
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
 @@||facebook.com/common/referer_frame.php$subdocument,1p
