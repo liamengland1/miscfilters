@@ -21,6 +21,7 @@
 ||facebook.com/video/autoplay/
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
+||facebook.com/security/hsts-pixel.gif$image,important
 /nux/log/*$xhr,domain=facebook.com
 ||*&fbclid=$document,xhr,important
 ||*?fbclid=$document,xhr,important
