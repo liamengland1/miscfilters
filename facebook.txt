@@ -18,6 +18,7 @@
 ||facebook.com/ajax/fantail/
 ||facebook.com/search/async/
 ||facebook.com/nw/
+||facebook.com/video/autoplay/
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
 @@||facebook.com/common/referer_frame.php$subdocument,1p
