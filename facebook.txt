@@ -5,7 +5,7 @@
 ||facebook.com/ajax/qm/
 ||facebook.com/ajax/$ping
 ||facebook.com/ajax/bz
-||facebook.com/typeahead/search/facebar/bootload/*
+||facebook.com/typeahead/search/facebar/bootload/
 ||facebook.com/sem_pixel/*
 ||facebook.com/ajax/ssinfeed/
 ||facebook.com/adnw_instream_logging/
@@ -16,4 +16,7 @@
 ||facebook.com/ajax/bnzai
 ||facebook.com/ajax/bulk-route-definitions/
 ||facebook.com/ajax/fantail/
+||facebook.com/search/async/
+||facebook.com/nw/
+||edge-chat.facebook.com^$websocket
 @@||facebook.com/common/referer_frame.php$subdocument,1p
