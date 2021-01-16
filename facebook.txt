@@ -1,0 +1,19 @@
+! Title: Facebook list
+! Expires: 3 days
+! Portions of this list adapted from https://github.com/kowith337/PersonalFilterListCollection/blob/master/filterlist/facebook/FacebookZuckestionKiller.txt
+
+||facebook.com/ajax/qm/
+||facebook.com/ajax/$ping
+||facebook.com/ajax/bz
+||facebook.com/typeahead/search/facebar/bootload/*
+||facebook.com/sem_pixel/*
+||facebook.com/ajax/ssinfeed/
+||facebook.com/adnw_instream_logging/
+||facebook.com/xsemc/
+||facebook.com/video/unified_cvc/
+||facebook.com/frx/dismiss/survey/
+||facebook.com/ajax/webstorage/process_keys/
+||facebook.com/ajax/bnzai
+||facebook.com/ajax/bulk-route-definitions/
+||facebook.com/ajax/fantail/
+@@||facebook.com/common/referer_frame.php$subdocument,1p
