@@ -14,7 +14,6 @@
 ||facebook.com/frx/dismiss/survey/
 ||facebook.com/ajax/webstorage/process_keys/
 ||facebook.com/ajax/bnzai
-||facebook.com/ajax/route-definition/
 ||facebook.com/ajax/bulk-route-definitions/
 ||facebook.com/ajax/fantail/
 ||facebook.com/search/async/
