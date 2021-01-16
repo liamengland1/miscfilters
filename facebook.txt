@@ -21,4 +21,5 @@
 ||facebook.com/video/autoplay/
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
+/nux/log/*$xhr,domain=facebook.com
 @@||facebook.com/common/referer_frame.php$subdocument,1p
