@@ -4,7 +4,7 @@
 
 ||facebook.com/ajax/qm/
 ||facebook.com/ajax/$ping
-||facebook.com/ajax/bz
+/ajax/bz$domain=facebook.com|messenger.com|instagram.com
 ||facebook.com/typeahead/search/facebar/bootload/
 ||facebook.com/sem_pixel/*
 ||facebook.com/ajax/ssinfeed/
