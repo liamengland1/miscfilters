@@ -19,6 +19,9 @@
 ||facebook.com/search/async/
 ||facebook.com/nw/
 ||facebook.com/video/autoplay/
+||facebook.com^*/cms-logging-controller/
+||facebook.com/tealium/
+||facebook.com^*/destinationcmsid/
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
 ||facebook.com/security/hsts-pixel.gif$image,important
