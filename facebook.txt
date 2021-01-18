@@ -22,6 +22,7 @@
 ||facebook.com^*/cms-logging-controller/
 ||facebook.com/tealium/
 ||facebook.com^*/destinationcmsid/
+||facebook.com/react_composer/logging/
 ||pixel.facebook.com^
 ||fbcdn.net/hads-ak-$image,important
 ||facebook.com/security/hsts-pixel.gif$image,important
