@@ -38,6 +38,8 @@
 ||vidible.tv^*/rapid.js$important
 ||wc.yahoodns.net^
 ||yahoo.com/dms/exp.json
+||yahoo.com/d/gemini_api/
+||video.yahoo.com/oath/$script,domain=mail.yahoo.com
 ||yahoo.com/pageview
 ||yahoo.com/site/jserror/
 ||yahoodns.net/cs/
