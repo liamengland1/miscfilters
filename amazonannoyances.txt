@@ -14,8 +14,7 @@
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
 ://unagi-*.amazon.$important
-||amazon.*/uedata$important
-||amazon.*uedata?*&v=$important,domain=amazon.*
+/uedata?*&v=*&csmtags=$important
 ||amazon.*/1/*/OE$important
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
