@@ -75,6 +75,7 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 bloomberg.com###pathfinder-tout
 
 ! The Globe and Mail (theglobeandmail.com)
+||smartwall.theglobeandmail.com^
 theglobeandmail.com###subscription-pencil-area
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 theglobeandmail.com##.container-with-ad
