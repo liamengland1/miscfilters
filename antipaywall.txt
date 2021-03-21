@@ -282,3 +282,5 @@ usatoday.com,rgj.com,azcentral.com,jsonline.com,indystar.com,recordnet.com,argus
 ||gannett-cdn.com/dcjs/
 ||gannett-cdn.com/dcc/
 
+! Wax Poetics (waxpoetics.com)
+waxpoetics.com##+js(json-prune, count ip)
