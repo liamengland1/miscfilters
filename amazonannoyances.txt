@@ -95,6 +95,7 @@
 ||amazon.*/gp/recent-history-
 ||amazon.*/gp/*/ajax/countMetrics.html
 ||amazon.*/gp/nemo/spd
+||amazon.*/api/weblabs/
 ||gaming.amazon.com/fiber
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
