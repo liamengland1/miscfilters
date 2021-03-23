@@ -285,6 +285,6 @@ usatoday.com,rgj.com,azcentral.com,jsonline.com,indystar.com,recordnet.com,argus
 ! Wax Poetics (waxpoetics.com)
 waxpoetics.com##+js(json-prune, count ip)
 
-! Lyd & Billede (lydogbillede.dk)
-lydogbillede.dk##.entry-content-wrap:style(max-height:unset!important)
-lydogbillede.dk##.placeholdme,.lbplussinfo
+! Lyd & Billede
+lydogbilde.no,lydogbillede.dk##.entry-content-wrap:style(max-height:unset!important)
+lydogbilde.no,lydogbillede.dk##.placeholdme,.lbplussinfo
