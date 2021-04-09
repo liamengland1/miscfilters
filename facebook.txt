@@ -5,7 +5,6 @@
 ||facebook.com/ajax/qm/
 ||facebook.com/ajax/$ping
 /ajax/bz$domain=facebook.com|messenger.com|instagram.com
-||facebook.com/typeahead/search/facebar/bootload/
 ||facebook.com/sem_pixel/*
 ||facebook.com/ajax/ssinfeed/
 ||facebook.com/adnw_instream_logging/
