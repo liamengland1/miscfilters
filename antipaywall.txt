@@ -292,3 +292,4 @@ lydogbilde.no,lydogbillede.dk##.placeholdme,.lbplussinfo
 !National Geographic (https://www.nationalgeographic.com)
 www.nationalgeographic.com##.EmailStickyFooter__Modal.Modal
 www.nationalgeographic.com##body:style( overflow: auto !important; position: initial !important;)
+www.nationalgeographic.com##+js(aeld, scroll)
