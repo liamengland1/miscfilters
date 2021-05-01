@@ -211,7 +211,7 @@ amazon.*###hpUpsellLanding
 amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
 amazon.*##.kindle-typ-recs-wrapper
 ! amazon.*##.a-carousel-container:upward(.a-row)
-amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
+! amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
 ! amazon.*##.a-carousel-container
 ! amazon.*##[data-a-carousel-options="{}"]
 amazon.*##a[href*="_bark_"]:upward(.a-section)
