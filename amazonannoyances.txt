@@ -10,6 +10,9 @@
 ||amazon-adsystem.com^$3p
 ! ||amazon.dev^$3p
 ||stats.live-video.net^
+||cloudfront-labs.amazonaws.com^
+||experiment.routing.cloudfront.aws.a2z.com^
+||profile.*.cloudfront.net^
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
