@@ -77,6 +77,7 @@
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
 ||amazon.*/recordRefTag?
+||amazon.*/gc/reftag
 ||amazon.*/record-ref.html
 ||amazon.*/record-metric.html
 ||amazon.*/ref-tag
@@ -186,6 +187,7 @@ amazon.*##[id^="p13n-"]
 ! amazon.*##div[data-p13n-global]
 ! amazon.*,~music.amazon.*,~aws.amazon.com##[role="banner"]>*:not(br)
 amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
+amazon.*###gc-redemption-container>table:has(map[name*="THANKYOU"])
 amazon.*##.maple-banner
 ! amazon.*##[id^="sims-"]
 amazon.*###promotions_feature_div
