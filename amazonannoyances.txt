@@ -253,6 +253,8 @@ amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
 amazon.*###promoGrid
 amazon.*##.nfcx-gok-flag-container:upward(.celwidget)
 amazon.*##[name="goKindleStaticPopDiv"]
+amazon.*##[data-automation-id="top-banner-promo"]
+amazon.*##[data-automation-id="hero-quick-promo"]
 
 blog.aboutamazon.com##.PromoImage
 
