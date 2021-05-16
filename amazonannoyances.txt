@@ -190,7 +190,7 @@ amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
 amazon.*###gc-redemption-container>table:has(map[name*="THANKYOU"])
 amazon.*##.maple-banner
 ! amazon.*##[id^="sims-"]
-amazon.*###promotions_feature_div
+! amazon.*###promotions_feature_div
 amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
 amazon.*##.acs-shwcs-widget
 amazon.*###nav-swmslot
