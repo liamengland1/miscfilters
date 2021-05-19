@@ -255,6 +255,7 @@ amazon.*##.nfcx-gok-flag-container:upward(.celwidget)
 amazon.*##[name="goKindleStaticPopDiv"]
 amazon.*##[data-automation-id="top-banner-promo"]
 amazon.*##[data-automation-id="hero-quick-promo"]
+amazon.*##.olpMp3Slot
 
 blog.aboutamazon.com##.PromoImage
 
