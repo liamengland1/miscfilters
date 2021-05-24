@@ -293,3 +293,20 @@ lydogbilde.no,lydogbillede.dk##.placeholdme,.lbplussinfo
 www.nationalgeographic.com##.EmailStickyFooter__Modal.Modal
 www.nationalgeographic.com##body:style( overflow: auto !important; position: initial !important;)
 www.nationalgeographic.com##+js(aeld, scroll)
+
+!The Atlantic
+www.theatlantic.com###paywall
+www.theatlantic.com##.Gate_root__3hCZo
+www.theatlantic.com##.c-nudge__container c-gate__container
+www.theatlantic.com##body,html:style( overflow: auto !important; position: initial !important;)
+www.theatlantic.com##.NonMeteredNudge_root__3MU5l
+www.theatlantic.com##.c-gate__container.c-nudge__container
+
+!Time Magazine
+time.com##.registration-wall-content
+time.com##.paywall-content
+time.com##.roadblock-content
+time.com##.registration-wall.can-animate.meter-wall.component
+time.com##.component.meter-wall can-animate.registration-wall
+time.com##.meter-wall-data
+time.com##body,html:style( overflow: auto !important; position: initial !important;)
