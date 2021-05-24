@@ -29,8 +29,8 @@
 /nux/log/*$xhr,domain=facebook.com
 /record_basic_metrics.php$xhr,domain=facebook.com
 /nfx_client_log$xhr,domain=facebook.com
-||*&fbclid=$document,xhr,important
-||*?fbclid=$document,xhr,important
+! https://github.com/DandelionSprout/adfilt/blob/70ef78576643fc8ebb5960854087175e3ce50dfb/LegitimateURLShortener.txt#L10
+$removeparam=fbclid
 ||facebook.com/l.php$document,xhr,important
 ||l.facebook.com^$document,xhr,important
 ||l.messenger.com^$document,xhr,important

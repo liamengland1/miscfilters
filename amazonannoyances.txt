@@ -8,13 +8,16 @@
 ! ||amazonpay.com^$3p
 ! ||payments-amazon.com^$3p
 ||amazon-adsystem.com^$3p
-||amazon.dev^$3p
+! ||amazon.dev^$3p
 ||stats.live-video.net^
+||cloudfront-labs.amazonaws.com^
+||experiment.routing.cloudfront.aws.a2z.com^
+||profile.*.cloudfront.net^
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
 ://unagi-*.amazon.$important
-/uedata?*&v=*&csmtags=$important
+/uedata?*&v=$important
 ||amazon.*/1/*/OE$important
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
@@ -74,6 +77,7 @@
 ||amazon.*/eventtracker.html
 ||amazon.*/reftag.html
 ||amazon.*/recordRefTag?
+||amazon.*/gc/reftag
 ||amazon.*/record-ref.html
 ||amazon.*/record-metric.html
 ||amazon.*/ref-tag
@@ -166,7 +170,7 @@ amazon.*##.celwidget[data-cel-widget="desktop-yo-postdelivery_customerbehavior_W
 amazon.*##.celwidget[data-cel-widget^="retail-kindle-typ-shovelers_"]
 amazon.*##.celwidget[class*="loom-desktop-"]
 amazon.*##.celwidget[data-feature-name="heroQuickPromo"]
-amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
+! amazon.*##.celwidget[data-feature-name="attachAccessoryModal"]
 amazon.*##.celwidget[data-feature-name="cerberus"]
 amazon.*##.celwidget[data-feature-name="heimdallShoppingCxFeedback"]
 amazon.*##.celwidget[data-feature-name="ebooksEmailSubscription"]
@@ -183,9 +187,10 @@ amazon.*##[id^="p13n-"]
 ! amazon.*##div[data-p13n-global]
 ! amazon.*,~music.amazon.*,~aws.amazon.com##[role="banner"]>*:not(br)
 amazon.*##table[cellspacing="0"]:has(img[usemap^="#AMU"])
+amazon.*###gc-redemption-container>table:has(map[name*="THANKYOU"])
 amazon.*##.maple-banner
 ! amazon.*##[id^="sims-"]
-amazon.*###promotions_feature_div
+! amazon.*###promotions_feature_div
 amazon.*##tr:has(>td>img[src*="/G/01/AmazonCoins/Divtest/"][width="80%"])
 amazon.*##.acs-shwcs-widget
 amazon.*###nav-swmslot
@@ -208,7 +213,7 @@ amazon.*###hpUpsellLanding
 amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
 amazon.*##.kindle-typ-recs-wrapper
 ! amazon.*##.a-carousel-container:upward(.a-row)
-amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
+! amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
 ! amazon.*##.a-carousel-container
 ! amazon.*##[data-a-carousel-options="{}"]
 amazon.*##a[href*="_bark_"]:upward(.a-section)
@@ -248,6 +253,9 @@ amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
 amazon.*###promoGrid
 amazon.*##.nfcx-gok-flag-container:upward(.celwidget)
 amazon.*##[name="goKindleStaticPopDiv"]
+amazon.*##[data-automation-id="top-banner-promo"]
+amazon.*##[data-automation-id="hero-quick-promo"]
+amazon.*##.olpMp3Slot
 
 blog.aboutamazon.com##.PromoImage
 
