@@ -2,10 +2,11 @@
 ! Expires: 3 days
 ! Description: Filters for news websites, including filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Note: cookie notices will not be hidden by this list
-! Homepage: https://github.com/llacb47/miscfilters
-! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+! Homepage: https://github.com/en1gma713/miscfilters
+! License: https://github.com/en1gma713/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with uBlock Origin and Adguard.
 ! It is recommended to use this list in combination with both Easylist and Easyprivacy.
+! Forked from llacb47/miscfilters
 
 ! General
 ||news.google.com/swg/$script,third-party
