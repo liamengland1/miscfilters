@@ -263,6 +263,7 @@ music.amazon.*###nightwing-station-upsell
 music.amazon.*##music-barker
 music.amazon.*##.bannerContainer
 music.amazon.*##.status.hideExtra
+music.amazon.*##music-notification-ribbon
 
 ! Amazon CN element hiding
 
