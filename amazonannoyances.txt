@@ -12,7 +12,7 @@
 ||stats.live-video.net^
 ||cloudfront-labs.amazonaws.com^
 ||experiment.routing.cloudfront.aws.a2z.com^
-||profile.*.cloudfront.net^
+||profile.*.cloudfront.net^$domain=amazon.*|primevideo.com|imdb.com
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
@@ -100,6 +100,7 @@
 ||amazon.*/gp/*/ajax/countMetrics.html
 ||amazon.*/gp/nemo/spd
 ||amazon.*/api/weblabs/
+||amazon.*/cross_border_interstitial/
 ||gaming.amazon.com/fiber
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
