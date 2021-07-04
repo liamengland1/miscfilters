@@ -293,7 +293,6 @@ lydogbilde.no,lydogbillede.dk##.placeholdme,.lbplussinfo
 theage.com.au##+js(set, GLOBAL_VARIABLES.PAYWALL.COUNT_STORAGE_NAME, '')
 theage.com.au##+js(set, GLOBAL_VARIABLES.PAYWALL.COUNTED_ASSETS_STORAGE_NAME, '')
 
-
 ! National Geographic (www.nationalgeographic.com)
 nationalgeographic.com##+js(aeld, scroll)
 ||dcf.espn.com^
@@ -307,5 +306,3 @@ theatlantic.com##[class^="Paywall"]
 ||time.com/dist/authentication.js
 time.com##.meter-wall
 time.com##body:style(position:static!important;overflow-y:visible!important)
-
-
