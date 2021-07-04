@@ -21,7 +21,6 @@
 ||amazon.*/1/*/OE$important
 ||amazon.*/*msa/vowels/
 !/metrics$xmlhttprequest,other,image
-||amazon.*/1/*/OE
 !stats/logImpressions
 ||amazon.*/logImp
 ||amazon.*/log-metrics
