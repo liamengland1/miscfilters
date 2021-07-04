@@ -306,3 +306,7 @@ theatlantic.com##[class^="Paywall"]
 ||time.com/dist/authentication.js
 time.com##.meter-wall
 time.com##body:style(position:static!important;overflow-y:visible!important)
+
+! Livemint (livemint.com)
+||livemint.com/__js/lm_subscription_$script
+
