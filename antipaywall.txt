@@ -303,3 +303,9 @@ nationalgeographic.com##+js(aeld, scroll)
 theatlantic.com##+js(cookie-remover, articleViews)
 theatlantic.com##[class^="Paywall"]
 
+! Time (time.com)
+||time.com/dist/authentication.js
+time.com##.meter-wall
+time.com##body:style(position:static!important;overflow-y:visible!important)
+
+
