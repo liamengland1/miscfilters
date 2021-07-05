@@ -238,6 +238,8 @@ abqjournal.com###custom_html-16
 abqjournal.com##[id^="story-ad-"]
 ||vidazoo.com^$3p
 abqjournal.com###header-banner
+abqjournal.com#@##footer-banner
+||vidible.tv^$3p,domain=abqjournal.com
 
 ! NZ Herald (nzherald.co.nz)
 nzherald.co.nz##.pb-f-article-related-articles
