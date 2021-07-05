@@ -319,3 +319,7 @@ amp.ft.com##.amp-access-barrier
 amp.ft.com##+js(ra, subscriptions-section, [subscriptions-section="content"])
 ||amp-access-svc.memb.ft.com/amp-pingback
 amp.ft.com##.n-content-layout:has(.n-content-heading-4:has-text(newsletter))
+
+! Chronicle of Higher Education (chronicle.com
+||c950.chronicle.com^
+||assets.login.chronicle.com^
