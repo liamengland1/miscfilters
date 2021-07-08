@@ -13,6 +13,7 @@
 ||smartlock.google.com^
 /amp-access-$script
 ||tinypass.com^$third-party
+@@||experience.tinypass.com/xbuilder/$script,3p
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
 ||wallkit.net^$third-party
