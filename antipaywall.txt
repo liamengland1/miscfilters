@@ -38,6 +38,7 @@
 ||townnews.com^*/promo_popup.$script
 ||townnews.com^*/tncms/*/metering/
 ||townnews.com^*/tncms/*/components/subscription/*/tnt.access.$script
+/tncms/api/access.js|$script
 ##.tnt-section-sponsored
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
