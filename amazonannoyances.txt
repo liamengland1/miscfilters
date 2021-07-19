@@ -45,6 +45,7 @@
 ||ssl-images-amazon.com/images/G/01/dacx/
 @@||ssl-images-amazon.com/images/G/01/dacx/js/react/
 @@||ssl-images-amazon.com/images/G/01/dacx/js/videojs/
+@@||ssl-images-amazon.com/images/G/01/dacx/img/
 !||ssl-images-amazon.com/images/G/01/marketing/
 ||ssl-images-amazon.com/images/I/31BVuidgT8L.js
 ||ssl-images-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
@@ -56,6 +57,7 @@
 ||media-amazon.com/images/G/01/dacx/
 @@||media-amazon.com/images/G/01/dacx/js/react/
 @@||media-amazon.com/images/G/01/dacx/js/videojs/
+@@||m.media-amazon.com/images/G/01/dacx/img/
 !||media-amazon.com/images/G/01/marketing/
 ||media-amazon.com/images/I/31BVuidgT8L.js
 ||media-amazon.com/images/I/*.js?AUIClients/Maestrojs|$important
