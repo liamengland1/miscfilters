@@ -13,6 +13,7 @@
 ||cloudfront-labs.amazonaws.com^
 ||experiment.routing.cloudfront.aws.a2z.com^
 ||profile.*.cloudfront.net^$domain=amazon.*|primevideo.com|imdb.com
+||execute-api.*.amazonaws.com/gamma$xhr,domain=amazon.*
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
