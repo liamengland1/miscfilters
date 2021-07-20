@@ -83,6 +83,7 @@
 ||amazon.*/reftag.html
 ||amazon.*/recordRefTag?
 ||amazon.*/gc/reftag
+||amazon.*/reftagCall.
 ||amazon.*/record-ref.html
 ||amazon.*/record-metric.html
 ||amazon.*/ref-tag
