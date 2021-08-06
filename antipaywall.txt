@@ -203,6 +203,8 @@ thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_CONFIG_DATA__.enable
 accuradio.com###playerSkipLoading
 accuradio.com###playerSkipButton:style(display:inline!important)
 ||sendtonews.com^$3p
+||accuradio.com/listener/track-adbreaks/
+||aw1.accuradio.com^
 
 ! The Hindu (thehindu.com)
 thehindu.com##.ad-ft
