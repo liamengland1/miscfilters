@@ -26,9 +26,11 @@
 ||ganon.yahoo.com^
 ||fc.yahoo.com^
 ||fp.yahoo.com^
+||pclick.internal.yahoo.com^
 ||ssp.yahoo.com^
 ||yahoo.com/sdarla/
 ||yahoo.com/account/js-reporting
+||yahoo.com/*/cerebro_min.js
 ||aol.com/account/js-reporting
 ||guce.*/*?consentTypes=
 ||logql.yahoo.co.jp^
@@ -166,4 +168,3 @@ yahoo.com##.stream-related-drawer
 yahoo.com##.stream-related-content
 yahoo.com##.userintent-tooltip
 yahoo.com##a[href*="://beap.gemini."]:upward(li.nedImage+div)
-
