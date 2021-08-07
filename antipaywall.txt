@@ -332,3 +332,6 @@ amp.ft.com##.n-content-layout:has(.n-content-heading-4:has-text(newsletter))
 
 ! Crain's Chicago Business (chicagobusiness.com)
 chicagobusiness.com##+js(json-prune, porte)
+
+! High Country News (hcn.org)
+hcn.org##+js(ra, content, meta[name="UID"])
