@@ -339,3 +339,5 @@ hcn.org##+js(ra, content, meta[name="UID"])
 ! Condé Nast (https://github.com/llacb47/miscfilters/issues/24)
 allure.com,architecturaldigest.com,bonappetit.com,cntraveler.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com##+js(nofab)
 allure.com,architecturaldigest.com,bonappetit.com,cntraveler.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com##+js(cookie-remover, pay_ent_smp)
+wired.com##.journey-unit, [class*="ConsumerMarketingUnit"]
+://journey.$first-party,script,domain=allure.com|architecturaldigest.com|bonappetit.com|cntraveler.com|gq.com|newyorker.com|vanityfair.com|vogue.com|wired.com
