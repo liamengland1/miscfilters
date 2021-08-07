@@ -86,11 +86,11 @@ theglobeandmail.com##+js(set, keytar.accessAllowed, true)
 theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
 
 ! Washington Post (washingtonpost.com)
-||washingtonpost.com^*/pwapi-$script
+||washingtonpost.com/pwapiv2/
 ||washingtonpost.com/subscribe/paywall/
 ||washingtonpost.com/subscribe/pw/
-||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/subscribe/logging/
+||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/pb/gr/c/default/*/identity-management-$script
 ||washingtonpost.com/pb/*/subscription-acquisition
 ||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
