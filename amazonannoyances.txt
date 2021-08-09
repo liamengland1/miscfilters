@@ -9,8 +9,10 @@
 ! ||payments-amazon.com^$3p
 ||amazon-adsystem.com^$3p
 ! ||amazon.dev^$3p
+||micpn.com^$3p
 ||stats.live-video.net^
 ||cloudfront-labs.amazonaws.com^
+||landingpagepixels.s3.amazonaws.com^
 ||experiment.routing.cloudfront.aws.a2z.com^
 ||profile.*.cloudfront.net^$domain=amazon.*|primevideo.com|imdb.com
 ||execute-api.*.amazonaws.com/gamma$xhr,domain=amazon.*
