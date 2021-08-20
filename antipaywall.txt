@@ -87,6 +87,7 @@ theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
 
 ! Washington Post (washingtonpost.com)
 ||washingtonpost.com/pwapiv2/
+||washingtonpost.com/pwapiv2/$xhr,1p
 ||washingtonpost.com/subscribe/paywall/
 ||washingtonpost.com/subscribe/pw/
 ||washingtonpost.com/subscribe/logging/
@@ -113,6 +114,8 @@ washingtonpost.com##[data-qa="interstitial-link-wrapper"]
 washingtonpost.com##[data-qa="newsletter"]
 washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
 washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
+washingtonpost.com###wall-bottom-drawer, .paywall-overlay
+washingtonpost.com##body:style(overflow: auto !important;)
 
 ! Arc Publishing
 ##.arc-ad-wrapper
