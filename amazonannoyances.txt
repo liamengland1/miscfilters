@@ -12,6 +12,7 @@
 ||micpn.com^$3p
 ||stats.live-video.net^
 ||frontier.a2z.com^
+||associates-amazon.com/abid/
 ||cloudfront-labs.amazonaws.com^
 ||landingpagepixels.s3.amazonaws.com^
 ||experiment.routing.cloudfront.aws.a2z.com^
