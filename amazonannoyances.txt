@@ -11,6 +11,7 @@
 ! ||amazon.dev^$3p
 ||micpn.com^$3p
 ||stats.live-video.net^
+||frontier.a2z.com^
 ||cloudfront-labs.amazonaws.com^
 ||landingpagepixels.s3.amazonaws.com^
 ||experiment.routing.cloudfront.aws.a2z.com^
