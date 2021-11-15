@@ -25,6 +25,7 @@
 /uedata?*&v=$important
 ||amazon.*/1/*/OE$important
 ||amazon.*/*msa/vowels/
+||amazon.*/af/feedback-link
 !/metrics$xmlhttprequest,other,image
 !stats/logImpressions
 ||amazon.*/logImp
