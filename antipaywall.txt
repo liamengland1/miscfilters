@@ -54,6 +54,7 @@ richmond.com##+js(acis, $, reg-wall)
 ||meter-svc.nytimes.com^
 ||nytimes.com^*/metered_assets/
 ||nyt.com^*/metered_assets$script
+||nytimes.com/svc/nyt/data-layer
 nytimes.com##.magnoliaDock
 nytimes.com##div[data-testid="inline-message"]
 nytimes.com##div[data-testid="expanded-dock"]
