@@ -139,7 +139,7 @@
 ||a2z.com/api/playbackStarted|
 ||a2z.com/api/*Clicked|
 ||a2z.com/api/autoPlayNotificationDismissed|
-||a2z.com/api/audioAdStarted|
+! ||a2z.com/api/audioAdStarted|
 ||a2z.com/api/actionDenied|
 ||cloudfront.net^*.mp3|$media,redirect=noopmp3-0.1s,domain=music.amazon.com|music.amazon.ca|music.amazon.co.uk|music.amazon.fr|music.amazon.de|music.amazon.it|music.amazon.es|music.amazon.co.jp|music.amazon.com.au|music.amazon.com.mx,important
 ! Amazon Music product pages
