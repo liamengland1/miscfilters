@@ -18,6 +18,7 @@
 ||experiment.routing.cloudfront.aws.a2z.com^
 ||profile.*.cloudfront.net^$domain=amazon.*|primevideo.com|imdb.com
 ||execute-api.*.amazonaws.com/gamma$xhr,domain=amazon.*
+||client.rum.*.amazonaws.com^$script,domain=amazon.*
 ://aax-*.amazon.$important
 ://fls-*.amazon.$important
 ://unagi.amazon.$important
