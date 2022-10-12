@@ -112,6 +112,7 @@
 ||amazon.*/gp/nemo/spd
 ||amazon.*/api/weblabs/
 ||amazon.*/cross_border_interstitial/
+||amazon.*/ah/ajax/counter
 ||gaming.amazon.com/fiber
 ||cloudfront.net/primesignup/$3p,domain=amazon.*
 /cdp/usage/*
@@ -132,6 +133,7 @@
 @@||a2z.com/api/next?$xhr
 @@||a2z.com/api/thumbsDown?$xhr
 @@||a2z.com/api/playbackFinished?$xhr
+@@||a2z.com/api/audioAdStarted?$xhr
 @@||a2z.com/api/audioAdFinished?$xhr
 ||a2z.com/api/actionDenied?info=
 ||a2z.com/api/showDynamicMessage|
@@ -269,7 +271,7 @@ amazon.*##^.amzn-safe-frame
 !amazon.*###merchandised-content
 amazon.*##.digital-deals-banner
 amazon.*##.recommendation-widget.a-section
-amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
+! amazon.*###ewc-smart-wagon-desktop-sideSheet:has(#smart-wagon-recommendations)
 amazon.*###promoGrid
 amazon.*##.nfcx-gok-flag-container:upward(.celwidget)
 amazon.*##[name="goKindleStaticPopDiv"]
