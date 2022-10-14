@@ -166,6 +166,7 @@
 /audible-seo-analytics/*
 ||audible.*/webplayer/*/logcounter
 ||audible.*/api/set-stat
+||live-video.net^
 
 ! Amazon element hiding
 
@@ -279,6 +280,7 @@ amazon.*##[name="goKindleStaticPopDiv"]
 amazon.*##[data-automation-id="top-banner-promo"]
 amazon.*##[data-automation-id="hero-quick-promo"]
 amazon.*##.olpMp3Slot
+amazon.*###live-flagship-root
 
 blog.aboutamazon.com##.PromoImage
 
