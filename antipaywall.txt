@@ -207,7 +207,7 @@ accuradio.com###playerSkipButton:style(display:inline!important)
 ||sendtonews.com^$3p
 ||accuradio.com/listener/track-adbreaks/
 ||aw1.accuradio.com^
-@@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
+! @@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
 
 ! The Hindu (thehindu.com)
 thehindu.com##.ad-ft
