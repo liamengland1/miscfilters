@@ -279,6 +279,7 @@ amazon.*##[name="goKindleStaticPopDiv"]
 amazon.*##[data-automation-id="top-banner-promo"]
 amazon.*##[data-automation-id="hero-quick-promo"]
 amazon.*##.olpMp3Slot
+amazon.*###desktop-editorial
 
 blog.aboutamazon.com##.PromoImage
 
