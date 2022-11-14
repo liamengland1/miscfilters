@@ -280,7 +280,7 @@ amazon.*##[data-automation-id="top-banner-promo"]
 amazon.*##[data-automation-id="hero-quick-promo"]
 amazon.*##.olpMp3Slot
 amazon.*###desktop-editorial
-amazon.com##.one-click-survey-card.a-cardui:upward(1)
+amazon.*##.one-click-survey-card.a-cardui:upward(1)
 
 blog.aboutamazon.com##.PromoImage
 
