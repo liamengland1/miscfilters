@@ -350,3 +350,6 @@ wired.com##.journey-unit, [class*="ConsumerMarketingUnit"]
 axios.com##[data-vars-experiment="pro-paywall"]
 axios.com##[class^="Modal_paywallContainer"]
 axios.com##html:style(overflow:inherit!important)
+
+! Fortune (fortune.com)
+fortune.com##+js(ra, class, .paywall)
