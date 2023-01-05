@@ -59,6 +59,7 @@
 ||yimg.com/oa/consent.js
 ||yimg.com/oa/guce$script
 ||yimg.com/rq/$script,important
+||yimg.com/rx/martini/
 ||yimg.com/rx/vrm/
 ||yimg.com/ss/rapid$script
 @@||s.yimg.com/ss/rapid$script,domain=cdn.launch3d.com|techcrunch.com|yahoo.com
