@@ -75,6 +75,7 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 
 ! Bloomberg (bloomberg.com)
 ||assets.bwbx.io^*/fence/$script
+@@||assets.bwbx.io/s3/fence/fortress-client/v1/app.bundle.js
 ||assets.bwbx.io^*/pianola/$script
 bloomberg.com###pathfinder-tout
 
