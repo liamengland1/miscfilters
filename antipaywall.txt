@@ -43,6 +43,7 @@
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
 richmond.com##+js(acis, $, reg-wall)
+mdjonline.com##+js(ra, style, .subscriber-only)
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
