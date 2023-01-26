@@ -354,3 +354,8 @@ axios.com##html:style(overflow:inherit!important)
 
 ! Fortune (fortune.com)
 fortune.com##+js(ra, class, .paywall)
+
+! Atlanta Journal-Constitution (ajc.com)
+ajc.com##.c-rightRail
+ajc.com##.c-contentElements:style(width:100%!important)
+
