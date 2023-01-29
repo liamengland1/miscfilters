@@ -360,3 +360,5 @@ fortune.com##+js(ra, class, .paywall)
 ajc.com##.c-rightRail
 ajc.com##.c-contentElements:style(width:100%!important)
 
+! La Tercera (latercera.com)
+||latercera.com/arc/subs/p.min.js
