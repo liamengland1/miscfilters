@@ -123,6 +123,7 @@ washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noop
 ###arcad_recirc
 ##.arc-ad
 ||cloudfront.net/prod/cloudfrontVideoTracker.png
+/arc/subs/p.min.js$~third-party
 
 ! The Economist (economist.com)
 economist.com##.advert
@@ -359,6 +360,3 @@ fortune.com##+js(ra, class, .paywall)
 ! Atlanta Journal-Constitution (ajc.com)
 ajc.com##.c-rightRail
 ajc.com##.c-contentElements:style(width:100%!important)
-
-! La Tercera (latercera.com)
-||latercera.com/arc/subs/p.min.js
