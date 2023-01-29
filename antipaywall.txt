@@ -31,6 +31,7 @@
 ||lightboxcdn.com^$third-party
 /coil-web-monetization/*
 ||taboola.com^$third-party
+||sophi.io^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
@@ -85,8 +86,7 @@ bloomberg.com###pathfinder-tout
 theglobeandmail.com###subscription-pencil-area
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 theglobeandmail.com##.container-with-ad
-theglobeandmail.com##+js(set, keytar.accessAllowed, true)
-theglobeandmail.com##+js(aopr, tgam.darwin.tests.segments.push)
+theglobeandmail.com##+js(set, Fusion.globalContent._id, '')
 
 ! Washington Post (washingtonpost.com)
 ||washingtonpost.com/pwapiv2/
@@ -206,7 +206,7 @@ thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_CONFIG_DATA__.enable
 ||accuradio.com/static/js/ltjs.js
 accuradio.com###playerSkipLoading
 accuradio.com###playerSkipButton:style(display:inline!important)
-||sendtonews.com^$3p
+||sendtonews.com^$third-party
 ||accuradio.com/listener/track-adbreaks/
 ||aw1.accuradio.com^
 ! @@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
@@ -246,10 +246,10 @@ clarin.com##div.sp__SM
 abqjournal.com###PopupSignupForm_0
 abqjournal.com###custom_html-16
 abqjournal.com##[id^="story-ad-"]
-||vidazoo.com^$3p
+||vidazoo.com^$third-party
 abqjournal.com###header-banner
 abqjournal.com#@##footer-banner
-||vidible.tv^$3p,domain=abqjournal.com
+||vidible.tv^$third-party,domain=abqjournal.com
 
 ! NZ Herald (nzherald.co.nz)
 nzherald.co.nz##.pb-f-article-related-articles
