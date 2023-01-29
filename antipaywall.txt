@@ -360,3 +360,9 @@ fortune.com##+js(ra, class, .paywall)
 ! Atlanta Journal-Constitution (ajc.com)
 ajc.com##.c-rightRail
 ajc.com##.c-contentElements:style(width:100%!important)
+
+! StuDocu (studocu.com)
+studocu.com##.page-content:style(filter: none !important; user-select: unset !important)
+studocu.com##button[data-test-selector^="preview-banner-"]:upward(#document-wrapper>div)
+studocu.com##.pf>:not(.page-content)
+
