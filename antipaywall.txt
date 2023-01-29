@@ -32,6 +32,7 @@
 /coil-web-monetization/*
 ||taboola.com^$third-party
 ||sophi.io^$third-party
+||zephr.com^$third-party
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
