@@ -97,6 +97,7 @@ theglobeandmail.com##+js(set, Fusion.globalContent._id, '')
 ||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 ||washingtonpost.com/pb/gr/c/default/*/identity-management-$script
 ||washingtonpost.com/pb/*/subscription-acquisition
+||washingtonpost.com/tetro/
 ||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
 ||arkadiumhosted.com/advertisement/
 ||subscribe.washingtonpost.com^
