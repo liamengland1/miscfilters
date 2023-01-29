@@ -5,7 +5,7 @@
 ! Homepage: https://github.com/llacb47/miscfilters
 ! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with uBlock Origin and Adguard.
-! It is recommended to use this list in combination with both Easylist and Easyprivacy.
+! It is recommended to use this list in combination with both Easylist and Easyprivacy and/or the default filterlists that are configured with your adblocker.
 
 ! General
 ||news.google.com/swg/$script,third-party
@@ -64,6 +64,7 @@ nytimes.com##div[data-testid="expanded-dock"]
 nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##.gdpr
 nytimes.com###credential_picker_container
+nytimes.com##[id*="story-ad-"][id*="wrapper"]
 !#if env_chromium
 nytimes.com##+js(set, navigator.storage.estimate, undefined)
 !#endif
