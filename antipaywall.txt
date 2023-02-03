@@ -214,6 +214,7 @@ accuradio.com###playerSkipButton:style(display:inline!important)
 ||accuradio.com/listener/track-adbreaks/
 ||aw1.accuradio.com^
 ! @@||a.pub.network/accuradio-com/pubfig.min.js$script,domain=accuradio.com
+||accuradio.tritondigital.com^
 
 ! The Hindu (thehindu.com)
 thehindu.com##.ad-ft
