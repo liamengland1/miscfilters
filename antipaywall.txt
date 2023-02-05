@@ -378,3 +378,6 @@ quora.com##.qu-overflow--hidden[class*="blocking_wall"]
 quora.com##.q-box[style*="filter: blur"]:style(filter:none !important)
 quora.com##body:style(overflow:auto !important)
 ||quora.com/ajax/receive_POST
+
+! Tampa Bay Times
+tampabay.com##.html-advertisement,.vert
