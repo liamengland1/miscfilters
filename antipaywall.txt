@@ -33,6 +33,7 @@
 ||taboola.com^$third-party
 ||sophi.io^$third-party
 ||zephr.com^$third-party
+||mng-digisubs-prod.com^
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
