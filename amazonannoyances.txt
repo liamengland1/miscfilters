@@ -186,6 +186,7 @@ amazon.*##.celwidget[data-cel-widget$="-SHOPPING_ADVISER"]
 amazon.*##.celwidget[data-cel-widget="MAIN-RELATED_VIDEOS"]
 amazon.*##.celwidget[data-cel-widget="MAIN-VIDEO_SINGLE_PRODUCT"]
 amazon.*##.celwidget[data-cel-widget^="huc-"][data-cel-widget*="-upsell-"]
+amazon.*##.celwidget[data-cel-widget*="-prominentUpsellSlot-"]
 amazon.*##.celwidget[data-cel-widget*="SponsoredProducts"]
 ! amazon.*##.celwidget[data-cel-widget*="-sims_"]
 amazon.*##.celwidget[data-cel-widget^="atf"]:has(>[id^="content-grid-widget-"])
@@ -283,6 +284,7 @@ amazon.*##[data-automation-id="hero-quick-promo"]
 amazon.*##.olpMp3Slot
 amazon.*###desktop-editorial
 amazon.*##.one-click-survey-card.a-cardui:upward(1)
+amazon.*###widget-rightUpsellSlot
 
 blog.aboutamazon.com##.PromoImage
 
