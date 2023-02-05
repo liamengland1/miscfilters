@@ -362,9 +362,9 @@ axios.com##html:style(overflow:inherit!important)
 ! Fortune (fortune.com)
 fortune.com##+js(ra, class, .paywall)
 
-! Atlanta Journal-Constitution (ajc.com)
-ajc.com##.c-rightRail
-ajc.com##.c-contentElements:style(width:100%!important)
+! Cox
+ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.c-rightRail
+ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.c-contentElements:style(width:100%!important)
 
 ! StuDocu (studocu.com)
 studocu.com##.page-content:style(filter: none !important; user-select: unset !important)
