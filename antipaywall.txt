@@ -177,6 +177,7 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||mg2connext.com^$third-party
 ||marketingg2.com^$third-party
 ||flittz.com^$third-party
+||wgchrrammzv.com^$third-party
 
 ! The Wrap (thewrap.com)
 thewrap.com##[id*="-box-ad-"]
