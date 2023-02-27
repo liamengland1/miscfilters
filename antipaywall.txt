@@ -179,6 +179,9 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||marketingg2.com^$third-party
 ||flittz.com^$third-party
 ||wgchrrammzv.com^$third-party
+||pranmcpkx.com^$third-party
+-proxy-connext.azurewebsites.net/api/$third-party
+||mg2insights.com^$third-party
 
 ! The Wrap (thewrap.com)
 thewrap.com##[id*="-box-ad-"]
@@ -366,6 +369,10 @@ fortune.com##+js(ra, class, .paywall)
 ! Cox
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.c-rightRail
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.c-contentElements:style(width:100%!important)
+||engage.ajc.com^
+||engage-fp.ajc.com^
+||engage-g2insights.ajc.com^
+||engage-connext.ajc.com^
 
 ! StuDocu (studocu.com)
 studocu.com##.page-content:style(filter: none !important; user-select: unset !important)
