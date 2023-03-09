@@ -53,6 +53,7 @@
 ||yimg.com/aaq/wf/wf-rapid-$script
 ||yimg.com/cv/~image
 ||yimg.com/cx/
+@@||s.yimg.com/cx/acookie/acookie.js$script
 ||yimg.com/dh/ap/ad/$important
 ||yimg.com/dy/ads/
 ||yimg.com/jk/gtm/
