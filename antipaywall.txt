@@ -59,6 +59,9 @@ mdjonline.com##+js(ra, style, .subscriber-only)
 ||nytimes.com^*/metered_assets/
 ||nyt.com^*/metered_assets$script
 ||nytimes.com/svc/nyt/data-layer
+||myaccount.nytimes.com/auth/iframe/*&asset=RegiWall
+||nytimes.com/unified_lire/
+||nytimes.com/lire_ui/
 nytimes.com##.magnoliaDock
 nytimes.com##div[data-testid="inline-message"]
 nytimes.com##div[data-testid="expanded-dock"]
@@ -66,6 +69,7 @@ nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##.gdpr
 nytimes.com###credential_picker_container
 nytimes.com##[id*="story-ad-"][id*="wrapper"]
+nytimes.com##+js(json-prune, data.user)
 !#if env_chromium
 nytimes.com##+js(set, navigator.storage.estimate, undefined)
 !#endif
