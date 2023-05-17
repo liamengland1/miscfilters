@@ -2,8 +2,8 @@
 ! Expires: 3 days
 ! Description: Filters for news websites, including filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Note: cookie notices will not be hidden by this list
-! Homepage: https://github.com/llacb47/miscfilters
-! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+! Homepage: https://github.com/liamengland1/miscfilters
+! License: https://github.com/liamengland1/miscfilters/blob/master/LICENSE
 ! This filterlist is compatible with uBlock Origin and Adguard.
 ! It is recommended to use this list in combination with both Easylist and Easyprivacy and/or the default filterlists that are configured with your adblocker.
 
@@ -274,6 +274,7 @@ nzherald.co.nz##+js(aopr, ArcPOptions)
 ! The Business Journals (bizjournals.com)
 bizjournals.com##.item--sponsored
 bizjournals.com##+js(set, __page__.isPremium, false)
+bizjournals.com##+js(set, __CX_TIMING__.ran, true)
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
