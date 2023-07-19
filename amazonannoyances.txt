@@ -123,6 +123,7 @@
 ||amazon.com/*/metrics/
 ://device-metrics-*.amazon.$important
 ||a2z.com/telemetry
+||a2z.com/metric-batch
 ||amazon.com/p/log/1/
 ! Ads on Amazon Prime Video / IMDB TV
 ||videorolls.row.aiv-cdn.net^$media,redirect=noopmp3-0.1s,domain=amazon.com|imdb.com,important
