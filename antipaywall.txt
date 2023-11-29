@@ -399,3 +399,7 @@ tampabay.com##.html-advertisement,.vert
 ! Forbes
 ||forbes.com/zephr/
 ||forbes.com/blaize/
+
+! NRC
+||nrc.nl/paywall-api
+||nrc.nl/tag/tag.js
