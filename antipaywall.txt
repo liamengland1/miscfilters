@@ -42,6 +42,7 @@
 ||townnews.com^*/tncms/*/metering/
 ||townnews.com^*/tncms/*/components/subscription/*/tnt.access.$script
 /tncms/api/access.js|$script
+/tncms/api/access.$script
 ##.tnt-section-sponsored
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
