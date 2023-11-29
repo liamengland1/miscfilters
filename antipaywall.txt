@@ -280,6 +280,8 @@ nzherald.co.nz##+js(aopr, ArcPOptions)
 bizjournals.com##.item--sponsored
 bizjournals.com##+js(set, __page__.isPremium, false)
 bizjournals.com##+js(set, __CX_TIMING__.ran, true)
+bizjournals.com##[data-dev="CX_WIDGET_article:wall"]
+bizjournals.com##[data-dev="Content Body"]:style(display:block!important)
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
