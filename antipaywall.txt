@@ -47,8 +47,8 @@
 ##.subscriber-ad
 ##.tnt-dmp-reactive.modal
 richmond.com##+js(acis, $, reg-wall)
-mdjonline.com##+js(ra, style, .subscriber-only)
-mdjonline.com##+js(rpnt, script, /if \(window.location.hash\)/, '/*start*/unscramble=function(r){for(var a="",n=0,t=r.length;n<t;n++){var e=r.charCodeAt(n);e>=33&&e<=126?(sTmp=String.fromCharCode(33+(e-33+47)%94),a+=sTmp):a+=r.charAt(n)}return a};document.querySelectorAll(".subscriber-only.encrypted-content").forEach(function(e){e.innerHTML=unscramble(e.textContent),e.classList.remove("encrypted-content")});/*end*/ if(window.location.hash)', sedCount, 1)
+abqjournal.com,mdjonline.com##+js(ra, style, .subscriber-only)
+abqjournal.com,mdjonline.com##+js(rpnt, script, /if \(window.location.hash\)/, '/*start*/unscramble=function(r){for(var a="",n=0,t=r.length;n<t;n++){var e=r.charCodeAt(n);e>=33&&e<=126?(sTmp=String.fromCharCode(33+(e-33+47)%94),a+=sTmp):a+=r.charAt(n)}return a};document.querySelectorAll(".subscriber-only.encrypted-content").forEach(function(e){e.innerHTML=unscramble(e.textContent),e.classList.remove("encrypted-content")});/*end*/ if(window.location.hash)', sedCount, 1)
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
@@ -153,6 +153,7 @@ bostonglobe.com##+js(set, bg.page.exemptFromMeter, true)
 qz.com##._6f0a2
 qz.com##[aria-labelledby="bottom-bar-primary-text"]
 ||qz.com/api/site/behavior
+||kinja-static.com/assets/new-client/renderRegwall.
 
 ! The Christian Science Monitor (csmonitor.com)
 csmonitor.com##[id^="csm-promotions-banner"]
@@ -165,12 +166,17 @@ csmonitor.com##+js(json-prune, ids meteredIds, modified)
 ! McClatchy sites
 ###ConnatixVideoAd
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone-el[data-feature="suggested"], .zone
-/yozons-lib/*$~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
-@@/yozons-lib/core.js$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
+/b-onszyloi/*$~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
+@@/b-onszyloi*core.js$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/escenic$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/micb.js|$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/misites/$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
+://media.*/ng.gif$xhr,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ||streamtheworld.com^*/idsync.js
+||vast.adtonos.com^
+||audioad.zenomedia.com^
+||yieldopt.spreaker.com^
+||petametrics.com^
 
 ! Naviga Global / Connext / Flittz
 ||czx5eyk0exbhwp43ya.biz^$third-party
@@ -194,7 +200,7 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 thewrap.com##[id*="-box-ad-"]
 
 ! El Mercurio - Print Edition (elmercurio.com)
-||merreader.emol.cl/assets/js/merPramV2.js$script,domain=elmercurio.com
+||digital.elmercurio.com/assets/js/merPramV2.js$script,domain=elmercurio.com
 
 ! Metroland Media Group / Torstar
 ! https://metroland.com/digital/community-news/
@@ -206,6 +212,9 @@ thewrap.com##[id*="-box-ad-"]
 ! thestar.com,thespec.com,therecord.com##.overlay.ReactModalPortal
 thestar.com,thespec.com,therecord.com##.c-partner-articles
 thestar.com,thespec.com,therecord.com##.c-button--subscribe
+thestar.com,thespec.com,therecord.com##.subscriber-only:style(display:inherit!important)
+thestar.com,thespec.com,therecord.com##.adLabelWrapper
+thestar.com,thespec.com,therecord.com##.subscriber-offers
 ||resources.thestar.com^
 /api/overlaydata$domain=thestar.com|thespec.com|therecord.com
 thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_STATE__.paywall, false)
