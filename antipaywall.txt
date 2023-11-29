@@ -89,6 +89,7 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 @@||assets.bwbx.io/s3/fence/fortress-client/v1/app.bundle.js
 ||assets.bwbx.io^*/pianola/$script
 bloomberg.com###pathfinder-tout
+bloomberg.com##+js(trusted-replace-fetch-response, /\"eligible\":false/, "eligible":true, gatehouse)
 
 ! The Globe and Mail (theglobeandmail.com)
 ||smartwall.theglobeandmail.com^
