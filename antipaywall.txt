@@ -176,7 +176,6 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||vast.adtonos.com^
 ||audioad.zenomedia.com^
 ||yieldopt.spreaker.com^
-||petametrics.com^
 
 ! Naviga Global / Connext / Flittz
 ||czx5eyk0exbhwp43ya.biz^$third-party
