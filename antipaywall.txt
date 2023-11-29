@@ -137,7 +137,7 @@ washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noop
 ! The Economist (economist.com)
 economist.com##.advert
 economist.com##.subscription-proposition
-economist.com##+js(json-prune, props)
+! economist.com##+js(json-prune, props)
 
 ! The Boston Globe (bostonglobe.com)
 bostonglobe.com##.meter-social-connect
