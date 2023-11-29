@@ -108,7 +108,7 @@ theglobeandmail.com##+js(set, Fusion.globalContent._id, '')
 ||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
 ||arkadiumhosted.com/advertisement/
 ||subscribe.washingtonpost.com^
-@@||subscribe.washingtonpost.com/user/$xhr,1p
+||targeting.washingtonpost.com^
 washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##.codedNewsletter.pb-f-page-newsletter-inLine
 washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
