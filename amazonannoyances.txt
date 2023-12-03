@@ -95,6 +95,7 @@
 ||amazon.*/ref-tag
 ||amazon.*/record-promo-
 ||amazon.*/dppui/event
+||amazon.*/dram/renderLazyLoaded
 ||amazon.*/gp/*/log?s=
 ||amazon.*/gp/cerberus/
 ||amazon.*/gp/*/promotions/
