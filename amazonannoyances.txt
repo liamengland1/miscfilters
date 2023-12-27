@@ -1,8 +1,8 @@
 ! Title: Amazon annoyances
 ! Expires: 3 days
 ! Description: Block annoyances, ads, and tracking on Amazon sites
-! Homepage: https://github.com/llacb47/miscfilters
-! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+! Homepage: https://github.com/liamengland1/miscfilters
+! License: https://github.com/liamengland1/miscfilters/blob/master/LICENSE
 
 ! Network rules 
 ! ||amazonpay.com^$3p
@@ -94,6 +94,7 @@
 ||amazon.*/record-metric.html
 ||amazon.*/ref-tag
 ||amazon.*/record-promo-
+||amazon.*/acp/*/track?*&hitType=
 ||amazon.*/dppui/event
 ||amazon.*/dram/renderLazyLoaded
 ||amazon.*/gp/*/log?s=
@@ -109,6 +110,7 @@
 ||amazon.*/gp/p13n-
 ||amazon.*/gp/ubp/misc/crossDomainLocalStorageWriter.html
 ||amazon.*/gp/ubp/misc/ping_pages/
+||amazon.*/gp/video/acquisition/utilities/monitoring
 ||amazon.*/gp/recent-history-
 ||amazon.*/gp/*/ajax/countMetrics.html
 ||amazon.*/gp/nemo/spd
