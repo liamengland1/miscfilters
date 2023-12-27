@@ -2,8 +2,8 @@
 ! Title: Filters for verizon media sites
 ! Expires: 3 days
 ! Description: 
-! Homepage: https://github.com/llacb47/miscfilters
-! License: https://github.com/llacb47/miscfilters/blob/master/LICENSE
+! Homepage: https://github.com/liamengland1/miscfilters
+! License: https://github.com/liamengland1/miscfilters/blob/master/LICENSE
 
 /cmpStub.$script
 /omniture.$script
