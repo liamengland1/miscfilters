@@ -13,6 +13,7 @@
 ||smartlock.google.com^
 /amp-access-$script
 ||tinypass.com^$third-party
+@@||piano.io/api/tinypass.min.js$script,domain=brusselstimes.com
 @@||experience.tinypass.com/xbuilder/$script,3p
 ||mediapass.com^$third-party
 ||scroll.com^$third-party
