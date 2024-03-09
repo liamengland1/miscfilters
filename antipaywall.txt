@@ -86,6 +86,7 @@ nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 ##.has-promotiom.lee-subscription-article-link
 
 ! Bloomberg (bloomberg.com)
+bloomberg.com###fortress-container-root
 ||assets.bwbx.io^*/fence/$script
 @@||assets.bwbx.io/s3/fence/fortress-client/v1/app.bundle.js
 ||assets.bwbx.io^*/pianola/$script
@@ -167,8 +168,8 @@ csmonitor.com##+js(json-prune, ids meteredIds, modified)
 ! McClatchy sites
 ###ConnatixVideoAd
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone-el[data-feature="suggested"], .zone
-/b-onszyloi/*$~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
-@@/b-onszyloi*core.js$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
+/zisloby-on/*$~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
+@@/zisloby-on*core.js$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/escenic$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/micb.js|$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ://media.*/misites/$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
@@ -179,20 +180,26 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||yieldopt.spreaker.com^
 
 ! Naviga Global / Connext / Flittz
-||czx5eyk0exbhwp43ya.biz^$third-party
-||ayc0zsm69431gfebd.info^$third-party
-||ayc0zsm69431gfebd.xyz^$third-party
-||g2insights-cdn.azureedge.net^$third-party
-||loader-cdn.azureedge.net^$third-party
-||fp-cdn.azureedge.net^$third-party
-||flittz-cdn.azureedge.net^$third-party
+||czx5eyk0exbhwp43ya.biz^
+||ayc0zsm69431gfebd.info^
+||ayc0zsm69431gfebd.xyz^
+||g2insights-cdn.azureedge.net^
+||loader-cdn.azureedge.net^
+||fp-cdn.azureedge.net^
+||flittz-cdn.azureedge.net^
 ||prod-mng-proxy-connext.azurewebsites.net^$third-party
 ||connext-cdn.ec.azureedge.net^$third-party
 ||mg2connext.com^$third-party
 ||marketingg2.com^$third-party
 ||flittz.com^$third-party
-||wgchrrammzv.com^$third-party
-||pranmcpkx.com^$third-party
+||wgchrrammzv.com^
+||pranmcpkx.com^
+||enterombacerick.com^
+||o1ych4jb.com^
+||mircheigeshoa.com^
+||tepatonol.com^
+||sy57d8wi.com^
+||apharponloun.com^
 -proxy-connext.azurewebsites.net/api/$third-party
 ||mg2insights.com^$third-party
 
@@ -222,6 +229,8 @@ thestar.com,thespec.com,therecord.com##+js(set, __PRELOADED_CONFIG_DATA__.enable
 
 ! Tribune Publishing sites
 ||tribdss.com^$third-party
+/static/loader.min.js$first-party,domain=baltimoresun.com|capitalgazette.com|chicagotribune.com|citypaper.com|courant.com|dailypress.com|mcall.com|nydailynews.com|orlandosentinel.com|pilotonline.com|sun-sentinel.com
+baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,courant.com,dailypress.com,mcall.com,nydailynews.com,orlandosentinel.com,pilotonline.com,sun-sentinel.com##.feature-wrapper:style(width:100%!important)
 
 ! CricketArchive (cricketarchive.com)
 ||my.cricketarchive.com/action/public/vo/pigeon-server?callback=PGPW&json=*content_access
@@ -298,6 +307,12 @@ bizjournals.com##+js(set, __page__.isPremium, false)
 bizjournals.com##+js(set, __CX_TIMING__.ran, true)
 bizjournals.com##[data-dev="CX_WIDGET_article:wall"]
 bizjournals.com##[data-dev="Content Body"]:style(display:block!important)
+bizjournals.com##[data-dev="CxWidget_article:wall"]
+bizjournals.com##[data-dev="ContentTease"]
+bizjournals.com##[data-dev="ContentTease"]+div:style(display:inherit!important)
+bizjournals.com##p.paywall-content:style(display:inherit!important)
+bizjournals.com##.js-gpt-set
+bizjournals.com###RightRail>div:has(.adwrap.IslandPrime)
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
@@ -308,6 +323,8 @@ australvaldivia.cl##+js(remove-attr, oncontextmenu)
 ||harpers.org^*/leaky-paywall/
 ||netdna-ssl.com^*/leaky-paywall/$domain=harpers.org
 harpers.org##.entry-content:style(display:block!important)
+harpers.org##+js(remove-cookie, hr_session)
+harpers.org##.cta-bar
 
 ! Charlie Hebdo (charliehebdo.fr)
 charliehebdo.fr##+js(aopr, poool)
