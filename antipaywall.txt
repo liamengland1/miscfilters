@@ -410,3 +410,7 @@ tampabay.com##.html-advertisement,.vert
 ! NRC
 ||nrc.nl/paywall-api
 ||nrc.nl/tag/tag.js
+
+! Advance
+al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##+js(set, adiData.entryTags, '')
+al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##+js(set, adiData.entryTagsArray, undefined)
