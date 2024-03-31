@@ -440,3 +440,9 @@ al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,nj.com,oregonli
 ! Fox News
 foxnews.com##.gated-article-body.has-gated-overlay:style(height:auto!important;overflow:show!important)
 foxnews.com##.show-gate.gated-overlay.article-gating
+
+! Business Insider
+||businessinsider.com/chunks/scripts/piano.
+||businessinsider.com/chunks/scripts/components~paywall-
+||businessinsider.com/ajax/render-component?path=paywall
+
