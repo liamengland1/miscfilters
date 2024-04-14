@@ -411,6 +411,8 @@ ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##
 ||engage-fp.ajc.com^
 ||engage-g2insights.ajc.com^
 ||engage-connext.ajc.com^
+@@||cdn.tinypass.com/api/tinypass.min.js$script,domain=www.ajc.com
+ajc.com##+js(rc, story-paygate_placeholder, div.c-articleBodyContainer>div>div)
 
 ! StuDocu (studocu.com)
 studocu.com##.page-content:style(filter: none !important; user-select: unset !important)
