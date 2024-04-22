@@ -450,3 +450,6 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 ||businessinsider.com/chunks/scripts/components~paywall-
 ||businessinsider.com/ajax/render-component?path=paywall
 
+!! (Germany) Zeitungsverlag Waiblingen
+www.zvw.de##.paywall:remove-class(paywall)
+www.zvw.de##.nfy-products-teaser
