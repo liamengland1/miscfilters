@@ -453,3 +453,5 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 ||businessinsider.com/chunks/scripts/components~paywall-
 ||businessinsider.com/ajax/render-component?path=paywall
 
+! Daily Fail
+/zephr$domain=dailymail.co.uk
