@@ -408,6 +408,7 @@ ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.c-contentElements:style(width:100%!important)
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##body .c-articleContent .c-articleBodyContainer.isSingleColumnArticle.is-deferred>.c-section>.c-contentElements+.story-paygate_placeholder .c-contentElements:style(display:inherit!important)
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.story-paygate_placeholder>.c-contentElements>*:style(filter:none!important;pointer-events:auto!important)
+ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##[data-pagezone="article-body"]>div>div>*:style(filter:none!important;pointer-events:auto!important)
 ajc.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,dayton.com##.subscription-promo
 ||engage.ajc.com^
 ||engage-fp.ajc.com^
