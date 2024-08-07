@@ -242,7 +242,7 @@ amazon.*###WLHUC_recs
 amazon.*###WLHUC_footer
 amazon.*##.hushpuppyWidget
 amazon.*###hpUpsellLanding
-amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
+! amazon.*##.celwidget[href][data-cel-widget=""]:upward(.a-section)
 amazon.*##.kindle-typ-recs-wrapper
 ! amazon.*##.a-carousel-container:upward(.a-row)
 ! amazon.*##.a-row:has(a[href*="&pf_rd_r"]):has-text(moreInfoExpandedRefTag)
