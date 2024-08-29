@@ -320,6 +320,10 @@ bizjournals.com##[data-dev="ContentTease"]+div:style(display:inherit!important)
 bizjournals.com##p.paywall-content:style(display:inherit!important)
 bizjournals.com##.js-gpt-set
 bizjournals.com###RightRail>div:has(.adwrap.IslandPrime)
+bizjournals.com##html, body:style(overflow: inherit!important)
+bizjournals.com##div[data-dev^="CxWidget_site"][data-dev*="marketing"]
+bizjournals.com###MarketSubOffer, #cxense_bottom_bar
+bizjournals.com##.paywall-content>.print\:hidden
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
