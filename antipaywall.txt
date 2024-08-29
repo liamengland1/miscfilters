@@ -274,10 +274,14 @@ beaumontenterprise.com,bigrapidsnews.com,chron.com,comicskingdom.com,ctinsider.c
 
 ! Clarín (clarin.com)
 ||clarin.com/commons/sw/
-clarin.com###nl-box
-clarin.com##div.sp__SM
 ||st-wzb.clarin.com/weizenbock/
 ||static.clarin.com/commons/js/weizenbock.js
+||zonda.clarin.com^
+||clarin.com/js/zonda-m.js
+clarin.com###nl-box
+clarin.com##div.sp__SM
+clarin.com###cuerpo:style(display:inherit!important;visibility:inherit!important)
+clarin.com##.bannerTopHeader
 
 ! Albuquerque Journal (abqjournal.com)
 ||tags.creativille.co.uk^$third-party
