@@ -124,6 +124,8 @@ washingtonpost.com##.pb-f-ads-arcads
 washingtonpost.com##.pb-f-page-subscription-remind-later
 washingtonpost.com##.pb-lgmod
 washingtonpost.com##.promo
+washingtonpost.com#@#wp-ad[class]
+washingtonpost.com##wp-ad[class]:not(.orca-new)
 washingtonpost.com##[class^="pb-f-ad-"]
 washingtonpost.com##[data-chain-name="brandconnect-chain"]
 washingtonpost.com##[data-chain-name^="ad-group"]
@@ -133,6 +135,7 @@ washingtonpost.com##[data-qa="interstitial-link-wrapper"]
 washingtonpost.com##[data-qa="newsletter"]
 washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
 washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
+washingtonpost.com##+js(nano-stb, /Iris setup/, 6000)
 
 ! Arc Publishing
 ##.arc-ad-wrapper
