@@ -467,3 +467,7 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 
 ! Daily Fail / Zephr
 /zephr$domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com
+
+! CNN
+cnn.com##body>[class*="reg-wall"]
+cnn.com##html:style(overflow:auto!important)
