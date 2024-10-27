@@ -471,3 +471,6 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 ! CNN
 cnn.com##body>[class*="reg-wall"]
 cnn.com##html:style(overflow:auto!important)
+
+! La Tercera
+latercera.com##+js(set, Fusion.globalContent.content_restrictions, {})
