@@ -474,3 +474,6 @@ cnn.com##html:style(overflow:auto!important)
 
 ! La Tercera
 latercera.com##+js(set, Fusion.globalContent.content_restrictions, {})
+
+! Military.com
+military.com##+js(json-prune, viewCount)
