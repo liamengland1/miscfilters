@@ -466,7 +466,7 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 ||businessinsider.com/ajax/render-component?path=paywall
 
 ! Daily Fail / Zephr
-/zephr$domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com
+/zephr$domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com|nysun.com
 
 ! CNN
 cnn.com##body>[class*="reg-wall"]
