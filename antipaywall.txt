@@ -409,6 +409,7 @@ wired.com##.journey-unit, [class*="ConsumerMarketingUnit"]
 ! Axios (axios.com)
 ||axios.com/api/v1/licenses
 axios.com##[data-vars-experiment="pro-paywall"]
+axios.com##[data-cy="pro-paywall"]
 axios.com##[class^="Modal_paywallContainer"]
 axios.com##html:style(overflow:inherit!important)
 
