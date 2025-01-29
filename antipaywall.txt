@@ -477,3 +477,8 @@ latercera.com##+js(set, Fusion.globalContent.content_restrictions, {})
 
 ! Military.com
 military.com##+js(json-prune, viewCount)
+
+! Foreign Policy
+foreignpolicy.com##+js(set, FP.Utils.Piano, {})
+foreignpolicy.com##.content-gated:style(display:inherit!important)
+foreignpolicy.com##.content-ungated::before:style(content:none!important)
