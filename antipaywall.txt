@@ -482,3 +482,6 @@ military.com##+js(json-prune, viewCount)
 foreignpolicy.com##+js(set, FP.Utils.Piano, {})
 foreignpolicy.com##.content-gated:style(display:inherit!important)
 foreignpolicy.com##.content-ungated::before:style(content:none!important)
+
+! NOLA / Advocate
+nola.com,theadvocate.com,shreveportbossieradvocate.com##+js(aeld, DOMContentLoaded, checkAdsBlocked)
