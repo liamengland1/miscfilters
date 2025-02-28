@@ -112,6 +112,7 @@ theglobeandmail.com##+js(set, Fusion.globalContent._id, '')
 ||washingtonpost.com/tetro/
 ||washingtonpost.com/*/tetro-client/
 ||washingtonpost.com/zeus/
+@@||washingtonpost.com/zeus/main.js$script,1p
 ||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
 ||arkadiumhosted.com/advertisement/
 ||subscribe.washingtonpost.com^
