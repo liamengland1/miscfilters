@@ -488,3 +488,6 @@ foreignpolicy.com##.content-ungated::before:style(content:none!important)
 
 ! NOLA / Advocate
 nola.com,theadvocate.com,shreveportbossieradvocate.com##+js(aeld, DOMContentLoaded, checkAdsBlocked)
+
+! The Intercept
+theintercept.com##+js(set, userData_.privacyEnhanced, true)
