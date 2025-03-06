@@ -11,7 +11,7 @@
 ||news.google.com/swg/$script,third-party
 ||accounts.google.com/gsi/$~script
 ||smartlock.google.com^
-/amp-access-$script
+/amp-access-$script,domain=~dictionary.cambridge.org
 ||tinypass.com^$third-party
 @@||piano.io/api/tinypass.min.js$script,domain=brusselstimes.com
 @@||experience.tinypass.com/xbuilder/$script,3p
