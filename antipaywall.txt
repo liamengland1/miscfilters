@@ -35,6 +35,7 @@
 ||sophi.io^$third-party
 ||zephr.com^$third-party
 ||mng-digisubs-prod.com^
+||yourbow.com^$3p
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
@@ -207,6 +208,7 @@ bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com
 ||tepatonol.com^
 ||sy57d8wi.com^
 ||apharponloun.com^
+/\.com\/prod\/[\w]+\/loader.min.js/$script,3p
 -proxy-connext.azurewebsites.net/api/$third-party
 ||mg2insights.com^$third-party
 
