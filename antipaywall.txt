@@ -50,7 +50,7 @@
 ##.tnt-dmp-reactive.modal
 richmond.com##+js(acis, $, reg-wall)
 *##html:has(>head>meta[name="tncms-access-version"]) .subscriber-only:style(display:block!important)
-abqjournal.com,mdjonline.com,santafenewmexican.com,northwestgeorgianews.com,idahopress.com,mainstreetnews.com,wvnews.com,albanyherald.com,djournal.com,thesunchronicle.com,lagrandeobserver.com##+js(rpnt, script, /if \(window.location.hash\)/, '/*start*/unscramble=function(r){for(var a="",n=0,t=r.length;n<t;n++){var e=r.charCodeAt(n);e>=33&&e<=126?(sTmp=String.fromCharCode(33+(e-33+47)%94),a+=sTmp):a+=r.charAt(n)}return a};document.querySelectorAll(".subscriber-only.encrypted-content").forEach(function(e){e.innerHTML=unscramble(e.textContent),e.classList.remove("encrypted-content")});/*end*/ if(window.location.hash)', sedCount, 2)
+abqjournal.com,mdjonline.com,santafenewmexican.com,northwestgeorgianews.com,idahopress.com,mainstreetnews.com,wvnews.com,albanyherald.com,djournal.com,thesunchronicle.com,lagrandeobserver.com,annistonstar.com##+js(rpnt, script, /if \(window.location.hash\)/, '/*start*/unscramble=function(r){for(var a="",n=0,t=r.length;n<t;n++){var e=r.charCodeAt(n);e>=33&&e<=126?(sTmp=String.fromCharCode(33+(e-33+47)%94),a+=sTmp):a+=r.charAt(n)}return a};document.querySelectorAll(".subscriber-only.encrypted-content").forEach(function(e){e.innerHTML=unscramble(e.textContent),e.classList.remove("encrypted-content")});/*end*/ if(window.location.hash)', sedCount, 2)
 
 ! Los Angeles Times (latimes.com)
 ||californiatimes.com^*/Bootstrap.js$script
