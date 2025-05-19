@@ -491,5 +491,12 @@ foreignpolicy.com##.content-ungated::before:style(content:none!important)
 ! NOLA / Advocate
 nola.com,theadvocate.com,shreveportbossieradvocate.com##+js(aeld, DOMContentLoaded, checkAdsBlocked)
 
+! Issuu
+issuu.com##+js(trusted-replace-xhr-response, /\"gated\":true/, "gated":false, call)
+issuu.com##+js(trusted-replace-xhr-response, /\"download\":0/, "download":1, call)
+issuu.com##+js(trusted-replace-xhr-response, /\"embed\":0/, "embed":1, call)
+issuu.com##+js(trusted-replace-xhr-response, /\"hide_ads_in_reader\":0/, "hide_ads_in_reader":1, call)
+
+
 ! The Intercept
 theintercept.com##+js(set, userData_.privacyEnhanced, true)
