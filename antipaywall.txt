@@ -37,6 +37,7 @@
 ||mng-digisubs-prod.com^
 ||yourbow.com^$3p
 /wp-content/plugins/incognito_dectector/*
+/wp-content/plugins/leaky-paywall*.js
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
@@ -500,3 +501,6 @@ issuu.com##+js(trusted-replace-xhr-response, /\"gated\":true/, "gated":false, ca
 issuu.com##+js(trusted-replace-xhr-response, /\"download\":0/, "download":1, call)
 issuu.com##+js(trusted-replace-xhr-response, /\"embed\":0/, "embed":1, call)
 issuu.com##+js(trusted-replace-xhr-response, /\"hide_ads_in_reader\":0/, "hide_ads_in_reader":1, call)
+
+! Chilkat Valley News
+chilkatvalleynews.com##.entry-content:style(display:inherit!important)
