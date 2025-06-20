@@ -36,6 +36,7 @@
 ||zephr.com^$third-party
 ||mng-digisubs-prod.com^
 ||yourbow.com^$3p
+/wp-content/plugins/incognito_dectector/*
 
 ! Blox CMS - Town News
 @@||townnews.com^*/tncms/*/ads/*/tnt.ads.advertisements.$script
