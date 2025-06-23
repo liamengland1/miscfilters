@@ -504,3 +504,6 @@ issuu.com##+js(trusted-replace-xhr-response, /\"hide_ads_in_reader\":0/, "hide_a
 
 ! Chilkat Valley News
 chilkatvalleynews.com##.entry-content:style(display:inherit!important)
+
+! Blackshear Times
+theblacksheartimes.com##+js(cookie-remover, _etype_fv)
