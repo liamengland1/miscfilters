@@ -475,6 +475,9 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 
 ! Daily Fail / Zephr
 /zephr$domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com|nysun.com
+dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody] *:nth-child(n+3),body.is-paywalled-article.mol-mobile .scrollable-content>article,body.is-paywalled-article.mol-mobile .scrollable-content>article *:nth-child(n+28):style(display:inherit!important)
+dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody]::after:style(content:none!important)
+dailymail.co.uk##body.is-paywalled-article.mol-mobile .scrollable-content>article:style(padding-bottom:0!important)
 
 ! CNN
 cnn.com##body>[class*="reg-wall"]
