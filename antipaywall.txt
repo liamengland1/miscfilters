@@ -508,3 +508,9 @@ chilkatvalleynews.com##.entry-content:style(display:inherit!important)
 
 ! Blackshear Times
 theblacksheartimes.com##+js(cookie-remover, _etype_fv)
+
+! Honolulu Star-Advertiser
+www.staradvertiser.com###paywall-screen
+www.staradvertiser.com##.modal-backdrop
+www.staradvertiser.com##body:style(overflow:inherit!important)
+www.staradvertiser.com###hsa-paywall-content:style(display:inherit!important)
