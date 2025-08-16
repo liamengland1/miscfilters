@@ -208,6 +208,8 @@ amazon.*##.celwidget[data-feature-name="heimdallShoppingCxFeedback"]
 amazon.*##.celwidget[data-feature-name="ebooksEmailSubscription"]
 amazon.*##.celwidget[data-feature-name="pBookUpsell"]
 amazon.*##.celwidget[data-feature-name="valuePick"]:has(a:has-text(/AmazonBasics/))
+amazon.*##.celwidget[data-feature-name="heroQuickPromoContainer"]
+amazon.*##.celwidget[data-feature-name="primeDPUpsellStaticContainer"]
 amazon.*##.s-result-item:has(.celwidget[class*="loom-desktop"])
 amazon.*###desktop-banner
 amazon.*###hero-quick-promo
