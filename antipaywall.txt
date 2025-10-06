@@ -519,3 +519,10 @@ www.staradvertiser.com###paywall-screen
 www.staradvertiser.com##.modal-backdrop
 www.staradvertiser.com##body:style(overflow:inherit!important)
 www.staradvertiser.com###hsa-paywall-content:style(display:inherit!important)
+
+! SOFREP
+sofrep.com###paywall_wrap
+sofrep.com##.paywall~div>.fader
+sofrep.com##.paywall:style(display:inherit!important)
+sofrep.com###scrollerCTA
+sofrep.com##.non-paywall:has(+.paywall)
