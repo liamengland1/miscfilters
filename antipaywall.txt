@@ -526,3 +526,7 @@ sofrep.com##.paywall~div>.fader
 sofrep.com##.paywall:style(display:inherit!important)
 sofrep.com###scrollerCTA
 sofrep.com##.non-paywall:has(+.paywall)
+
+! Gothamist
+gothamist.com##.wall-wrapper
+gothamist.com##.content-wall:style(--content-wall-height:unset!important)
