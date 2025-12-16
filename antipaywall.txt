@@ -438,6 +438,9 @@ ajc.com,uatl.com,daytondailynews.com,springfieldnewssun.com,journal-news.com,day
 ajc.com##+js(rc, story-paygate_placeholder, div.c-articleBodyContainer>div>div)
 ajc.com,uatl.com##+js(rpnt, script, self.__next_f.push, /*start*/document.addEventListener("DOMContentLoaded"\,function(){x=(x=__next_f.filter(t=>t.some(t=>"string"==typeof t&&t.includes('{"contentData"')))[0].filter(t=>"number"!=typeof t)[0]).substring(x.indexOf("{")\,x.length-2)\,data=JSON.parse(x).contentData.content_elements.filter(t=>"text"==t.type)\,(p=document.querySelectorAll("article>p[data-index]")).forEach((t\,e)=>{data[e]&&(t.innerHTML=data[e].content)})});/*end*/ self.__next_f.push, sedCount, 1)
 ajc.com,uatl.com##.is-paywalled>*:style(--tw-blur:none!important;filter:none!important;pointer-events:inherit!important)
+ajc.com##.arc_ad.c-rightRail:upward(1):not(:has(div[data-sectiontitle]))
+ajc.com##main>.chain-container>.right-rail>.grid:style(width:unset!important)
+ajc.com##main>.chain-container>.right-rail:style(grid-template-columns:unset!important)
 
 ! StuDocu (studocu.com)
 studocu.com##.page-content:style(filter: none !important; user-select: unset !important)
