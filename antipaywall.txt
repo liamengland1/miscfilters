@@ -533,3 +533,8 @@ sofrep.com##.non-paywall:has(+.paywall)
 ! Gothamist
 gothamist.com##.wall-wrapper
 gothamist.com##.content-wall:style(--content-wall-height:unset!important)
+
+! Jewish Insider
+jewishinsider.com##.regModalOuter
+jewishinsider.com##article>section.body:style(height:unset!important;overflow:unset!important)
+
