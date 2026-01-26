@@ -541,10 +541,10 @@ jewishinsider.com##.regModalOuter
 jewishinsider.com##article>section.body:style(height:unset!important;overflow:unset!important)
 
 ! PubGen.ai
-semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com##+js(acis, self.__next_f.push, articleAccess)
-semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com##+js(set-local-storage-item, articleCount, $remove$)
-semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com##+js(no-fetch-if, /_rsc/)
-semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com###block-email-capture-ad, #related-articles-ad, #chatbot
+semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com,fstribune.com,nevadadailymail.com,thebannerpress.com##+js(acis, self.__next_f.push, articleAccess)
+semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com,fstribune.com,nevadadailymail.com,thebannerpress.com##+js(set-local-storage-item, articleCount, $remove$)
+semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com,fstribune.com,nevadadailymail.com,thebannerpress.com##+js(no-fetch-if, /_rsc/)
+semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.com,pemiscotpress.com,theprospectnews.com,neatowncourier.com,osceolatimes.com,fstribune.com,nevadadailymail.com,thebannerpress.com###block-email-capture-ad, #related-articles-ad, #chatbot
 ||pubgen-analytics.*.workers.dev/collect
 
 ! Stereogum
