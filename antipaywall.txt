@@ -552,6 +552,6 @@ semissourian.com,standard-democrat.com,dexterstatesman.com,darnews.com,dddnews.c
 ||t.stereogum.com^
 stereogum.com##+js(set, Node.prototype.removeChild, noopFunc)
 stereogum.com##[class^="ContentGate"]
-stereogum.com##+js(rc, PostContent_truncate__kb5ti, .PostContent_truncate__kb5ti)
+stereogum.com##+js(ra, class, [class^="PostContent_truncate"])
 stereogum.com##+js(aeld, click)
 
