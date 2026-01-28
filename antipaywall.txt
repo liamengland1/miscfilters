@@ -483,6 +483,7 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 
 ! Daily Fail / Zephr
 /zephr/*$1p,domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com|nysun.com|nzherald.co.nz|theglobeandmail.com|theatlantic.com
+||newzware.com/zephr/
 dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody] *:nth-child(n+3),body.is-paywalled-article.mol-mobile .scrollable-content>article,body.is-paywalled-article.mol-mobile .scrollable-content>article *:nth-child(n+28):style(display:inherit!important)
 dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody]::after:style(content:none!important)
 dailymail.co.uk##body.is-paywalled-article.mol-mobile .scrollable-content>article:style(padding-bottom:0!important)
@@ -556,3 +557,6 @@ stereogum.com##[class^="ContentGate"]
 stereogum.com##+js(ra, class, [class^="PostContent_truncate"])
 stereogum.com##+js(aeld, click)
 
+! Lorain County Printing and Publishing
+medina-gazette.com,chroniclet.com##+js(rpnt, script, /_returnPageLink/, checkElement=setInterval(()=>{document.querySelector(".summary")&&(document.querySelector(".summary").innerHTML=JSON.parse(document.querySelector('script[type="application/ld+json"]').innerText).articleBody.replaceAll("\n"\,"<p>")\,clearInterval(checkElement))}\,500);_returnPageLink, sedCount, 1)
+medina-gazette.com,chroniclet.com##.auth_provider_widget
