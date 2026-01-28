@@ -307,6 +307,9 @@ abqjournal.com##[id^="story-ad-"]
 abqjournal.com###header-banner
 abqjournal.com#@##footer-banner
 ||vidible.tv^$third-party,domain=abqjournal.com
+||abqjournal.com/view-resources/public/common/Paywall.js
+abqjournal.com##.bodytext>*:style(display:inherit!important)
+abqjournal.com##+js(remove-cookie, nwpagetrac)
 
 ! NZ Herald (nzherald.co.nz)
 nzherald.co.nz##.pb-f-article-related-articles
