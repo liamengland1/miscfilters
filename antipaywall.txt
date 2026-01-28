@@ -100,7 +100,6 @@ bloomberg.com##+js(trusted-replace-fetch-response, /\"eligible\":false/, "eligib
 ! The Globe and Mail (theglobeandmail.com)
 ||smartwall.theglobeandmail.com^
 ||theglobeandmail.com/*/zephr-browser/
-||theglobeandmail.com/zephr/
 theglobeandmail.com###subscription-pencil-area
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 theglobeandmail.com##.container-with-ad
@@ -390,7 +389,6 @@ nationalgeographic.com##+js(aeld, scroll)
 ||sparklingshelf.com^
 theatlantic.com##+js(cookie-remover, articleViews)
 theatlantic.com##[class^="Paywall"]
-||theatlantic.com/zephr/
 
 ! Time (time.com)
 ||time.com/dist/authentication.js
@@ -461,7 +459,6 @@ quora.com##body:style(overflow:auto !important)
 tampabay.com##.html-advertisement,.vert
 
 ! Forbes
-||forbes.com/zephr/
 ||forbes.com/blaize/
 
 ! NRC
@@ -482,7 +479,7 @@ foxnews.com##.show-gate.gated-overlay.article-gating
 ||businessinsider.com/ajax/render-component?path=paywall
 
 ! Daily Fail / Zephr
-/zephr$domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com|nysun.com
+/zephr/*$1p,domain=nrc.nl|dailymail.co.uk|forbes.com|irishtimes.com|nysun.com|nzherald.co.nz|theglobeandmail.com|theatlantic.com
 dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody] *:nth-child(n+3),body.is-paywalled-article.mol-mobile .scrollable-content>article,body.is-paywalled-article.mol-mobile .scrollable-content>article *:nth-child(n+28):style(display:inherit!important)
 dailymail.co.uk##body.is-paywalled-article.mol-desktop div[itemprop=articleBody]::after:style(content:none!important)
 dailymail.co.uk##body.is-paywalled-article.mol-mobile .scrollable-content>article:style(padding-bottom:0!important)
