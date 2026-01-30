@@ -560,3 +560,7 @@ stereogum.com##+js(aeld, click)
 ! Lorain County Printing and Publishing
 medina-gazette.com,chroniclet.com##+js(rpnt, script, /_returnPageLink/, checkElement=setInterval(()=>{document.querySelector(".summary")&&(document.querySelector(".summary").innerHTML=JSON.parse(document.querySelector('script[type="application/ld+json"]').innerText).articleBody.replaceAll("\n"\,"<p>")\,clearInterval(checkElement))}\,500);_returnPageLink, sedCount, 1)
 medina-gazette.com,chroniclet.com##.auth_provider_widget
+
+! Music Business Worldwide
+musicbusinessworldwide.com##.mb-article__body:style(display:inherit!important)
+
