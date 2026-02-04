@@ -337,7 +337,7 @@ bizjournals.com##html, body:style(overflow: inherit!important)
 bizjournals.com##div[data-dev^="CxWidget_site"][data-dev*="marketing"]
 bizjournals.com###MarketSubOffer, #cxense_bottom_bar
 bizjournals.com##.paywall-content>.print\:hidden
-bizjournals.com##+js(rpnt, script, '/"(standard|peakNews)"/', '"nativeAd"', sedCount, 1)
+bizjournals.com##+js(rpnt, script, '/"(standard|peakNews|breakingNews)"/', '"nativeAd"', sedCount, 1)
 bizjournals.com##[data-dev="MovableAd"]
 bizjournals.com##a[id^="cXLink"]:upward(#headlessui-portal-root)
 bizjournals.com##[data-dev="PromoListings"]
