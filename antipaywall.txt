@@ -596,3 +596,6 @@ afr.com##+js(rpnt, script, /tp = window.tp/, 'setTimeout(function(){eval=window.
 ||gcprivacy.id^
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=www.reviewjournal.com
 @@||vms-videos.minutemediaservices.com^
+
+! EJP
+ejewishphilanthropy.com##+js(acis, jQuery)
