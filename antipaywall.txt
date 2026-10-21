@@ -599,3 +599,8 @@ afr.com##+js(rpnt, script, /tp = window.tp/, 'setTimeout(function(){eval=window.
 
 ! EJP
 ejewishphilanthropy.com##+js(acis, jQuery)
+
+! SLTRIB
+||flip-pay.com^$3p
+||clientside-collector-*.run.app/tag.js
+
