@@ -98,6 +98,12 @@ bloomberg.com###fortress-container-root
 ||assets.bwbx.io^*/pianola/$script
 bloomberg.com###pathfinder-tout
 bloomberg.com##+js(trusted-replace-fetch-response, /\"eligible\":false/, "eligible":true, gatehouse)
+@@||assets.bwbx.io/s3/wall-e/
+bloomberg.com##+js(trusted-replace-fetch-response, /\"eligible\":false/, "eligible":true, gatehouse)
+bloomberg.com##+js(trusted-replace-fetch-response, /.*/, {"global":{"wallConfigEnabled":{"id":"wallConfigEnabled"\,"name":"Wall Config Enabled"\,"config":{"enableWallConfig":false}}}}, /wall-config\.json/)
+bloomberg.com##+js(trusted-replace-fetch-response, /.*/, {"access":"allow"\,"shouldShowWall":false\,"statsigTarget":{"type":"audience"\,"audienceId":"hello_world"}}, /paywall-decision/)
+bloomberg.com##+js(no-fetch-if, method:POST /prodregistryv2/)
+||assets.bwbx.io/s3/sparkle/
 
 ! The Globe and Mail (theglobeandmail.com)
 ||smartwall.theglobeandmail.com^
