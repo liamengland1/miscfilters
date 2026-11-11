@@ -352,6 +352,7 @@ bizjournals.com##+js(rpnt, script, '/"(standard|peakNews|breakingNews|taEvergree
 bizjournals.com##[data-dev="MovableAd"]
 bizjournals.com##a[id^="cXLink"]:upward(#headlessui-portal-root)
 bizjournals.com##[data-dev="PromoListings"]
+bizjournals.com##+js(set, tp.pianoId, {})
 
 ! Diario Austral (australvaldivia.cl)
 australvaldivia.cl##+js(set, app.isPortada, true)
